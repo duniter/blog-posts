@@ -1,0 +1,31 @@
+Even if uCoin is still in a development phase, you can already have a
+try on it, *today*.
+
+We provide you a testing currency named **meta\_brouzouf**. This
+currency is alive, being actively used by a dozen of people you can
+interact with to get used to this new kind of currency.
+
+For that purpose, we wrote a
+`tutorial <http://forum.ucoin.io/t/subscribing-to-meta-brouzouf-testing-currency/199>`__
+you need to follow to join the community and use the currency.
+
+    N.B.: this tutorial require some basic IT skills to be followed:
+    downloading a software, extracting it from a compressed folder and
+    understanding that the software will connect to the internet.
+
+    This is no big deal for most people, but we prefer you to be warned!
+
+Once your subscription is finalized, you will automatically produce new
+money on a daily basis. You *do not need to have any software running*
+for this to occur. The network will perform this task by its own. This
+is a rule of the currency.
+
+Finally you can play with the software to handle your wallets, transfer
+money and certify people!
+
+Enjoy this little taste of future!
+
+.. figure:: /content/images/2015/08/Capture-du-2015-06-09-21-38-05-1.png
+   :alt: 
+
+
