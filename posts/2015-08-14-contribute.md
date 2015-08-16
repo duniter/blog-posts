@@ -1,4 +1,5 @@
 # Contribute
+
 > This page is an improved copy of the FAQ section [Getting involved](/faq#gettinginvolved).
 
 ### How may I help?

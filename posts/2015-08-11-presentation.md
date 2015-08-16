@@ -1,4 +1,5 @@
 # Presentation
+
 uCoin is a _cryptocurrency software_, which means it is a **sotfware** providing the ability to **create currencies**. uCoin is different from other cryptocurrency softwares you may know (Bitcoin, Litecoin, Peercoin, ...) for 2 main reasons : its **currency code** which includes both [Universal Dividend](https://en.wikipedia.org/wiki/Social_credit) & [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust) concepts, but also its **Blockchain code** which is far more energy efficient, putting away this massive energy waste introduced by Bitcoin.
 
 ## Outline

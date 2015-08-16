@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-16 12:44-0400\n"
+"POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,27 +17,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: 2015-08-11-faq.md:3
-msgid "# FAQ ## General aspects"
+#: 2015-08-11-faq.md:2
+msgid "# FAQ"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:5
+#: 2015-08-11-faq.md:4
+msgid "## General aspects"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-11-faq.md:6
 msgid "### uCoin in 3 words?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:7
+#: 2015-08-11-faq.md:8
 msgid "Free Currency System."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:9
+#: 2015-08-11-faq.md:10
 msgid "### Free currency?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:11
+#: 2015-08-11-faq.md:12
 msgid ""
 "This is a new word, as no free currency existed before: free currency is one "
 "[respecting 4 economical "
@@ -46,12 +51,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:13
+#: 2015-08-11-faq.md:14
 msgid "### Universal Dividend?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:15
+#: 2015-08-11-faq.md:16
 msgid ""
 "This is a special case of [Basic "
 "Income](http://www.wikiwand.com/en/Basic_income): an amount every individual "
@@ -62,36 +67,36 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:17
+#: 2015-08-11-faq.md:18
 msgid "### How to achieve this?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:19
+#: 2015-08-11-faq.md:20
 msgid ""
 "uCoin uses cryptography features provided by "
 "[Ed25519](http://www.wikiwand.com/en/EdDSA) scheme to both:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:22
+#: 2015-08-11-faq.md:23
 msgid ""
 "Identify unique & living individuals (a.k.a _members_ of the monetary "
 "community)"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:22
+#: 2015-08-11-faq.md:23
 msgid "Allow money transfers through digital signatures"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:24
+#: 2015-08-11-faq.md:25
 msgid "### Is uCoin like Bitcoin?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:26
+#: 2015-08-11-faq.md:27
 msgid ""
 "Well, uCoin is a "
 "_[cryptocurrency](http://www.wikiwand.com/en/Cryptocurrency)_ system and so "
@@ -104,63 +109,63 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:28
+#: 2015-08-11-faq.md:29
 msgid "### Still using Proof of Work?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:30
+#: 2015-08-11-faq.md:31
 msgid "Yes, PoW is still here. But in a largely lower order of magnitude. _Really_."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:32
+#: 2015-08-11-faq.md:33
 msgid "### What is a Web of Trust?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:34
+#: 2015-08-11-faq.md:35
 msgid ""
 "Web of Trust refers to a data structure allowing people to trust each "
 "others' identity. In uCoin, it is exactly the same."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:36
+#: 2015-08-11-faq.md:37
 msgid "### Is uCoin data encrypted?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:38
+#: 2015-08-11-faq.md:39
 msgid ""
 "No, all uCoin data is public & replicated. Anyone using uCoin may have a "
 "complete copy of the database including both community & transactions."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:40
+#: 2015-08-11-faq.md:41
 msgid "## uCoin for simple users"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:42
+#: 2015-08-11-faq.md:43
 msgid "### Who can use uCoin?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:44
+#: 2015-08-11-faq.md:45
 msgid ""
 "Everybody: an individual, a collective (company, association, ...), there is "
 "no restriction here."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:46
+#: 2015-08-11-faq.md:47
 msgid "### Why becoming a member?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:48
+#: 2015-08-11-faq.md:49
 msgid ""
 "Members are a different kind of users: they have special rights such as "
 "creating money & write new data in uCoin system. Members are the pillar of "
@@ -168,22 +173,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:50
+#: 2015-08-11-faq.md:51
 msgid "### Who can become a member?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:52
+#: 2015-08-11-faq.md:53
 msgid "_Only_ individuals, more precisely: **unique and living human beings**."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:54
+#: 2015-08-11-faq.md:55
 msgid "### How to subscribe?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:56
+#: 2015-08-11-faq.md:57
 msgid ""
 "Newcomers (individual not members yet) have to create their own key, attach "
 "an identity to it, and get certified by existing members. Once done, they "
@@ -192,12 +197,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:58
+#: 2015-08-11-faq.md:59
 msgid "### What is Web of Trust?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:60
+#: 2015-08-11-faq.md:61
 msgid ""
 "Web of Trust (WoT) is a special data structure composed of entities on one "
 "hand, and links between them on the other hand. In uCoin, these _entities_ "
@@ -209,93 +214,93 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:62
+#: 2015-08-11-faq.md:63
 msgid "### Which are rules of Web of Trust?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:64
+#: 2015-08-11-faq.md:65
 msgid "Joining the Web of Trust requires to fit 3 conditions:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:68
+#: 2015-08-11-faq.md:69
 msgid "an identity must gathers a minimum number of links"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:68
+#: 2015-08-11-faq.md:69
 msgid "an identity cannot have twice a same link for a given period"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:68
+#: 2015-08-11-faq.md:69
 msgid "an identity must be between [0, maxStep] distance from any other identity"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:70
+#: 2015-08-11-faq.md:71
 msgid "Where:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:73
+#: 2015-08-11-faq.md:74
 msgid "step _0_ is the identity itself"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:73
+#: 2015-08-11-faq.md:74
 msgid "step _n _is an identity directly known by step _n-1_"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:75
+#: 2015-08-11-faq.md:76
 msgid "### How to receive Universal Dividend?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:77
+#: 2015-08-11-faq.md:78
 msgid ""
 "You have to be a member of the WoT when Universal Dividend (UD) is being "
 "written."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:79
+#: 2015-08-11-faq.md:80
 msgid "### How is decided UD amount?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:81
+#: 2015-08-11-faq.md:82
 msgid ""
 "The amount is currency specific. But a general rule is defined in uCoin "
 "protocol:"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:83
+#: 2015-08-11-faq.md:84
 msgid "$latex UD_{t+1} = \\max{(UD_t ; c \\frac{M_t}{N_{t+1}} )}$"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:85
+#: 2015-08-11-faq.md:86
 msgid ""
 "The value of the parameters _c_, _UD(0) _and _dt_ are to be chosen by the "
 "implementation currency. For example, it could be:"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:87
+#: 2015-08-11-faq.md:88
 msgid "> c = 0.0036815 UD(0) = 100 dt ~= 2 weeks"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:89
+#: 2015-08-11-faq.md:90
 msgid "to lead to a 9.22% annual « c », but issued through 2 weeks chunks."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:91
+#: 2015-08-11-faq.md:92
 msgid ""
 "<div class=\"ui info message\">Note: 9.22% annual « c » is a central "
 "symmetry between generations of 80 years life expectancy members. Those "
@@ -304,24 +309,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:93
+#: 2015-08-11-faq.md:94
 msgid "### How to know if I received UD?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:95
+#: 2015-08-11-faq.md:96
 msgid ""
 "If you were in WoT when UD was written, then you received it. It is just the "
 "protocol's rule."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:97
+#: 2015-08-11-faq.md:98
 msgid "### How to create money from UD?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:99
+#: 2015-08-11-faq.md:100
 msgid ""
 "If you received UD, then you are allowed to create money for an amount "
 "_exactly equal_ to the UD. As a consequence: as long as you do not create "
@@ -329,12 +334,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:101
+#: 2015-08-11-faq.md:102
 msgid "### How to transfer money?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:103
+#: 2015-08-11-faq.md:104
 msgid ""
 "You can transfer money by using _Transactions_. Transactions are just like "
 "cheques: you write who is the issuer, the recipient, and send it to the "
@@ -345,46 +350,46 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:106
+#: 2015-08-11-faq.md:107
 msgid "other transactions"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:106
+#: 2015-08-11-faq.md:107
 msgid "Universal Dividend"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:108
+#: 2015-08-11-faq.md:109
 msgid "### What about non-members?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:110
+#: 2015-08-11-faq.md:111
 msgid ""
 "Non-members cannot receive UD, nor benefit from transaction fees. However, "
 "they can use transactions to receive & send money to their accounts."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:112
+#: 2015-08-11-faq.md:113
 msgid "### How to know an individual is a member?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:114
+#: 2015-08-11-faq.md:115
 msgid ""
 "At any moment, the common data structure of uCoin (the _blockchain_) allows "
 "to know it: membership is simply written in it. Anyone may check it."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:116
+#: 2015-08-11-faq.md:117
 msgid "### How is it ensured no member can cheat by having multiple accounts?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:118
+#: 2015-08-11-faq.md:119
 msgid ""
 "This is all due to Web of Trust mechanisms. Without being magic, these "
 "mechanisms deeply depends on the rules of the WoT. In uCoin, WoT rules "
@@ -400,29 +405,29 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:120
+#: 2015-08-11-faq.md:121
 msgid "## uCoin for validators"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:122
+#: 2015-08-11-faq.md:123
 msgid "### What is a validator?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:124
+#: 2015-08-11-faq.md:125
 msgid ""
 "A validator is a person (more precisely, a member) participating to the "
 "writing of the blockchain."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:126
+#: 2015-08-11-faq.md:127
 msgid "### Blockchain?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:128
+#: 2015-08-11-faq.md:129
 msgid ""
 "Yes, just like Bitcoin and other altcoins, uCoin stores its data in a "
 "blockchain. A blockchain is a succession of blocks which are stacked, "
@@ -432,24 +437,24 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:131
+#: 2015-08-11-faq.md:132
 msgid ""
 "The Web of Trust state, giving us the information of who is member and "
 "received UD"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:131
+#: 2015-08-11-faq.md:132
 msgid "The Transactions state, telling who owns money and why (transaction history)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:133
+#: 2015-08-11-faq.md:134
 msgid "### Why to become a validator?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:135
+#: 2015-08-11-faq.md:136
 msgid ""
 "First because for the currency to work, validators are required: they are "
 "the people _validating_ the blockchain, by writing new blocks on top of "
@@ -460,36 +465,36 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:137
+#: 2015-08-11-faq.md:138
 msgid "### Other motivations?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:139
+#: 2015-08-11-faq.md:140
 msgid ""
 "Well, no. Motivation is to have a free currency working, because we know we "
 "want a _free_ currency."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:141
+#: 2015-08-11-faq.md:142
 msgid "### Why not allowing non-member to write the blockchain?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:143
+#: 2015-08-11-faq.md:144
 msgid ""
 "Because then, we would loose the benefits from identification and would have "
 "to do old, energy wasting, centralizing power proof-of-work."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:145
+#: 2015-08-11-faq.md:146
 msgid "### Where is stored uCoin data?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:147
+#: 2015-08-11-faq.md:148
 msgid ""
 "We first have the blockchain, which holds WoT and transactions. This "
 "blockchain is replicated on each validator's computer, and even on a simple "
@@ -502,34 +507,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:149
+#: 2015-08-11-faq.md:150
 msgid "### Who may write blocks into the blockchain?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:151
+#: 2015-08-11-faq.md:152
 msgid "As said earlier, only members."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:153
+#: 2015-08-11-faq.md:154
 msgid "### But if members say who are the members, how do we have first members?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:155
+#: 2015-08-11-faq.md:156
 msgid ""
 "Very first members do not have to join the Web of Trust: they _are_ the "
 "WoT. Thereafter, newcomers may join in."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:157
+#: 2015-08-11-faq.md:158
 msgid "### How is decided which member may write next block?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:159
+#: 2015-08-11-faq.md:160
 msgid ""
 "It is not decided, any member may write the next block. It is a matter of "
 "both chance and difficulty. Indeed, each members have a difficulty level "
@@ -539,22 +544,22 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:161
+#: 2015-08-11-faq.md:162
 msgid "### Does every member has to participate writing the blockchain?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:163
+#: 2015-08-11-faq.md:164
 msgid "No, everyone is free."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:165
+#: 2015-08-11-faq.md:166
 msgid "### How to succeed writing next block?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:167
+#: 2015-08-11-faq.md:168
 msgid ""
 "A member has to pass a trial consisting in building a block whose "
 "fingerprint starts with a certain number of zeros. If he succeeds, he may "
@@ -563,12 +568,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:169
+#: 2015-08-11-faq.md:170
 msgid "### How is difficulty computed?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:171
+#: 2015-08-11-faq.md:172
 msgid ""
 "Precise rule is given in [the "
 "protocol](https://github.com/ucoin-io/ucoin/blob/master/doc/Protocol.md#proof-of-work). You "
@@ -577,12 +582,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:173
+#: 2015-08-11-faq.md:174
 msgid "### What if 2 blocks get validated simultaneously?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:175
+#: 2015-08-11-faq.md:176
 msgid ""
 "uCoin will be able to handle multiple blockchains at the same time. So, 2 "
 "blocks validated at the same time will create a _fork_. Depending on other "
@@ -591,14 +596,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:177
+#: 2015-08-11-faq.md:178
 msgid ""
 "### Isn't there a risk a single member always succeed in proposing a valid "
 "block before others?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:179
+#: 2015-08-11-faq.md:180
 msgid ""
 "Yes, that's why when a member succeed to propose a block, his next blocks "
 "will require an harder work to be accepted. If he does not succeed for a "
@@ -606,29 +611,29 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:181
+#: 2015-08-11-faq.md:182
 msgid "### How to know a member received the UD?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:183
+#: 2015-08-11-faq.md:184
 msgid ""
 "If he was a member at that moment, he _did_ receive it. This is just an "
 "accepted rule."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:185
+#: 2015-08-11-faq.md:186
 msgid "## Server software"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:187
+#: 2015-08-11-faq.md:188
 msgid "### Which OS are supported?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:189
+#: 2015-08-11-faq.md:190
 msgid ""
 "At the moment, only GNU/Linux and MacOS X are supported, however the "
 "software should also work on Windows (but harder to install because of "
@@ -637,59 +642,59 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:191
+#: 2015-08-11-faq.md:192
 msgid "### Which softwares are required?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:193
+#: 2015-08-11-faq.md:194
 msgid "uCoin relies on some external softwares, listed here:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:196
+#: 2015-08-11-faq.md:197
 msgid "MongoDB"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:196
+#: 2015-08-11-faq.md:197
 msgid "Node.js + NPM"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:198
+#: 2015-08-11-faq.md:199
 msgid "### How to install uCoin?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:200
+#: 2015-08-11-faq.md:201
 msgid ""
 "Follow [Install](https://github.com/ucoin-io/ucoin/wiki/Install-uCoin-node) "
 "guide."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:202
+#: 2015-08-11-faq.md:203
 msgid "### Do you plan to have a [Docker](https://www.docker.com/) installation?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:204
+#: 2015-08-11-faq.md:205
 msgid "Yes we do."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:206
+#: 2015-08-11-faq.md:207
 msgid "## Getting involved"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:208
+#: 2015-08-11-faq.md:209
 msgid "### How may I help?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:210
+#: 2015-08-11-faq.md:211
 msgid ""
 "You can help on project developement in many ways, depending your available "
 "time, energy and your profile. Please read below requirements and "
@@ -698,29 +703,29 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:212
+#: 2015-08-11-faq.md:213
 msgid "#### As a backend developer"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:214
+#: 2015-08-11-faq.md:215
 msgid ""
 "You may participate to uCoin server's development, which is the core "
 "software implementing UCP. You will need some technical skills:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:217
+#: 2015-08-11-faq.md:218
 msgid "Node.js development, lot of asynchronous JavaScript"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-faq.md:217
+#: 2015-08-11-faq.md:218
 msgid "MongoDB database, trough Mongoose module"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:219
+#: 2015-08-11-faq.md:220
 msgid ""
 "If you are not affraid by those technologies, you can both start reading "
 "[HTTP API](https://github.com/ucoin-io/ucoin/blob/master/doc/HTTP_API.md) "
@@ -728,12 +733,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:221
+#: 2015-08-11-faq.md:222
 msgid "#### As a designer/frontend developer"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:223
+#: 2015-08-11-faq.md:224
 msgid ""
 "See this beautiful website? You want to improve it with new content, new "
 "design? Feel free to propose your skills, any help is welcome. What probably "
@@ -741,12 +746,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:225
+#: 2015-08-11-faq.md:226
 msgid "#### As a mathematician"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:227
+#: 2015-08-11-faq.md:228
 msgid ""
 "uCoin protocol will use Graph Theory properties to build a Web of Trust of "
 "unique & living individuals. Even if uCoin team is made up of "
@@ -756,12 +761,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:229
+#: 2015-08-11-faq.md:230
 msgid "#### As a preacher"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:231
+#: 2015-08-11-faq.md:232
 msgid ""
 "Well, here, you do not need us to do the job: speak about uCoin, make "
 "articles, share links, knowledge, experiences, whatever! No need to ask, "
@@ -769,12 +774,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:233
+#: 2015-08-11-faq.md:234
 msgid "### What to learn first?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:235
+#: 2015-08-11-faq.md:236
 msgid ""
 "Well, if reached this paragraph reading the whole FAQ, you should have a "
 "rather good idea of what is uCoin. You could go deeper with [Theoretical "
@@ -788,12 +793,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:237
+#: 2015-08-11-faq.md:238
 msgid "### The best way to stay tuned?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-faq.md:238
+#: 2015-08-11-faq.md:239
 msgid ""
 "[Mailing List](https://groups.google.com/forum/?hl=fr#!forum/ucoin) for "
 "major events, [uCoin Forum](http://forum.ucoin.io/) for every day talking "

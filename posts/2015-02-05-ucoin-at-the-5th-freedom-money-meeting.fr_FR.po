@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-16 12:44-0400\n"
+"POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,35 +17,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:3
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:2
+msgid "# uCoin at the 5th Freedom Money Meeting"
+msgstr ""
+
+#. type: Plain text
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:4
 msgid ""
-"# uCoin at the 5th Freedom Money Meeting The uCoin project will be in the "
-"spotlight of the 5th Freedom Money Meeting (FMM) on coming **4th & 5th June "
-"2015 in Paris**! This will be a great occasion for us to:"
+"The uCoin project will be in the spotlight of the 5th Freedom Money Meeting "
+"(FMM) on coming **4th & 5th June 2015 in Paris**! This will be a great "
+"occasion for us to:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:8
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:9
 msgid "make _a live demo_ by creating our FMM5 currency!"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:8
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:9
 msgid "present with more details both _core_ and _client_ softwares"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:8
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:9
 msgid "give plans of the project for the coming months"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:8
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:9
 msgid "explain more precisely the project's philosophy"
 msgstr ""
 
 #. type: Plain text
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:10
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:11
 msgid ""
 "So if you are a potential developer, tester or promoter of this project, do "
 "not hesitate to subscribe this event! Below is the original announcement "
@@ -55,7 +60,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:48
+#: 2015-02-05-ucoin-at-the-5th-freedom-money-meeting.md:49
 #, no-wrap
 msgid ""
 "> # 5th Freedom Money Meeting 4th to 7th June 2015 Paris\n"

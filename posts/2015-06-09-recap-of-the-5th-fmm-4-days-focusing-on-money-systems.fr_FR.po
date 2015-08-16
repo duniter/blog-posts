@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-16 12:44-0400\n"
+"POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:4
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:2
+msgid "# Recap of the 5th FMM: 4 days focusing on money systems!"
+msgstr ""
+
+#. type: Plain text
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:5
 msgid ""
-"# Recap of the 5th FMM: 4 days focusing on money systems! There we are! "
-"**5th FMM is now over**. It has been [a very rich experience of 4 "
-"days](http://blog.ucoin.io/ucoin-at-the-5th-freedom-money-meeting/ \"uCoin "
-"at the 5th Freedom Money Meeting\") focusing on money systems. Below is "
-"quick recap of what happened during these days for those of you who could "
+"There we are! **5th FMM is now over**. It has been [a very rich experience "
+"of 4 days](http://blog.ucoin.io/ucoin-at-the-5th-freedom-money-meeting/ "
+"\"uCoin at the 5th Freedom Money Meeting\") focusing on money systems. Below "
+"is quick recap of what happened during these days for those of you who could "
 "not be here with us! ## First day: a dive into uCoin protocol"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:6
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:7
 msgid ""
 "The very first day was a presentation made by your servitor (cgeek) about "
 "uCoin software & protocol. This was a travel across technical details about "
@@ -37,7 +41,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:8
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:9
 msgid ""
 "The presentation was in French, but I took the time to translate it in case "
 "you wanted to read it. You can dowload the file "
@@ -46,24 +50,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:10
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:11
 msgid "[![Presentation](/content/images/2015/08/fmm5_presentation.png)](/files/FMM5_Presentation_en.odp)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:12
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:13
 msgid "## Second day: more about CuteCoin & uCoinApps softwares!"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:15
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:16
 msgid ""
 "This day was an opportunity for client softwares to be presented. Let's see "
 "the two firsts: *CuteCoin* and *uCoinApps*.  ### Cutecoin"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:17
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:18
 msgid ""
 "The morning was dedicated to "
 "[Cutecoin](https://github.com/ucoin-io/cutecoin), the very first client of "
@@ -71,27 +75,27 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:22
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:23
 msgid "Current state of the application"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:22
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:23
 msgid "Work to be done"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:22
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:23
 msgid "Development process (unit tests, continuous integration)"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:22
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:23
 msgid "And incoming features"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:24
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:25
 msgid ""
 "Currently, Cutecoin allows you to do all the core operations made "
 "possible by uCoin software. It is also the first allowing to have an "
@@ -99,7 +103,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:33
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:34
 msgid ""
 "<center> ![Web of Trust view from cgeek to "
 "inso](/content/images/2015/08/Capture-du-2015-06-09-21-38-05.png)  <i>Web of "
@@ -109,26 +113,26 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:35
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:36
 msgid ""
 "The presentation is also available for download here: [FMM5 Cutecoin "
 "Presentation (fr)](/files/FMM5 Cutecoin Presentation \\(fr\\).odp)."
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:37
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:38
 msgid ""
 "[![cutecoin_pres](/content/images/2015/08/cutecoin_pres.png)](/files/FMM5 "
 "Cutecoin Presentation \\(fr\\).odp)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:39
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:40
 msgid "### uCoinApps"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:41
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:42
 msgid ""
 "The afternoon was dedicated to uCoinApps, the little brother of Cutecoin as "
 "it is the second client for uCoin. uCoinApps is an Android application that "
@@ -136,37 +140,37 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "Connect to an existing currency network"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "Create your personal account"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "Publish your identity"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "Certificate other members"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "See your account's balance"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:48
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:49
 msgid "Transfer money"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:50
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:51
 msgid ""
 "The application is available on [Google "
 "Play](https://play.google.com/store/apps/details?id=io.ucoin.ucoin). You may "
@@ -176,12 +180,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:52
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:53
 msgid "![ucoin_apps](/content/images/2015/08/account_ucoinapps.png)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:54
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:55
 msgid ""
 "The author of the application also made a presentation avaialble for "
 "download: [FMM5 uCoinApps Presentation "
@@ -189,12 +193,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:56
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:57
 msgid "## Third day: simulation of 160 years of money systems"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:58
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:59
 msgid ""
 "This day was an opportunity for non-developers to discover a french game "
 "called [La "
@@ -206,19 +210,19 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:61
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:62
 msgid ""
 "Debt Money system (the one used by almost all currencies over the world, "
 "including € and $) in the morning"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:61
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:62
 msgid "Freedom Money system (the one used by uCoin) in the afternoon"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:63
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:64
 msgid ""
 "The results of this session are available for download "
 "on GitHub: [LibreOffice Calc "
@@ -232,7 +236,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:65
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:66
 msgid ""
 "<iframe width=\"560\" height=\"315\" "
 "src=\"https://www.youtube.com/embed/LdHFPcyjKQA?list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK\" "
@@ -240,24 +244,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:67
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:68
 msgid "## Fourth day: non-technical contributions"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:69
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:70
 msgid ""
 "A last day was dedicated to other contributions than coding. These are more "
 "around the project, for example explanations, theoretical fundamentals, etc."
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:71
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:72
 msgid "### A new mathematical demonstration"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:73
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:74
 msgid ""
 "The morning has seen the demonstration by Stéphane Laborde, the author of "
 "the RTM (Relativity Theory of Money), that a currency with a given rate of "
@@ -269,14 +273,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:75
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:76
 msgid ""
 "### Presentation of David Chazalviel: \"The RTM in color\" and \"The RTM for "
 "the kids\""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:77
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:78
 msgid ""
 "[David Chazalviel](http://cuckooland.free.fr/index.html) gave us a "
 "presentation about his 2 last contributions for spreading about Freedom "
@@ -284,7 +288,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:79
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:80
 #, no-wrap
 msgid ""
 "**The RTM in color** "
@@ -295,12 +299,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:81
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:82
 msgid "![](/content/images/2015/08/rtm_in_color-1024x664.png)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:83
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:84
 #, no-wrap
 msgid ""
 "**The RTM for the kids** (available in "
@@ -310,17 +314,17 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:85
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:86
 msgid "![](/content/images/2015/08/rtm_for_the_kids.png)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:87
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:88
 msgid "### Subscription to metab_brouzouf currency"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:89
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:90
 msgid ""
 "The afternoon was the occasion for people to try Cutecoin and [subscribe to "
 "metab_brouzouf "
@@ -329,27 +333,27 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:91
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:92
 msgid "![](/content/images/2015/08/wot_fmm5.png)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:93
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:94
 msgid "And here is the currency overview:"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:95
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:96
 msgid "![](/content/images/2015/08/metab_fmm5.png)"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:97
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:98
 msgid "## Conclusion"
 msgstr ""
 
 #. type: Plain text
-#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:98
+#: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:99
 msgid ""
 "This 1st edition of 2015 FMM was a very successful meeting with a lot of new "
 "people met and introduced to money codes, many technical details were "

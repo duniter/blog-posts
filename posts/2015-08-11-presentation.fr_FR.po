@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-16 12:44-0400\n"
+"POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,33 +17,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:3
+#: 2015-08-11-presentation.md:2
+msgid "# Presentation"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-11-presentation.md:4
 msgid ""
-"# Presentation uCoin is a _cryptocurrency software_, which means it is a "
-"**sotfware** providing the ability to **create currencies**. uCoin is "
-"different from other cryptocurrency softwares you may know (Bitcoin, "
-"Litecoin, Peercoin, ...) for 2 main reasons : its **currency code** which "
-"includes both [Universal "
-"Dividend](https://en.wikipedia.org/wiki/Social_credit) & [Web of "
+"uCoin is a _cryptocurrency software_, which means it is a **sotfware** "
+"providing the ability to **create currencies**. uCoin is different from "
+"other cryptocurrency softwares you may know (Bitcoin, Litecoin, Peercoin, "
+"...) for 2 main reasons : its **currency code** which includes both "
+"[Universal Dividend](https://en.wikipedia.org/wiki/Social_credit) & [Web of "
 "Trust](https://en.wikipedia.org/wiki/Web_of_trust) concepts, but also its "
 "**Blockchain code** which is far more energy efficient, putting away this "
 "massive energy waste introduced by Bitcoin."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:5
+#: 2015-08-11-presentation.md:6
 msgid "## Outline"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:7
+#: 2015-08-11-presentation.md:8
 msgid ""
 "> **Any member is co-producer of the money** without doing anything, just "
 "for being a human of the monetary Community."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:9
+#: 2015-08-11-presentation.md:10
 msgid ""
 "This is where money comes from: every member regularly receives a Universal "
 "Dividend (i.e. monetary Basic Income) coming from new money directly issued "
@@ -51,14 +55,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:11
+#: 2015-08-11-presentation.md:12
 msgid ""
 "> **Any member needs signatures from other members** to join in or simply "
 "stay in the Community."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:13
+#: 2015-08-11-presentation.md:14
 msgid ""
 "Every member is _strongly identified_ through a Web of Trust mechanism to "
 "avoid one individual to receive multiple Universal Dividend through multiple "
@@ -67,31 +71,31 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:15
+#: 2015-08-11-presentation.md:16
 msgid ""
 "> **Data is fully distributed through the P2P network** to avoid any central "
 "power highly subject to corruption or Single Point of Failure issues."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:17
+#: 2015-08-11-presentation.md:18
 msgid ""
 "Data is fully managed by the _P2P network_ so a free currency does not fall "
 "under few hands control and can stay a free currency."
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:19
+#: 2015-08-11-presentation.md:20
 msgid "## A bit more"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:21
+#: 2015-08-11-presentation.md:22
 msgid "### Money is co-produced by all the community members"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:23
+#: 2015-08-11-presentation.md:24
 msgid ""
 "This is the really main feature: money is _equally_ co-produced by the "
 "members of the community (a.k.a Web of Trust (WoT)). Such an equality is "
@@ -105,12 +109,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:25
+#: 2015-08-11-presentation.md:26
 msgid "### No more CPU race: an energy efficient Blockchain"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:27
+#: 2015-08-11-presentation.md:28
 msgid ""
 "Classical blockchains uses CPU power for addressing security issues. Even if "
 "it works (at least, it seems to), this is a very energy costly "
@@ -129,52 +133,52 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:30
+#: 2015-08-11-presentation.md:31
 msgid "the members must have enough signatures (links) from other members"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:30
+#: 2015-08-11-presentation.md:31
 msgid "the member is close enough from any other member"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:32
+#: 2015-08-11-presentation.md:33
 msgid "given the facts that:"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "signatures expire (the have a validity duration)"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "a given link must see a delay before being replayed"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "a member must wait a delay between each signature he makes (like a week)"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "a member have a limit in the number of links he can make to others"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "links cannot be made in the future"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-presentation.md:39
+#: 2015-08-11-presentation.md:40
 msgid "links cannot be made too far in the past"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:41
+#: 2015-08-11-presentation.md:42
 msgid ""
 "These rules are what reasonably ensures very most of the WoT is composed of "
 "unique and living individuals. Depending on the currency parameters, these "
@@ -189,12 +193,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:43
+#: 2015-08-11-presentation.md:44
 msgid "## Want more details?"
 msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-presentation.md:44
+#: 2015-08-11-presentation.md:45
 msgid ""
 "To get deeper in uCoin's concepts, check the "
 "[Theoretical](http://blog.ucoin.io/theoretical/ \"Theoretical\") page."
