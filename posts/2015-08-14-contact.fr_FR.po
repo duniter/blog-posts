@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-16 12:44-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2015-08-14-contact.md:3
+msgid ""
+"# Contact You have several ways to contact us. Below is a non-exhaustive "
+"list of how to contact us, for which purpose."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:5
+msgid "## General contact"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:7
+msgid "### The forum"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:9
+msgid ""
+"This is the most common way to get in touch with us. Go to "
+"[forum.ucoin.io](http://forum.ucoin.io), subscribe and you will be able to "
+"create a subject or answer to an existing one."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:11
+msgid ""
+"We prefer this platform for questions since topics are indexed by Search "
+"Engines like Google and are made easy to access future newcomers."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:13
+msgid "![](/content/images/2015/08/forum.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:15
+msgid "### The Chat"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:17
+msgid ""
+"We use Jappix XMPP chatroom [ucoin@muc.jappix.com](ucoin@muc.jappix.com) for "
+"chatting. You can connect using your favorite XMPP client like "
+"[Pidgin](https://pidgin.im/) or [Psi+](http://psi-plus.com/), or you can use "
+"or widget at the bottom of the page:"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:19
+msgid "![](/content/images/2015/08/jappix_widget.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:21
+msgid ""
+"This widget, Jappix Mini, is very easy to use for a quick chat. But for a "
+"more comfortable chat session, we definitely advice you either to install a "
+"client like Pidgin or Psi+, or to connect through "
+"[Jappix](https://jappix.com/?l=fr) website."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:23
+msgid "### The Mailing list"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:25
+msgid ""
+"We also have a mailing list at "
+"https://groups.google.com/forum/?hl=fr#!forum/ucoin"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:27
+msgid ""
+"This list was our place to discuss at the beginning and has been replaced by "
+"the forum since. Yet, it will be used for major anouncement thereafter."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:29
+msgid "You can use the mailing list, but please prefer the forum."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:31
+msgid "## Project specific"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:33
+msgid ""
+"You may want to contact contributors of a specific project. Here is, for "
+"each project, how to contact them."
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:35
+msgid "### uCoin"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:37
+msgid "To contact uCoin contributors, you can:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:41
+msgid ""
+"add issues on GitHub: https://github.com/ucoin-io/ucoin, we will answer you "
+"directly on your ticket"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:41
+msgid "send an e-mail to [admin@ucoin.io](admin@ucoin.io) (me – cgeek)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:41 2015-08-14-contact.md:49 2015-08-14-contact.md:56
+msgid "leave a message on the chat"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:43
+msgid "### CuteCoin"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:45
+msgid "To contact CuteCoin contributors, you can:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:49
+msgid "add issues on GitHub: https://github.com/ucoin-io/cutecoin"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:49
+msgid ""
+"add a subject with the category *Cutecoin* on [the "
+"Forum](http://forum.ucoin.io)"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:51
+msgid "### ucoinApps (Android)"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:53
+msgid "To contact ucoinApps contributors, you can:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:56
+msgid "add issues on GitHub: https://github.com/ucoin-io/ucoin-android-app"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:58
+msgid "## Relative Theory of Money"
+msgstr ""
+
+#. type: Plain text
+#: 2015-08-14-contact.md:60
+msgid "RMT author may answer you on:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:64
+msgid "his blog http://creationmonetaire.info"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:64
+msgid "uCoin forum (http://forum.ucoin.io)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:64
+msgid "uCoin mailing list https://groups.google.com/forum/?hl=fr#!forum/ucoin"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2015-08-14-contact.md:64
+msgid "OpenUDC mailing list https://groups.google.com/forum/?hl=fr#!forum/openudc"
+msgstr ""
