@@ -1,0 +1,94 @@
+You have several ways to contact us. Below is a non-exhaustive list of
+how to contact us, for which purpose.
+
+General contact
+---------------
+
+The forum
+~~~~~~~~~
+
+This is the most common way to get in touch with us. Go to
+`forum.ucoin.io <http://forum.ucoin.io>`__, subscribe and you will be
+able to create a subject or answer to an existing one.
+
+We prefer this platform for questions since topics are indexed by Search
+Engines like Google and are made easy to access future newcomers.
+
+.. figure:: /content/images/2015/08/forum.png
+   :alt: 
+
+The Chat
+~~~~~~~~
+
+We use Jappix XMPP chatroom
+`ucoin@muc.jappix.com <ucoin@muc.jappix.com>`__ for chatting. You can
+connect using your favorite XMPP client like
+`Pidgin <https://pidgin.im/>`__ or `Psi+ <http://psi-plus.com/>`__, or
+you can use or widget at the bottom of the page:
+
+.. figure:: /content/images/2015/08/jappix_widget.png
+   :alt: 
+
+This widget, Jappix Mini, is very easy to use for a quick chat. But for
+a more comfortable chat session, we definitely advice you either to
+install a client like Pidgin or Psi+, or to connect through
+`Jappix <https://jappix.com/?l=fr>`__ website.
+
+The Mailing list
+~~~~~~~~~~~~~~~~
+
+We also have a mailing list at
+https://groups.google.com/forum/?hl=fr#!forum/ucoin
+
+This list was our place to discuss at the beginning and has been
+replaced by the forum since. Yet, it will be used for major anouncement
+thereafter.
+
+You can use the mailing list, but please prefer the forum.
+
+Project specific
+----------------
+
+You may want to contact contributors of a specific project. Here is, for
+each project, how to contact them.
+
+uCoin
+~~~~~
+
+To contact uCoin contributors, you can:
+
+-  add issues on GitHub: https://github.com/ucoin-io/ucoin, we will
+   answer you directly on your ticket
+-  send an e-mail to `admin@ucoin.io <admin@ucoin.io>`__ (me – cgeek)
+-  leave a message on the chat
+
+CuteCoin
+~~~~~~~~
+
+To contact CuteCoin contributors, you can:
+
+-  add issues on GitHub: https://github.com/ucoin-io/cutecoin
+-  add a subject with the category *Cutecoin* on `the
+   Forum <http://forum.ucoin.io>`__
+-  leave a message on the chat
+
+ucoinApps (Android)
+~~~~~~~~~~~~~~~~~~~
+
+To contact ucoinApps contributors, you can:
+
+-  add issues on GitHub: https://github.com/ucoin-io/ucoin-android-app
+-  leave a message on the chat
+
+Relative Theory of Money
+------------------------
+
+RMT author may answer you on:
+
+-  his blog http://creationmonetaire.info
+-  uCoin forum (http://forum.ucoin.io)
+-  uCoin mailing list
+   https://groups.google.com/forum/?hl=fr#!forum/ucoin
+-  OpenUDC mailing list
+   https://groups.google.com/forum/?hl=fr#!forum/openudc
+
