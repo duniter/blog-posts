@@ -1,0 +1,229 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-08-17 14:24-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: navigation.html:2
+msgid "{{! Templates"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:4
+#, no-wrap
+msgid ""
+"Link\n"
+"==============\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:10
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"#\" title=\"Follow me on twitter!\">\n"
+"    <i class=\"fa fa-twitter\"></i> Follow me\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:12
+#, no-wrap
+msgid ""
+"Divider\n"
+"==============\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:14
+msgid "<li class=\"drawer-list-divider\"></li>"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:16
+#, no-wrap
+msgid ""
+"Title\n"
+"==============\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:20
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Follow me\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:22
+#, no-wrap
+msgid ""
+"ProTip:\n"
+"==============\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:25
+#, no-wrap
+msgid ""
+"Ghostium uses Font Awesome you can find all icons available on the url "
+"below\n"
+"  http://fortawesome.github.io/Font-Awesome/cheatsheet/\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:27
+msgid "}}"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:33
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/\" data-pjax>\n"
+"    <i class=\"fa fa-home\"></i>Home\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:39
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/presentation\" data-pjax>\n"
+"    <i class=\"fa fa-book\"></i>Presentation\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:45
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/theoretical\" data-pjax>\n"
+"    <i class=\"fa fa-graduation-cap\"></i>Theoretical\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:51
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/faq\" data-pjax>\n"
+"    <i class=\"fa fa-question\"></i>FAQ\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:54 navigation.html:79 navigation.html:98
+msgid "<!-- Divider--> <li class=\"drawer-list-divider\"></li>"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:58
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Join us\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:64
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/contribute\" data-pjax>\n"
+"    <i class=\"fa fa-users\"></i>Contribute\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:70
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/contact\" data-pjax>\n"
+"    <i class=\"fa fa-envelope\"></i>Contact\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:76
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://forum.ucoin.io\" data-pjax>\n"
+"    <i class=\"fa fa-comments\"></i>Forum\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:83
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Follow us\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:94
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://twitter.com/ucoin_io\" target=\"_blank\">\n"
+"    <i class=\"fa fa-twitter\"></i>Twitter\n"
+"  </a>\n"
+"</li>\n"
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://github.com/ucoin-io/ucoin\" target=\"_blank\">\n"
+"    <i class=\"fa fa-github\"></i>Github\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:102
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  News\n"
+"</li>\n"
+msgstr ""
+
+#. type: Plain text
+#: navigation.html:107
+#, no-wrap
+msgid ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"{{@blog.url}}/rss/\">\n"
+"    <i class=\"fa fa-rss\"></i>Subscribe to Feed\n"
+"  </a>\n"
+"</li>\n"
+msgstr ""
