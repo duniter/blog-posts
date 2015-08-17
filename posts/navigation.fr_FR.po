@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-17 14:24-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2015-08-17 19:18+0000\n"
+"Last-Translator: cgeek <cem.moreau@gmail.com>\n"
+"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"navigation/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
 #: navigation.html:2
 msgid "{{! Templates"
-msgstr ""
+msgstr "{{! Templates"
 
 #. type: Plain text
 #: navigation.html:4
@@ -28,6 +30,8 @@ msgid ""
 "Link\n"
 "==============\n"
 msgstr ""
+"Lien\n"
+"==============\n"
 
 #. type: Plain text
 #: navigation.html:10
@@ -39,6 +43,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"#\" title=\"Suivez-nous sur twitter!\">\n"
+"    <i class=\"fa fa-twitter\"></i> Nous suivre\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:12
@@ -47,11 +56,13 @@ msgid ""
 "Divider\n"
 "==============\n"
 msgstr ""
+"Diviseur\n"
+"==============\n"
 
 #. type: Plain text
 #: navigation.html:14
 msgid "<li class=\"drawer-list-divider\"></li>"
-msgstr ""
+msgstr "<li class=\"drawer-list-divider\"></li>"
 
 #. type: Plain text
 #: navigation.html:16
@@ -60,6 +71,8 @@ msgid ""
 "Title\n"
 "==============\n"
 msgstr ""
+"Titre\n"
+"==============\n"
 
 #. type: Plain text
 #: navigation.html:20
@@ -69,6 +82,9 @@ msgid ""
 "  Follow me\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Nous suivre\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:22
@@ -77,6 +93,8 @@ msgid ""
 "ProTip:\n"
 "==============\n"
 msgstr ""
+"Astuce de pro:\n"
+"==============\n"
 
 #. type: Plain text
 #: navigation.html:25
@@ -86,11 +104,14 @@ msgid ""
 "below\n"
 "  http://fortawesome.github.io/Font-Awesome/cheatsheet/\n"
 msgstr ""
+"Ghostium uses Font Awesome you can find all icons available on the url "
+"below\n"
+"  http://fortawesome.github.io/Font-Awesome/cheatsheet/\n"
 
 #. type: Plain text
 #: navigation.html:27
 msgid "}}"
-msgstr ""
+msgstr "}}"
 
 #. type: Plain text
 #: navigation.html:33
@@ -102,6 +123,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/\" data-pjax>\n"
+"    <i class=\"fa fa-home\"></i>Accueil\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:39
@@ -113,6 +139,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/presentation\" data-pjax>\n"
+"    <i class=\"fa fa-book\"></i>Présentation\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:45
@@ -124,6 +155,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/theoretical\" data-pjax>\n"
+"    <i class=\"fa fa-graduation-cap\"></i>Théorie\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:51
@@ -135,11 +171,16 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/faq\" data-pjax>\n"
+"    <i class=\"fa fa-question\"></i>FAQ\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:54 navigation.html:79 navigation.html:98
 msgid "<!-- Divider--> <li class=\"drawer-list-divider\"></li>"
-msgstr ""
+msgstr "<!-- Divider--> <li class=\"drawer-list-divider\"></li>"
 
 #. type: Plain text
 #: navigation.html:58
@@ -149,6 +190,9 @@ msgid ""
 "  Join us\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Nous rejoindre\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:64
@@ -160,6 +204,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/contribute\" data-pjax>\n"
+"    <i class=\"fa fa-users\"></i>Contribuer\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:70
@@ -171,6 +220,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"/contact\" data-pjax>\n"
+"    <i class=\"fa fa-envelope\"></i>Contact\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:76
@@ -182,6 +236,11 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://forum.ucoin.io\" data-pjax>\n"
+"    <i class=\"fa fa-comments\"></i>Forum\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:83
@@ -191,6 +250,9 @@ msgid ""
 "  Follow us\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Nous suivre\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:94
@@ -207,6 +269,16 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://twitter.com/ucoin_io\" target=\"_blank\">\n"
+"    <i class=\"fa fa-twitter\"></i>Twitter\n"
+"  </a>\n"
+"</li>\n"
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"http://github.com/ucoin-io/ucoin\" target=\"_blank\">\n"
+"    <i class=\"fa fa-github\"></i>Github\n"
+"  </a>\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:102
@@ -216,6 +288,9 @@ msgid ""
 "  News\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item drawer-list-title\">\n"
+"  Nouveautés\n"
+"</li>\n"
 
 #. type: Plain text
 #: navigation.html:107
@@ -227,3 +302,8 @@ msgid ""
 "  </a>\n"
 "</li>\n"
 msgstr ""
+"<li class=\"drawer-list-item\">\n"
+"  <a href=\"{{@blog.url}}/rss/\">\n"
+"    <i class=\"fa fa-rss\"></i>Souscrire au flux\n"
+"  </a>\n"
+"</li>\n"
