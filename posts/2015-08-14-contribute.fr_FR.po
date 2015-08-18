@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2015-08-18 18:35+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"contribute/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:2
 msgid "# Contribute"
-msgstr ""
+msgstr "# Contribuer"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:4
@@ -27,11 +29,13 @@ msgid ""
 "> This page is an improved copy of the FAQ section [Getting "
 "involved](/faq#gettinginvolved)."
 msgstr ""
+"> Cette page est une copie améliorée de la section de la FAQ "
+"[s'impliquer](/faq#simpliquer)."
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:6
 msgid "### How may I help?"
-msgstr ""
+msgstr "### Comment puis-je aider ?"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:8
@@ -41,11 +45,15 @@ msgid ""
 "possibilities. If you feel comfortable with one these profiles, do not "
 "hesitate to [contact us](/contact)."
 msgstr ""
+"Vous pouvez aider le projet de différentes manières, en fonction de votre "
+"temps disponible, énergie et compétences. Veuillez lire les prérequis et "
+"possibilités ci-dessous. Si vous vous sentez à l'aise avec l'un de ces "
+"profils, n'hésitez pas à [nous contacter](/contact)."
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:10
 msgid "#### As a backend developer"
-msgstr ""
+msgstr "#### Comme développeur back-end"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:12
@@ -55,6 +63,10 @@ msgid ""
 "[UCP](https://github.com/ucoin-io/ucoin/blob/master/doc/Protocol.md). You "
 "will need some technical skills:"
 msgstr ""
+"Vous pouvez participer au développement de la partie serveur de uCoin qui "
+"est le cœur du logiciel implémentant le protocole [UCP](https://github.com"
+"/ucoin-io/ucoin/blob/master/doc/Protocol.md). Vous aurez besoin de quelques "
+"compétences techniques :"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:21
@@ -71,6 +83,18 @@ msgid ""
 "  * understanding the basics of asymmetric cryptography\n"
 "  * optionnaly know the [Ed25519](http://ed25519.cr.yp.to/) scheme\n"
 msgstr ""
+"*   Développement Node.js impliquant :\n"
+"  * JavaScript (uniquement du code ES5, mais prêt pour ES6 grâce aux "
+"[Promises/A+](https://promisesaplus.com/))\n"
+"  * beaucoup de code JavaScript asynchrone\n"
+"  * usage intensif des librairies [async.js](https://github.com/caolan/async)"
+" et [Q](https://github.com/kriskowal/q) (nous tendons à remplacer async.js "
+"par Q)\n"
+"  * tests unitaires avec [Mocha](https://mochajs.org/)\n"
+"* Cryptographie :\n"
+"  * comprendre les bases de la cryptographie asymétrique\n"
+"  * optionnellement, connaître le schéma [Ed25519](http://ed25519.cr.yp.to/)"
+"\n"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:23
@@ -80,11 +104,15 @@ msgid ""
 "code](https://github.com/ucoin-io/ucoin/wiki/Dive-into-the-code) and "
 "[contact us](/contact)."
 msgstr ""
+"Si vous n'êtes pas effrayé par ces technologies, vous pouvez commencer à "
+"lire le Wiki pour vous [plonger dans le code de uCoin "
+"(en)](https://github.com/ucoin-io/ucoin/wiki/Dive-into-the-code) et [nous "
+"contacter](/contact)."
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:25
 msgid "#### As a designer/frontend developer"
-msgstr ""
+msgstr "#### Comme designer/développeur front-end"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:27
@@ -93,11 +121,14 @@ msgid ""
 "design? Feel free to propose your skills, any help is welcome. What probably "
 "uCoin needs the most is: **a logo**!"
 msgstr ""
+"Voyez-vous ce magnifique site web ? Vous voulez en améliorer le contenu, le "
+"design ? Sentez-vous libre de proposer vos compétences, toute aide est la "
+"bienvenue. Ce que uCoin a probablement le plus besoin est **un logo** !"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:29
 msgid "#### As a mathematician"
-msgstr ""
+msgstr "#### Comme mathématicien"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:31
@@ -108,11 +139,17 @@ msgid ""
 "experts in that domain. So, if Graph Theory is your every day life, **do not "
 "hesitate to come to us!**"
 msgstr ""
+"Le protocole uCoin utilise les propriétés de la Théorie des Graphes pour "
+"construire une Toile de Confiance d'individus vivants et uniques. Même si "
+"l'équipe uCoin est composée d'ingénieurs et docteurs, la Théorie des Graphes "
+"n'est pas quelque chose de facile et nous aurions probablement besoin "
+"d'experts dans ce domaine. Donc, si la Théorie des Graphes est votre vie de "
+"tous les jours, **n'hésitez pas à venir nous voir !**"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:33
 msgid "#### As a preacher"
-msgstr ""
+msgstr "#### Comme apôtre"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:34
@@ -121,3 +158,6 @@ msgid ""
 "articles, share links, knowledge, experiences, whatever! No need to ask, "
 "simply do it!"
 msgstr ""
+"Hé bien, ici, vous n'avez pas besoin de nous pour vous aider : parlez de "
+"uCoin, faites-en des articles, partagez des liens, des connaissances, peu "
+"importe ! Pas besoin de nous demander, faites, tout simplement !"
