@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2015-08-18 11:29+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"presentation/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:2
 msgid "# Presentation"
-msgstr ""
+msgstr "# Présentation"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:4
@@ -33,11 +35,20 @@ msgid ""
 "**Blockchain code** which is far more energy efficient, putting away this "
 "massive energy waste introduced by Bitcoin."
 msgstr ""
+"uCoin est un logiciel de _crypto-monnaie_, c'est-à-dire qu'il s'agit d'un "
+"**logiciel** permettant de **créer des monnaies**. uCoin est différent des "
+"autres logiciels de crypto-monnaie que vous connaissez peut-être (Bicoin, "
+"Litecoin, Peercoin, ...) pour 2 raisons principales : son **code monétaire** "
+"qui inclut à la fois les concepts de [Dividende "
+"Universel](https://fr.wikipedia.org/wiki/Cr%C3%A9dit_social) et de [Toile de "
+"Confiance](https://fr.wikipedia.org/wiki/Toile_de_confiance), mais aussi son "
+"**code de Blockchain** qui est bien moins énergivore, solutionnant l'énorme "
+"gâchis d'énergie électrique introduit par Bitcoin."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:6
 msgid "## Outline"
-msgstr ""
+msgstr "## Les grandes lignes"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:8
@@ -45,6 +56,8 @@ msgid ""
 "> **Any member is co-producer of the money** without doing anything, just "
 "for being a human of the monetary Community."
 msgstr ""
+"> **Tout membre est co-producteur de la monnaie** sans rien faire, juste "
+"pour être un humain de la Communauté monétaire."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:10
@@ -53,6 +66,9 @@ msgid ""
 "Dividend (i.e. monetary Basic Income) coming from new money directly issued "
 "by members and to members."
 msgstr ""
+"C'est de là que vient la monnaie : chaque membre reçoit régulièrement un "
+"Dividende Universel (c'est-à-dire un Revenu de Base) provenant de la "
+"nouvelle monnaie directement émise par les membres vers eux-même."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:12
@@ -60,6 +76,8 @@ msgid ""
 "> **Any member needs signatures from other members** to join in or simply "
 "stay in the Community."
 msgstr ""
+"> **Tout membre a besoin de signatures provenant d'autres membres** afin de "
+"rejoindre ou simplement rester dans la Communauté monétaire."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:14
@@ -69,6 +87,11 @@ msgid ""
 "identities. This implies a regular and renewed recognition of each member's "
 "identity so we are confident each individual is real and alive."
 msgstr ""
+"Chaque membre est *fortement identifié* à travers un mécanisme de « toile de "
+"confiance » pour éviter de recevoir de multiples dividendes universels grâce "
+"à de multiples identités. Cela implique une reconnaissance régulière et "
+"renouvelée de l’identité de chacun afin que la confiance en celui-ci soit "
+"réelle et vivante."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:16
@@ -76,6 +99,9 @@ msgid ""
 "> **Data is fully distributed through the P2P network** to avoid any central "
 "power highly subject to corruption or Single Point of Failure issues."
 msgstr ""
+"> **Les données sont entièrement distribuées par le réseau de P2P** pour "
+"éviter toute centralisation très sujette à corruption ou point de "
+"défaillance unique."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:18
@@ -83,16 +109,19 @@ msgid ""
 "Data is fully managed by the _P2P network_ so a free currency does not fall "
 "under few hands control and can stay a free currency."
 msgstr ""
+"Les données sont entièrement gérées par le *réseau P2P*, ainsi la monnaie ne "
+"tombe pas sous le contrôle de quelques mains et peut rester une monnaie "
+"libre."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:20
 msgid "## A bit more"
-msgstr ""
+msgstr "## Plus de détails"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:22
 msgid "### Money is co-produced by all the community members"
-msgstr ""
+msgstr "### La monnaie est co-produite par tous les membres de la Communauté"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:24
@@ -107,11 +136,25 @@ msgid ""
 "be identified in the software, and thus a mechanism to avoid people being "
 "able to create fake accounts for producing more money than others."
 msgstr ""
+"C'est réellement la fonction principale : la monnaie est co-produite *de "
+"manière égale* par les membres de la communauté (aussi connue sous le nom de "
+"Toile de Confiance (TdC)). Une telle égalité est assurée à la fois dans "
+"l'espace et dans le temps de manière à ce que les nouveaux venus ne soient "
+"pas exclus du processus de production de la monnaie [comme on peut "
+"malheureusement l'observer avec "
+"Bitcoin](http://magazine.ouishare.net/fr/2013/07/game-over-bitcoin-monnaie-"
+"virtuelle/), et donc **il ne sera pas nécessaire de créer un énième cousin "
+"de Bitcoin pour bénéficier de votre part de nouvelle monnaie**. Cette co-"
+"production implique toutefois que les membres soient identifiés dans le "
+"logiciel, et donc un mécanisme pour empêcher les individus de créer "
+"plusieurs comptes afin de produire plus de monnaie que les autres."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:26
 msgid "### No more CPU race: an energy efficient Blockchain"
 msgstr ""
+"### La fin d'une course au processeur : une Blockchain efficace "
+"énergétiquement"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:28
@@ -131,51 +174,71 @@ msgid ""
 "member is recognized (its identity is trusted - not its acts) if he fits the "
 "WoT rules:"
 msgstr ""
+"Les blockchains classiques utilisent la puissance CPU pour résoudre des "
+"problèmes de sécurité. Même si cela fonctionne (en tout cas, il semble que "
+"oui), c'est un processus coûtant très cher d'un point de vue énergétique. "
+"uCoin parie qu'il est possible d'avoir un processus similaire mais *bien "
+"plus efficace* énergétiquement, qui ne soit pas non plus le petit frère de "
+"la Preuve de Travail aussi nommé \"Preuve de possession\" (le pouvoir par "
+"les riches). uCoin bénéficie d'une ressource particulière pour atteindre ce "
+"but : chaque bloc est calculé exclusivement par les membres. Cela signifie "
+"que ni super-Google ni aucun groupe au supers pouvoirs ne serait capable de "
+"prendre le contrôle de la blockchain. De plus, uCoin ajoute un règle de "
+"rotation afin qu'**un membre seul ne puisse pas prendre le contrôle non "
+"plus**. Un groupe d'utilisateurs le pourrait, mais cela impliquerait que "
+"leur puissance de calcul serait plus élevée que le reste de la communauté de "
+"membres connectée au réseau. C'est ici qu'intervient la Toile de Confiance : "
+"chaque membre est reconnu (nous avons confiance en son identité, pas "
+"spécialement ses actes) s'il remplit les règles de la TdC :"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:31
 msgid "the members must have enough signatures (links) from other members"
-msgstr ""
+msgstr "le membre doivent avoir assez de signatures (liens) des autres membres"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:31
 msgid "the member is close enough from any other member"
-msgstr ""
+msgstr "le membre doit être assez proche de chaque autre membre"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:33
 msgid "given the facts that:"
-msgstr ""
+msgstr "sachant que :"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "signatures expire (the have a validity duration)"
-msgstr ""
+msgstr "les signatures expirent (elles ont une durée de validité)"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "a given link must see a delay before being replayed"
-msgstr ""
+msgstr "a lien donné doit observer un délai avant de pouvoir être rejoué"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "a member must wait a delay between each signature he makes (like a week)"
 msgstr ""
+"un membre doit observer un délai entre chaque signature qu'il effectue (ex. :"
+" une semaine)"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "a member have a limit in the number of links he can make to others"
 msgstr ""
+"un membre a une limite dans le nombre de liens qu'il peut faire vers les "
+"autres"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "links cannot be made in the future"
-msgstr ""
+msgstr "les liens ne peuvent pas être écris dans le futur"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "links cannot be made too far in the past"
-msgstr ""
+msgstr "les liens ne peuvent pas être écrits trop loin dans le passé"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:42
@@ -191,11 +254,23 @@ msgid ""
 "accounts easier too. This is all a matter of which parameters are used for "
 "which maximum community size."
 msgstr ""
+"Ces règles sont ce qui permet raisonnablement de s'assurer que la grande "
+"majorité de la Toile de Confiance soit composée d'individus vivants et "
+"uniques. Selon les paramètres de la monnaie, ces règles peuvent devenir "
+"aussi bien faciles que très difficiles à passer. Par exemple, si chaque "
+"membre doit être directement signé par chaque autre membre (distance = 1), "
+"alors il ne sera pas possible d'avoir de faux comptes (à moins que chacun "
+"soit d'accord avec cela). Mais une telle communauté sera forcément très "
+"réduite. A l'opposé, une distance de 5 signifierait qu'il existe un chemin "
+"de 5 liens entre toute paire de membre (de l'un vers l'autre). Cela serait "
+"une communauté plus grande et bien plus facile à réaliser, mais les faux "
+"comptes le seraient également. C'est là toute la difficulté de choisir les "
+"bons paramètres pour une taille maximale de communauté."
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:44
 msgid "## Want more details?"
-msgstr ""
+msgstr "## Plus de détails ?"
 
 #. type: Plain text
 #: 2015-08-11-presentation.md:45
@@ -203,3 +278,5 @@ msgid ""
 "To get deeper in uCoin's concepts, check the "
 "[Theoretical](http://blog.ucoin.io/theoretical/ \"Theoretical\") page."
 msgstr ""
+"Pour aller plus loin dans les concepts de uCoin, faites un tour du coté de "
+"la [Théorie](http://blog.ucoin.io/theoretical/)."
