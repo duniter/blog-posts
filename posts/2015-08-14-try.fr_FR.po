@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2015-08-18 19:16+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"try/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
 #: 2015-08-14-try.md:2
 msgid "# Try our testing currency!"
-msgstr ""
+msgstr "# Essayez notre monnaie de test !"
 
 #. type: Plain text
 #: 2015-08-14-try.md:4
@@ -27,6 +29,8 @@ msgid ""
 "Even if uCoin is still in a development phase, you can already have a try on "
 "it, *today*."
 msgstr ""
+"Même si uCoin est encore en phase de développement, vous pouvez l'essayer *"
+"dès aujourd'hui*."
 
 #. type: Plain text
 #: 2015-08-14-try.md:6
@@ -35,6 +39,10 @@ msgid ""
 "alive, being actively used by a dozen of people you can interact with to get "
 "used to this new kind of currency."
 msgstr ""
+"Nous mettons à disposition une monnaie de test appelée **meta_brouzouf**. "
+"Cette monnaie est vivante, étant activement utilisée par une douzaine de "
+"personnes avec qui vous pouvez interagir pour vous habituer à ce nouveau "
+"genre de monnaie."
 
 #. type: Plain text
 #: 2015-08-14-try.md:8
@@ -43,6 +51,10 @@ msgid ""
 "[tutorial](http://forum.ucoin.io/t/subscribing-to-meta-brouzouf-testing-currency/199) "
 "you need to follow to join the community and use the currency."
 msgstr ""
+"Dans ce but, nous avons écrit un [tutoriel "
+"(anglais)]((http://forum.ucoin.io/t/subscribing-to-meta-brouzouf-testing-"
+"currency/199) que vous devez suivre pour rejoindre la communauté et utiliser "
+"la monnaie."
 
 #. type: Plain text
 #: 2015-08-14-try.md:10
@@ -51,11 +63,16 @@ msgid ""
 "downloading a software, extracting it from a compressed folder and "
 "understanding that the software will connect to the internet."
 msgstr ""
+"> N.B. : ce tutoriel requiert des compétences basiques en informatique : "
+"télécharger un logiciel, l'extraire de son dossier compressé et comprendre "
+"que le logiciel utilisera votre accès internet."
 
 #. type: Plain text
 #: 2015-08-14-try.md:12
 msgid "> This is no big deal for most people, but we prefer you to be warned!"
 msgstr ""
+"> Ce n'est pas un problème pour la plupart des personnes, mais nous "
+"préférons vous prévenir !"
 
 #. type: Plain text
 #: 2015-08-14-try.md:14
@@ -65,6 +82,10 @@ msgid ""
 "this to occur. The network will perform this task by its own. This is a rule "
 "of the currency."
 msgstr ""
+"Une fois votre inscription finalisée, vous produirez automatiquement de la "
+"nouvelle monnaie quotidiennement. Vous *n'avez pas besoin d'avoir votre "
+"logiciel lancé* pour que cela se produise. Le réseau s'occupera de cette "
+"tâche de lui-même. C'est une des règles du système monétaire."
 
 #. type: Plain text
 #: 2015-08-14-try.md:16
@@ -72,13 +93,15 @@ msgid ""
 "Finally you can play with the software to handle your wallets, transfer "
 "money and certify people!"
 msgstr ""
+"Finalement, vous pourrez jouer avec le logiciel pour apprendre à gérer vos "
+"portefeuilles, transférer de la monnaie et certifier d'autres personnes !"
 
 #. type: Plain text
 #: 2015-08-14-try.md:18
 msgid "Enjoy this little taste of future!"
-msgstr ""
+msgstr "Profitez bien de ce petit goût de futur !"
 
 #. type: Plain text
 #: 2015-08-14-try.md:19
 msgid "![](/content/images/2015/08/Capture-du-2015-06-09-21-38-05-1.png)"
-msgstr ""
+msgstr "![](/content/images/2015/08/Capture-du-2015-06-09-21-38-05-1.png)"
