@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2015-08-18 18:35+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-08-20 17:26+0000\n"
+"Last-Translator: Maël AZIMI <moul@moul.re>\n"
 "Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "faq/fr_FR/>\n"
 "Language: fr_FR\n"
@@ -21,27 +21,27 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:2
 msgid "# FAQ"
-msgstr ""
+msgstr "# Foire à questions"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:4
 msgid "## General aspects"
-msgstr ""
+msgstr "## Aspects généraux"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:6
 msgid "### uCoin in 3 words?"
-msgstr ""
+msgstr "### uCoin en trois mots ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:8
 msgid "Free Currency System."
-msgstr ""
+msgstr "Système monétaire libre"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:10
 msgid "### Free currency?"
-msgstr ""
+msgstr "### Monnaie libre ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:12
@@ -51,11 +51,15 @@ msgid ""
 "freedoms](http://ucoin.io/theoretical/#a-free-economy), and leading to apply "
 "_Universal Dividend_ to its members."
 msgstr ""
+"Il s’agit d’un nouveau mot, étant donné qu’aucune monnaie libre n’ait existé "
+"auparavant : une monnaie libre [respecte les quatre libertés "
+"économiques](http://ucoin.io/theoretical/#a-free-economy), ayant pour but "
+"que ses membres co-créent un _dividende universel_."
 
 #. type: Plain text
 #: 2015-08-11-faq.md:14
 msgid "### Universal Dividend?"
-msgstr ""
+msgstr "### Dividende Universel ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:16
