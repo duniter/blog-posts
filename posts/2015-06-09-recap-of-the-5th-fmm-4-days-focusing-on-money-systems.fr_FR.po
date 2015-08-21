@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2015-08-18 20:05+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-08-21 14:10+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "recap-5th-fmm-4-days-focusing-money-systems/fr_FR/>\n"
 "Language: fr_FR\n"
@@ -387,7 +387,6 @@ msgstr ""
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:82
-#, fuzzy
 msgid "![](/content/images/2015/08/rtm_in_color-1024x664.png)"
 msgstr "![](/content/images/2015/08/rtm_in_color-1024x664.png)"
 
@@ -407,7 +406,6 @@ msgstr ""
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:86
-#, fuzzy
 msgid "![](/content/images/2015/08/rtm_for_the_kids.png)"
 msgstr "![](/content/images/2015/08/rtm_for_the_kids.png)"
 
@@ -431,7 +429,6 @@ msgstr ""
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:92
-#, fuzzy
 msgid "![](/content/images/2015/08/wot_fmm5.png)"
 msgstr "![](/content/images/2015/08/wot_fmm5.png)"
 
@@ -442,7 +439,6 @@ msgstr "Et voici une vue d'ensemble de la monnaie :"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:96
-#, fuzzy
 msgid "![](/content/images/2015/08/metab_fmm5.png)"
 msgstr "![](/content/images/2015/08/metab_fmm5.png)"
 
