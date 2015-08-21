@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2015-08-21 17:06+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-08-21 17:52+0000\n"
+"Last-Translator: Maël AZIMI <moul@moul.re>\n"
 "Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "faq/fr_FR/>\n"
 "Language: fr_FR\n"
@@ -51,7 +51,7 @@ msgid ""
 "freedoms](http://ucoin.io/theoretical/#a-free-economy), and leading to apply "
 "_Universal Dividend_ to its members."
 msgstr ""
-"Il s’agit d’un nouveau mot, étant donné qu’aucune monnaie libre n’a existé "
+"Il s’agit d’un nouveau mot, étant donné qu’aucune monnaie libre n’ait existé "
 "auparavant : une monnaie libre [respecte les quatre libertés "
 "économiques](http://ucoin.io/theoretical/#uneeconomielibre), et menant à la "
 "co-production d'un_dividende universel_ par ses membres."
@@ -72,9 +72,9 @@ msgid ""
 "issued _by_ individuals and _to_ individuals."
 msgstr ""
 "C'est un cas particulier de [Revenu de "
-"Base](https://www.wikiwand.com/fr/Revenu_de_base) : un montent que tout "
+"Base](https://www.wikiwand.com/fr/Revenu_de_base) : un montant que tout "
 "individu reçoit sur une base régulière (mensuelle, annuelle,...) sans autre "
-"condition que d'être un membre unique et vivant dans la Communauté. **Ce "
+"condition que d'être un membre unique et vivant dans la communauté. **Ce "
 "n'est pas un système de redistribution**. C'est un __système monétaire__ où "
 "la monnaie est directement émise __par__ les individus __pour__ les "
 "individus."
@@ -100,7 +100,7 @@ msgid ""
 "Identify unique & living individuals (a.k.a _members_ of the monetary "
 "community)"
 msgstr ""
-"d'identifier des individus uniques et vivants (soit, des __membres__ de la "
+"d’identifier des individus uniques et vivants (soit, des __membres__ de la "
 "communauté monétaire)"
 
 #. type: Bullet: '*   '
@@ -125,7 +125,7 @@ msgid ""
 "both applying _Universal Dividend_ and considerably save energy power "
 "compared to Bitcoin."
 msgstr ""
-"A vrai dire, uCoin est une __[cryptomonnaie](https://www.wikiwand.com/fr"
+"À vrai dire, uCoin est une __[cryptomonnaie](https://www.wikiwand.com/fr"
 "/Crypto-monnaie)__ de la même manière que l'est Bitcoin. De plus, les deux "
 "systèmes utilisent la technologie de la [Preuve de "
 "travail](https://www.wikiwand.com/fr/Preuve_de_travail) pour synchroniser et "
@@ -137,7 +137,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:29
 msgid "### Still using Proof of Work?"
-msgstr "### La Preuve de Travail est toujours utilisée ?"
+msgstr "### Est-ce que la Preuve de Travail est toujours utilisée ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:31
@@ -149,7 +149,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:33
 msgid "### What is a Web of Trust?"
-msgstr "### Qu'est-ce que la Toile de Confiance ?"
+msgstr "### Qu’est-ce que la Toile de Confiance ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:35
@@ -192,8 +192,8 @@ msgid ""
 "Everybody: an individual, a collective (company, association, ...), there is "
 "no restriction here."
 msgstr ""
-"Tout le monde : un individu, un collectif (entreprise, association, ...), il "
-"n'y a absolument aucune restriction."
+"Tout le monde : un individu, un collectif (une entreprise, une association…)"
+", il n'y a absolument aucune restriction."
 
 #. type: Plain text
 #: 2015-08-11-faq.md:47
@@ -226,7 +226,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:55
 msgid "### How to subscribe?"
-msgstr "### Comment s'inscrire ?"
+msgstr "### Comment s’inscrire ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:57
@@ -238,13 +238,13 @@ msgid ""
 msgstr ""
 "Les nouveaux (individus qui ne sont pas encore membres) peuvent créer leur "
 "propre clé, l'attacher à leur identité, et être certifiés par des membres "
-"existants. Finalement, ils n'ont plus qu'à émettre une demande d'adhésion à "
-"la Toile de Confiance pour que le système les accepte."
+"existants. Finalement, ils n'ont plus qu'à émettre une demande d'adhésion "
+"sur Toile de Confiance pour que le système les accepte."
 
 #. type: Plain text
 #: 2015-08-11-faq.md:59
 msgid "### What is Web of Trust?"
-msgstr "### Qu'est-ce que la Toile de Confiance ?"
+msgstr "### Qu’est-ce que la Toile de Confiance ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:61
@@ -274,7 +274,7 @@ msgstr "### Quelles sont les règles de la Toile de Confiance ?"
 #. type: Plain text
 #: 2015-08-11-faq.md:65
 msgid "Joining the Web of Trust requires to fit 3 conditions:"
-msgstr "Rejoindre la Toile de Confiance se fait sous 3 conditions :"
+msgstr "Rejoindre la Toile de Confiance se fait sous trois conditions :"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-faq.md:69
@@ -361,7 +361,7 @@ msgstr "> c = 0.0036815 DU(0) = 100 dt ~= 2 semaines"
 #: 2015-08-11-faq.md:90
 msgid "to lead to a 9.22% annual « c », but issued through 2 weeks chunks."
 msgstr ""
-"ce qui mène à un « c » annuel de 9.22%, mais émis toutes les deux semaines."
+"ce qui mène à un « c » annuel de 9,22 %, mais émis toutes les deux semaines."
 
 #. type: Plain text
 #: 2015-08-11-faq.md:92
@@ -371,7 +371,7 @@ msgid ""
 "results may be found in the "
 "[RMT](http://wiki.creationmonetaire.info/images/f/f8/TRM_2_718_b.pdf).</div>"
 msgstr ""
-"Note: un  « c » annuel de 9.22% permet une symétrie centrale entre des "
+"Note : un  « c » annuel de 9,22 % permet une symétrie centrale entre des "
 "générations d'espérance de vie de 80 ans. Ces résultats peuvent être trouvés "
 "dans la "
 "[TRM](http://wiki.creationmonetaire.info/images/f/f8/TRM_2_718_b.pdf)."
@@ -465,7 +465,7 @@ msgid ""
 "At any moment, the common data structure of uCoin (the _blockchain_) allows "
 "to know it: membership is simply written in it. Anyone may check it."
 msgstr ""
-"A tout moment, la structure de donnée publique de uCoin (la _blockchain_) "
+"À tout moment, la structure de donnée publique de uCoin (la _blockchain_) "
 "vous permet de le savoir : les adhésions y sont simplement écrites. "
 "N'importe qui peut le vérifier."
 
@@ -473,7 +473,7 @@ msgstr ""
 #: 2015-08-11-faq.md:117
 msgid "### How is it ensured no member can cheat by having multiple accounts?"
 msgstr ""
-"### Comment s'assurer que personne ne triche en possédant plusieurs comptes ?"
+"### Comment s’assurer que personne ne triche en possédant plusieurs comptes ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:119
@@ -512,7 +512,7 @@ msgstr "## uCoin pour les validateurs"
 #. type: Plain text
 #: 2015-08-11-faq.md:123
 msgid "### What is a validator?"
-msgstr "### Qu'est-ce qu'un validateur ?"
+msgstr "### Qu'est-ce qu’un validateur ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:125
@@ -541,7 +541,7 @@ msgstr ""
 "une blockchain. Une blockchain est une succession de blocs qui sont empilés "
 "ensembles de manière séquentielle.  Chaque bloc contient des informations "
 "sur les membres et leurs transactions.  \n"
-"Une blockchain donne deux informations majeures, pour tout temps t :"
+"Une blockchain donne deux informations majeures, pour tout instant t :"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-faq.md:132
@@ -599,7 +599,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:142
 msgid "### Why not allowing non-member to write the blockchain?"
-msgstr "### Pourquoi ne pas permettre aux non-membres d'écrire la blockchain ?"
+msgstr "### Pourquoi ne pas permettre aux non-membres d’écrire la blockchain ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:144
@@ -756,7 +756,7 @@ msgid ""
 "### Isn't there a risk a single member always succeed in proposing a valid "
 "block before others?"
 msgstr ""
-"### N'y a-t-il un risque qu'un seul membre réussisse systématiquement à "
+"### N’y a-t-il un risque qu’un seul membre réussisse systématiquement à "
 "proposer un bloc valide avant les autres ?"
 
 #. type: Plain text
@@ -793,7 +793,7 @@ msgstr "## Logiciel serveur"
 #. type: Plain text
 #: 2015-08-11-faq.md:188
 msgid "### Which OS are supported?"
-msgstr "### Quels systèmes d'exploitation sont supportés ?"
+msgstr "### Quels systèmes d’exploitation sont supportés ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:190
@@ -803,11 +803,11 @@ msgid ""
 "external dependencies). For now, Ubuntu 12.04 to 14.04 have been tested. But "
 "any recent GNU/Linux distribution should be able to do the job."
 msgstr ""
-"À l'heure actuelle, seulement GNU / Linux et MacOS X sont pris en charge, "
+"À l'heure actuelle, uniquement GNU/Linux et Mac OS X sont pris en charge, "
 "mais le logiciel devrait également fonctionner sur Windows (mais plus "
 "difficile à installer en raison de dépendances externes).  \n"
 "Pour le moment, Ubuntu 12.04 à 14.04 ont été testés. Mais toute distribution "
-"récente de GNU / Linux devrait être en mesure de faire le travail."
+"récente de GNU/Linux devrait être en mesure de faire le travail."
 
 #. type: Plain text
 #: 2015-08-11-faq.md:192
@@ -847,7 +847,7 @@ msgstr ""
 #: 2015-08-11-faq.md:203
 msgid "### Do you plan to have a [Docker](https://www.docker.com/) installation?"
 msgstr ""
-"### Prévoyez-vous d'avoir une installation [Docker](https://www.docker.com/) "
+"### Prévoyez-vous d’avoir une installation [Docker](https://www.docker.com/) "
 "?"
 
 #. type: Plain text
@@ -858,7 +858,7 @@ msgstr "Oui."
 #. type: Plain text
 #: 2015-08-11-faq.md:207
 msgid "## Getting involved"
-msgstr "## S'impliquer"
+msgstr "## S’impliquer"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:209
@@ -972,7 +972,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:234
 msgid "### What to learn first?"
-msgstr "### Qu'apprendre en premier ?"
+msgstr "### Qu’apprendre en premier ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:236
@@ -1002,7 +1002,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-faq.md:238
 msgid "### The best way to stay tuned?"
-msgstr "### La meilleure façon de rester à l'écoute ?"
+msgstr "### La meilleure façon de rester à l’écoute ?"
 
 #. type: Plain text
 #: 2015-08-11-faq.md:239
