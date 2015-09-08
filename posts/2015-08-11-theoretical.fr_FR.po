@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2015-08-18 11:52+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-09-08 08:44+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
 "Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "theoretical/fr_FR/>\n"
 "Language: fr_FR\n"
@@ -206,7 +206,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-theoretical.md:30
 msgid "### The Blockchain"
-msgstr "### La Blokchain"
+msgstr "### La Blockchain"
 
 #. type: Plain text
 #: 2015-08-11-theoretical.md:32
@@ -255,7 +255,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-11-theoretical.md:38
 msgid "#### Transactions"
-msgstr "#### Les transaction"
+msgstr "#### Les transactions"
 
 #. type: Plain text
 #: 2015-08-11-theoretical.md:40
@@ -342,7 +342,7 @@ msgstr ""
 "membres afin d'écrire la blockchain: cela nous permet à la fois d'éviter le "
 "problème  du gaspillage d'énergie introduit par la preuve de travail et "
 "facilement balayer l'attaque de 51% dans uCoin. Concrètement, uCoin a un **"
-"challenge personnalisé** pour chacun de ses membres qui est plus en plus "
+"challenge personnalisé** pour chacun de ses membres qui est de plus en plus "
 "difficile pour le membre qui réussit l'écriture d'un bloc, alors qu'il "
 "devient plus facile - jusqu'à un plancher donné - pour les autres. Ce "
 "mécanisme assure une rotation dans l'écriture de la blockchain, tout en "
