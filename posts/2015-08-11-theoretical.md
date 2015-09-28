@@ -1,5 +1,3 @@
-# Theoretical
-
 ## A cryptocurrency system
 
 uCoin uses the crypto-currency concept introduced by Bitcoin, which is to use cryptography features such as _signature_ to create digital currencies. uCoin fits in this definition, however it has completely different fundation principles than Bitcoin like Web of Trust and Universal Dividend to do _really_ better than Bitcoin. Actually, uCoin has a theoretical reference called [Relative Money Theory](http://vit.free.fr/TRM/en_US/). This theory **demonstrates** that a currency which aims at respecting each individual's economic liberties MUST implement the Universal Dividend (aka. _Basic Income_), which is the only way to avoid both spatial and temporal asymmetry toward money issuance.
@@ -53,11 +51,11 @@ Like any P2P crypto-currency system, uCoin has a way to synchronize its peers fo
 
 ### To summarize
 
-uCoin's blockchain can be compared to Bitcoin's blockchain: a great book tracing the history of each membership inside the Community along with the transactions of its users. With the blockchain, we have the **fundamental referential** of the[Relative Money Theory](http://wiki.creationmonetaire.info/) (humans), and the flow of transactions emitted by the currency users.
+uCoin's blockchain can be compared to Bitcoin's blockchain: a great book tracing the history of each membership inside the Community along with the transactions of its users. With the blockchain, we have the **fundamental referential** of the [Relative Money Theory](http://vit.free.fr/TRM/en_US/) (humans), and the flow of transactions emitted by the currency users.
 
 ## A free economy
 
-The goal of all this is to allow people to participate to a _free economy_ thanks to a _free currency_. What is a free economy? [Relative Money Theory (french)](http://wiki.creationmonetaire.info/) defines it through 4 economic freedoms:
+The goal of all this is to allow people to participate to a _free economy_ thanks to a _free currency_. What is a free economy? [Relative Money Theory](http://vit.free.fr/TRM/en_US/) defines it through 4 economic freedoms:
 
 *   **The freedom to choose your currency system**: because money should not be imposed
 *   **The freedom to access resources**: because we _all_ should have access to economic & monetary resources
