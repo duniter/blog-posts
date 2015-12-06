@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-12-06 12:36-0500\n"
+"POT-Creation-Date: 2015-12-06 16:40-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,11 @@ msgstr ""
 
 #. type: Plain text
 #: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:2
+msgid "# Les 6èmes rencontres des monnaies libres à Valence du 12 au 15 Novembre !"
+msgstr ""
+
+#. type: Plain text
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:4
 msgid ""
 "C'est officiel : les 6èmes rencontres des monnaies libres [auront lieu à "
 "l'IUT de Valence](http://connex-asso.net/?p=27) ! Et le "
@@ -25,19 +30,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:4
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:6
 msgid "### Les 12 et 13 Novembre : la technique"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:6
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:8
 msgid ""
 "Les 2 premières journées seront dédiées aux aspects techniques des premiers "
 "logiciels permettant la réalisation des monnaies libres, avec notamment :"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:12
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:14
 #, no-wrap
 msgid ""
 "* une présentation de **uCoin** incluant :\n"
@@ -52,24 +57,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:14
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:16
 msgid "### Le 14 Novembre : jeu Ğeconomicus et travaux pratiques !"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:16
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:18
 msgid "Cette journée sera divisée en 2 groupes, selon le niveau de chacun :"
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:22
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:24
 msgid ""
 "un 1er groupe participera au jeu Ğeconomicus permettant de révéler le code "
 "des systèmes monétaires et de leur implication en termes économiques"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:22
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:24
 #, no-wrap
 msgid ""
 "* un 2nd groupe participera à un atelier animé par Stéphane Laborde, "
@@ -86,7 +91,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:24
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:26
 msgid ""
 "<iframe width=\"560\" height=\"315\" "
 "src=\"https://www.youtube.com/embed/4lDmgOvgKP4?list=PL0UDqLtXevvH1w83dlXvs7PmLKaJlFnMx\" "
@@ -94,24 +99,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:26
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:28
 msgid "### Le 15 Novembre : toutes contributions !"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:28
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:30
 msgid ""
 "La dernière journée se veut ouverte à toutes les contributions (qui restent "
 "à définir et feront l'objet d'un prochain post) qui peuvent aller :"
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:34
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
 msgid "de la manipulation des logiciels Cutecoin et uCoinApps"
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:34
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
 msgid ""
 "de la présentation d'autres projets autour de la TRM (*la TRM en couleur*, "
 "*la TRM pour les enfant*, *la TRM en détails*, la traduction de la TRM en "
@@ -119,24 +124,24 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:34
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
 msgid ""
 "des plateformes d'échange autour de la TRM, des monnaies libres (blogs, "
 "forums, ...)"
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:34
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
 msgid "des questions pratiques pour le lancement de monnaies libres"
 msgstr ""
 
 #. type: Bullet: '* '
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:34
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
 msgid "... liste non exhaustive !"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:36
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:38
 msgid ""
 "<iframe width=\"425\" height=\"350\" frameborder=\"0\" scrolling=\"no\" "
 "marginheight=\"0\" marginwidth=\"0\" "
@@ -147,7 +152,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:37
+#: posts/2015-09-29-les-6emes-rencontres-des-monnaies-libres-a-valence-du-12-au-15-novembre.md:39
 msgid ""
 "Pour tous les détails, suivez le site de "
 "[connex-asso.net](http://connex-asso.net/)."

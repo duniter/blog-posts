@@ -1,3 +1,5 @@
+# Les 6èmes rencontres des monnaies libres à Valence du 12 au 15 Novembre !
+
 C'est officiel : les 6èmes rencontres des monnaies libres [auront lieu à l'IUT de Valence](http://connex-asso.net/?p=27) ! Et le [programme](http://connex-asso.net/?p=82) se précise !
 
 ### Les 12 et 13 Novembre : la technique
