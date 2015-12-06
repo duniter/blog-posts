@@ -24,12 +24,6 @@ do
     fi
 	done;
 
-  export_zip="export/export_$lang.zip"
-  if [[ -f "$export_zip" ]]; then
-    rm $export_zip
-  fi
-  zip -9 -j -r $export_zip export/$lang/*
-
 	## custom pages
 	#for post in navigation featured;
 	#do
@@ -43,4 +37,14 @@ do
 		#po4a-translate -f text -m $root/posts/posts/$post.html -p $root/posts/posts/$post.$lang.po -l $root/posts/posts/$post.$lang.html
 		#cp $root/posts/posts/$post.$lang.html $root/$lang/content/themes/ghostium/partials/$post.hbs
 	#done;
+done;
+for lang in fr_FR en_EN;
+do
+  sleep 1
+  export_zip="export/export_$lang.zip"
+  if [[ -f "$export_zip" ]]; then
+    rm $export_zip
+  fi
+
+  zip -9 -j -r $export_zip export/$lang/*
 done;
