@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-12-06 12:36-0500\n"
+"POT-Creation-Date: 2015-12-07 07:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,11 +18,16 @@ msgstr ""
 
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:2
-msgid "## A cryptocurrency system"
+msgid "# Theoretical"
 msgstr ""
 
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:4
+msgid "## A cryptocurrency system"
+msgstr ""
+
+#. type: Plain text
+#: posts/2015-08-11-theoretical.md:6
 msgid ""
 "uCoin uses the crypto-currency concept introduced by Bitcoin, which is to "
 "use cryptography features such as _signature_ to create digital "
@@ -37,12 +42,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:6
+#: posts/2015-08-11-theoretical.md:8
 msgid "## A space-time asymmetry"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:8
+#: posts/2015-08-11-theoretical.md:10
 msgid ""
 "Space-time asymmetry refers to the relative access of individuals to newly "
 "created money. Concretely, all existing currencies (2015) are both spatially "
@@ -51,12 +56,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:10
+#: posts/2015-08-11-theoretical.md:12
 msgid "### Spatially"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:12
+#: posts/2015-08-11-theoretical.md:14
 msgid ""
 "When new Bitcoins are created, _only some Bitcoin users_ (the miners) are "
 "credited of brand new Bitcoins, while the others get nothing. **We believe "
@@ -64,14 +69,14 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:14
+#: posts/2015-08-11-theoretical.md:16
 msgid ""
 "> <div class=\"ui message\">« but miners used their electricity and time to "
 "get it! »</div>"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:16
+#: posts/2015-08-11-theoretical.md:18
 msgid ""
 "... we would answer this work _shouldn't have been rewarded by newly created "
 "Bitcoins_. New Bitcoins should spread the whole Bitcoin community. Miners "
@@ -83,12 +88,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:18
+#: posts/2015-08-11-theoretical.md:20
 msgid "### Temporally"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:20
+#: posts/2015-08-11-theoretical.md:22
 msgid ""
 "Bitcoin has a planned limit of 21 million BTC, which means less and less "
 "bitcoins will be created over the time until 0 remains. So, once first "
@@ -103,12 +108,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:22
+#: posts/2015-08-11-theoretical.md:24
 msgid "## A solution"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:24
+#: posts/2015-08-11-theoretical.md:26
 msgid ""
 "Idea is the following: Bitcoin has teached us _it is possible_ to create a "
 "currency system allowing both to create digital money and to exchange it "
@@ -125,7 +130,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:26
+#: posts/2015-08-11-theoretical.md:28
 msgid ""
 "> uCoin however won't use OpenPGP for its cryptographic features: Elliptic "
 "Curves will be used instead for the conciseness of its generated keys and "
@@ -134,12 +139,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:28
+#: posts/2015-08-11-theoretical.md:30
 msgid "### The Blockchain"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:30
+#: posts/2015-08-11-theoretical.md:32
 msgid ""
 "Bitcoin's blockchain mechanism is important for us for two main "
 "reasons: **synchronization and security**. uCoin will still use it to "
@@ -151,12 +156,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:32
+#: posts/2015-08-11-theoretical.md:34
 msgid "#### Web of Trust"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:34
+#: posts/2015-08-11-theoretical.md:36
 msgid ""
 "The Web of Trust is to be written in our common document: the "
 "blockchain. Just the same way Bitcoin's transaction are written in Bitcoin's "
@@ -167,12 +172,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:36
+#: posts/2015-08-11-theoretical.md:38
 msgid "#### Transactions"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:38
+#: posts/2015-08-11-theoretical.md:40
 msgid ""
 "But that's not all: blockchain is also the place where _transactions_, the "
 "support of money, are sequentially stored and allow to define money "
@@ -182,17 +187,17 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:41
+#: posts/2015-08-11-theoretical.md:43
 msgid "money from another transaction [Bitcoin like]"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:41
+#: posts/2015-08-11-theoretical.md:43
 msgid "money from a Universal Dividend [uCoin specific]"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:43
+#: posts/2015-08-11-theoretical.md:45
 msgid ""
 "As you can see, no _generation transaction_ exists in uCoin. This kind of "
 "transaction is replaced by _Universal Dividend input_. Outputs, on their "
@@ -202,7 +207,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:45
+#: posts/2015-08-11-theoretical.md:47
 msgid ""
 "> Do note carefully that, even if they may participate, **companies won't be "
 "able to create money**. Only individuals will able to do it. This is a very "
@@ -210,12 +215,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:47
+#: posts/2015-08-11-theoretical.md:49
 msgid "#### Proof of Work"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:49
+#: posts/2015-08-11-theoretical.md:51
 msgid ""
 "Like any P2P crypto-currency system, uCoin has a way to synchronize its "
 "peers for writing its common document (the blockchain). However, uCoin's "
@@ -233,19 +238,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:51
+#: posts/2015-08-11-theoretical.md:53
 msgid ""
 "> It can be noted too that, since a block does not provide extra money "
 "creation, members won't be pushed into competing for writing next block."
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:53
+#: posts/2015-08-11-theoretical.md:55
 msgid "### To summarize"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:55
+#: posts/2015-08-11-theoretical.md:57
 msgid ""
 "uCoin's blockchain can be compared to Bitcoin's blockchain: a great book "
 "tracing the history of each membership inside the Community along with the "
@@ -255,12 +260,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:57
+#: posts/2015-08-11-theoretical.md:59
 msgid "## A free economy"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:59
+#: posts/2015-08-11-theoretical.md:61
 msgid ""
 "The goal of all this is to allow people to participate to a _free economy_ "
 "thanks to a _free currency_. What is a free economy? [Relative Money "
@@ -269,35 +274,35 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:64
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to choose your currency system**: because money should not be "
 "imposed"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:64
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to access resources**: because we _all_ should have access to "
 "economic & monetary resources"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:64
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to estimate & produce value**: because value is a purely "
 "relative to each individual, in space and time"
 msgstr ""
 
 #. type: Bullet: '*   '
-#: posts/2015-08-11-theoretical.md:64
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to trade with the money**: because we should not be limited by "
 "the avaible money supply"
 msgstr ""
 
 #. type: Plain text
-#: posts/2015-08-11-theoretical.md:65
+#: posts/2015-08-11-theoretical.md:67
 msgid ""
 "Those 4 economic freedoms should be understood together, not "
 "exclusively. Plus, _\"freedom\"_ has to be understood as "

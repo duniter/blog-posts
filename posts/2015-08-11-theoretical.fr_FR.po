@@ -3,104 +3,80 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2015-09-08 08:44+0000\n"
-"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
-"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
-"theoretical/fr_FR/>\n"
-"Language: fr_FR\n"
+"POT-Creation-Date: 2015-12-07 07:09-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:2
+#: posts/2015-08-11-theoretical.md:2
 msgid "# Theoretical"
-msgstr "# La théorie"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:4
+#: posts/2015-08-11-theoretical.md:4
 msgid "## A cryptocurrency system"
-msgstr "## Un système de crypto-monnaie"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:6
+#: posts/2015-08-11-theoretical.md:6
 msgid ""
 "uCoin uses the crypto-currency concept introduced by Bitcoin, which is to "
 "use cryptography features such as _signature_ to create digital "
 "currencies. uCoin fits in this definition, however it has completely "
 "different fundation principles than Bitcoin like Web of Trust and Universal "
 "Dividend to do _really_ better than Bitcoin. Actually, uCoin has a "
-"theoretical reference called [Relative Money Theory "
-"(french)](http://wiki.creationmonetaire.info/). This theory **demonstrates** "
-"that a currency which aims at respecting each individual's economic "
-"liberties MUST implement the Universal Dividend (aka. _Basic Income_), which "
-"is the only way to avoid both spatial and temporal asymmetry toward money "
-"issuance."
+"theoretical reference called [Relative Money "
+"Theory](http://vit.free.fr/TRM/en_US/). This theory **demonstrates** that a "
+"currency which aims at respecting each individual's economic liberties MUST "
+"implement the Universal Dividend (aka. _Basic Income_), which is the only "
+"way to avoid both spatial and temporal asymmetry toward money issuance."
 msgstr ""
-"uCoin utilise le concept de crypto-monnaie introduit par Bitcoin. Le "
-"principe est d'utiliser des fonctionnalités de cryptographie telle que la "
-"signature afin de créer des devises numériques. uCoin rentre dans cette "
-"définition, mais a des principes totalement différents de Bitcoin comme la "
-"toile de confiance et le dividende universel. En fait, uCoin a une référence "
-"théorique appelée Théorie Relative de la Monnaie (TRM) que vous trouverez "
-"détaillée ici: http://trm.creationmonetaire.info. Cette théorie démontre "
-"qu'une monnaie qui vise à respecter les libertés économiques de chaque "
-"individu doit mettre en œuvre le Dividende Universel (aka. Revenu de base). "
-"Ceci est  la seule façon d'éviter les asymétries spatiale et temporelle de "
-"l'émission de la monnaie."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:8
+#: posts/2015-08-11-theoretical.md:8
 msgid "## A space-time asymmetry"
-msgstr "## Une asymétrie spatio-temporelle"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:10
+#: posts/2015-08-11-theoretical.md:10
 msgid ""
 "Space-time asymmetry refers to the relative access of individuals to newly "
 "created money. Concretely, all existing currencies (2015) are both spatially "
 "and temporally asymmetrical for their users. Let's take Bitcoin example to "
 "understand why."
 msgstr ""
-"L'asymétrie spatio-temporelle se réfère à l'accès relatif des individus à la "
-"monnaie nouvellement créée. Concrètement, toutes les monnaies existantes "
-"(2015) sont à la fois spatialement et temporellement asymétriques pour leurs "
-"utilisateurs. Prenons par exemple le Bitcoin afin de comprendre pourquoi."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:12
+#: posts/2015-08-11-theoretical.md:12
 msgid "### Spatially"
-msgstr "### Spatialement"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:14
+#: posts/2015-08-11-theoretical.md:14
 msgid ""
 "When new Bitcoins are created, _only some Bitcoin users_ (the miners) are "
 "credited of brand new Bitcoins, while the others get nothing. **We believe "
 "this is the first injustice.** However, some might say:"
 msgstr ""
-"Lorsque de nouveaux BTC sont créés, *seuls certains utilisateurs* (les "
-"mineurs) sont crédités, tandis que les autres membres de la communauté ne "
-"reçoivent rien. **Nous pensons que ceci est la première injustice**. "
-"Cependant, certains pourraient dire :"
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:16
+#: posts/2015-08-11-theoretical.md:16
 msgid ""
 "> <div class=\"ui message\">« but miners used their electricity and time to "
 "get it! »</div>"
 msgstr ""
-"> <div class=\"ui message\">« *Mais les mineurs utilisent de l’électricité "
-"et du temps pour obtenir ces BTC !* »</div>"
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:18
+#: posts/2015-08-11-theoretical.md:18
 msgid ""
 "... we would answer this work _shouldn't have been rewarded by newly created "
 "Bitcoins_. New Bitcoins should spread the whole Bitcoin community. Miners "
@@ -110,23 +86,14 @@ msgid ""
 "owned several wallets. uCoin get rid of this problem in its conception by "
 "identifying its users and giving _the same amount to everyone_."
 msgstr ""
-"À cela, nous répondrions que ce travail *ne doit pas être récompensé par les "
-"BTC nouvellement créés*. Les nouveaux BTC devraient être répartis dans toute "
-"la communauté. Les mineurs devront être récompensé d’une autre façon. Bien "
-"sûr, Bitcoin ne peut pas créer de la monnaie grâce au revenu de base puisque "
-"les utilisateurs ne sont pas fortement identifiés. En possédant plusieurs "
-"portefeuilles, ils pourraient bénéficier plusieurs fois de la création de "
-"monnaie. uCoin se débarrasse de ce problème dans sa conception par "
-"l'identification de ses utilisateurs, ce qui permet de donner *le même "
-"montant à tout le monde*."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:20
+#: posts/2015-08-11-theoretical.md:20
 msgid "### Temporally"
-msgstr "### Temporellement"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:22
+#: posts/2015-08-11-theoretical.md:22
 msgid ""
 "Bitcoin has a planned limit of 21 million BTC, which means less and less "
 "bitcoins will be created over the time until 0 remains. So, once first "
@@ -139,27 +106,14 @@ msgid ""
 "Universal Dividend _grow by the time_ according to precise rules allowing "
 "members equality toward money issuance on a half-lifespan."
 msgstr ""
-"Bitcoin a une limite prévue de 21 millions de BTC. Cela signifie que de "
-"moins en moins de monnaie est créée au fil du temps (jusqu'à plus du tout). "
-"Ainsi, une fois que les premiers arrivants auront exploité chaque BTC, "
-"comment feront les suivants pour obtenir des BTC ? La réponse est: tout "
-"comme pour les euros ou les dollars. Pour obtenir de la monnaie, vous devrez "
-"forcément travailler pour ceux qui en possèdent déjà, ce qui ne permet pas "
-"de commencer son activité économique librement. **Nous pensons que c’est la "
-"seconde injustice**. Chaque membre d'une communauté monétaire devrait être "
-"égal face à l'émission de la monnaie et en obtenir la même quantité relative "
-"au cours du temps, *même s'il adopte le système en cours de route*. uCoin "
-"tend à corriger ce défaut en faisant croître le Dividende Universel en "
-"fonction du temps selon des règles précises permettant aux membres d’obtenir "
-"une quantité égale de monnaie sur la période d’une demie vie."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:24
+#: posts/2015-08-11-theoretical.md:24
 msgid "## A solution"
-msgstr "## Une solution"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:26
+#: posts/2015-08-11-theoretical.md:26
 msgid ""
 "Idea is the following: Bitcoin has teached us _it is possible_ to create a "
 "currency system allowing both to create digital money and to exchange it "
@@ -174,42 +128,23 @@ msgid ""
 "simple: **people define by themselves who is part of the community and who "
 "is not.**"
 msgstr ""
-"L’idée est la suivante: Bitcoin nous a enseigné *qu'il est possible* de "
-"créer un système monétaire permettant à la fois de créer la monnaie "
-"numérique et de l'échanger sans autorité centrale. Qu'est-ce que nous devons "
-"changer à *la façon dont la monnaie est créée* afin que nous ayons enfin un "
-"système symétrique ? Nous avons besoin de Bitcoin + le Dividende Universel. "
-"Mais le dividende universel *implique* d'avoir une communauté de personnes "
-"identifiées. C’est ici qu’intervient la toile de confiance (Web of Trust = "
-"WoT). Ce concept, introduit par la cryptographie avec le format OpenPGP, "
-"nous permet d'identifier les membres d'une manière décentralisée. Il "
-"fonctionne de cette façon: chacun crée une *identité personnelle*, liée à "
-"son certificat cryptographique, qui doit être confirmée par les autres "
-"membres en utilisant leur propre clé de chiffrement. C’est aussi simple que "
-"cela : **les gens définissent par eux-mêmes, qui fait et qui ne fait pas "
-"partie de la communauté**."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:28
+#: posts/2015-08-11-theoretical.md:28
 msgid ""
 "> uCoin however won't use OpenPGP for its cryptographic features: Elliptic "
 "Curves will be used instead for the conciseness of its generated keys and "
 "the pratical advantages it results from. This involves for us to specify our "
 "own Web of Trust mechanisms, but we think it worths the pain."
 msgstr ""
-"> uCoin n'utilisera cependant pas OpenPGP pour ses fonctions "
-"cryptographiques mais plutôt les Courbes Elliptiques du fait de la concision "
-"des clés générées et les avantages pratiques qu'il en résulte. Cela implique "
-"pour nous de définir notre propre processus de génération de toile de "
-"confiance, mais nous pensons que cela en vaut la peine."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:30
+#: posts/2015-08-11-theoretical.md:30
 msgid "### The Blockchain"
-msgstr "### La Blockchain"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:32
+#: posts/2015-08-11-theoretical.md:32
 msgid ""
 "Bitcoin's blockchain mechanism is important for us for two main "
 "reasons: **synchronization and security**. uCoin will still use it to "
@@ -219,23 +154,14 @@ msgid ""
 "possible by WoT definition, providing **a really much more energy efficient "
 "way** to compute the blockchain."
 msgstr ""
-"Le mécanisme de blockchain de Bitcoin est important pour nous, pour deux "
-"raisons principales: **la synchronisation et la sécurité**. uCoin l’"
-"utilisera aussi pour bénéficier de ces deux caractéristiques. Cependant, la "
-"blockchain de uCoin est légèrement différente : non seulement elle stocke "
-"les transactions, mais *les variations de la communauté* pour définir la "
-"toile de confiance. Elle dispose également d'un mécanisme différent de *"
-"preuve de travail* (Proof-of-Work = PoW) rendu possible par définition de la "
-"WoT, offrant un rendement énergétique moyen vraiment meilleur pour calculer "
-"la blockchain."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:34
+#: posts/2015-08-11-theoretical.md:34
 msgid "#### Web of Trust"
-msgstr "#### La toile de confiance (WoT)"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:36
+#: posts/2015-08-11-theoretical.md:36
 msgid ""
 "The Web of Trust is to be written in our common document: the "
 "blockchain. Just the same way Bitcoin's transaction are written in Bitcoin's "
@@ -244,21 +170,14 @@ msgid ""
 "_time_ provided by blockchain units: the blocks. What we finally have "
 "is **wot(t)**: the community at a _t_ instant."
 msgstr ""
-"La toile de confiance (ou Web-Of-Trust) doit être écrite dans notre document "
-"commun: la blockchain. Juste de la même manière que la transaction de "
-"Bitcoin est écrite dans la blockchain de Bitcoin, mais avec l'identité des "
-"personnes. Ainsi, la blockchain constitue un *référentiel d'espace-temps*, "
-"où *l'espace* est représenté par les particuliers et *le temps* fournis par "
-"les unités de la blockchain : les blocs. Ce que nous avons au final est "
-"**wot(t)** : la communauté à un instant t."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:38
+#: posts/2015-08-11-theoretical.md:38
 msgid "#### Transactions"
-msgstr "#### Les transactions"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:40
+#: posts/2015-08-11-theoretical.md:40
 msgid ""
 "But that's not all: blockchain is also the place where _transactions_, the "
 "support of money, are sequentially stored and allow to define money "
@@ -266,25 +185,19 @@ msgid ""
 "inputs (_a.k.a._ sources) and generate outputs. Transaction is a flow of "
 "money. However, in uCoin inputs may be:"
 msgstr ""
-"La blockchain est aussi le lieu où les *transactions*, le support de la "
-"monnaie, sont stockées séquentiellement et permettent de définir la "
-"propriété de la monnaie. Pour cette partie, uCoin ressemble vraiment à "
-"Bitcoin : les transactions sont les intrants (les sources) et génèrent des "
-"sorties. La transaction est un flux de monnaie. Cependant, dans uCoin les "
-"entrées peuvent être :"
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:43
+#: posts/2015-08-11-theoretical.md:43
 msgid "money from another transaction [Bitcoin like]"
-msgstr "la monnaie d'une autre transaction [comme Bitcoin]"
+msgstr ""
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:43
+#: posts/2015-08-11-theoretical.md:43
 msgid "money from a Universal Dividend [uCoin specific]"
-msgstr "la monnaie d'un Dividende Universel [spécifique à uCoin]"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:45
+#: posts/2015-08-11-theoretical.md:45
 msgid ""
 "As you can see, no _generation transaction_ exists in uCoin. This kind of "
 "transaction is replaced by _Universal Dividend input_. Outputs, on their "
@@ -292,31 +205,22 @@ msgid ""
 "keys: _companies_ may also have public key. This lead us to an important "
 "fact: **companies are also able to use the currency**."
 msgstr ""
-"Comme vous pouvez le voir, aucune *transaction de génération* n'existe dans "
-"uCoin. Ce type d'opération est remplacé par *l'entrée du dividende universel*"
-". Les sorties, de leur côté, sont toujours des clés publiques, et pas "
-"nécessairement des clés publiques de membres : les *entreprises* peuvent "
-"aussi avoir une clé publique. Cela nous conduit à un fait important: **les "
-"entreprises sont également en mesure d'utiliser la monnaie**."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:47
+#: posts/2015-08-11-theoretical.md:47
 msgid ""
 "> Do note carefully that, even if they may participate, **companies won't be "
 "able to create money**. Only individuals will able to do it. This is a very "
 "important point."
 msgstr ""
-"> Notez soigneusement que, même si elles peuvent participer, **les "
-"entreprises ne seront pas en mesure de créer de la monnaie**. Seules les "
-"personnes seront en mesure de le faire. Ceci est un point très important."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:49
+#: posts/2015-08-11-theoretical.md:49
 msgid "#### Proof of Work"
-msgstr "#### La preuve de travail"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:51
+#: posts/2015-08-11-theoretical.md:51
 msgid ""
 "Like any P2P crypto-currency system, uCoin has a way to synchronize its "
 "peers for writing its common document (the blockchain). However, uCoin's "
@@ -332,110 +236,73 @@ msgid ""
 "mechanism ensures a rotation in the blockchain's writing, while keeping the "
 "advantage of PoW for synchronizing the peers."
 msgstr ""
-"Comme tout système de crypto-monnaie P2P, uCoin a une façon de synchroniser "
-"ses pairs pour la rédaction de son document commun (la blockchain). "
-"Cependant, uCoin bénéficiant d'un environnement très différent de celui "
-"d'autres altcoins : **une toile de confiance identifiée**. Cette petite "
-"différence a un impact énorme : alors que Bitcoin doit faire un **challenge "
-"global** à l'aide de ressources CPU pour éviter le détournement de la "
-"blockchain par quelques personnes, uCoin a la possibilité de compter sur ses "
-"membres afin d'écrire la blockchain: cela nous permet à la fois d'éviter le "
-"problème  du gaspillage d'énergie introduit par la preuve de travail et "
-"facilement balayer l'attaque de 51% dans uCoin. Concrètement, uCoin a un **"
-"challenge personnalisé** pour chacun de ses membres qui est de plus en plus "
-"difficile pour le membre qui réussit l'écriture d'un bloc, alors qu'il "
-"devient plus facile - jusqu'à un plancher donné - pour les autres. Ce "
-"mécanisme assure une rotation dans l'écriture de la blockchain, tout en "
-"gardant l'avantage de la preuve de travail pour synchroniser les pairs."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:53
+#: posts/2015-08-11-theoretical.md:53
 msgid ""
 "> It can be noted too that, since a block does not provide extra money "
 "creation, members won't be pushed into competing for writing next block."
 msgstr ""
-"> On peut enfin noter que, comme calculer un bloc n'est pas récompensé par "
-"la création de monnaie supplémentaire, les membres ne seront pas poussés "
-"dans la concurrence pour l'écriture du bloc suivant."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:55
+#: posts/2015-08-11-theoretical.md:55
 msgid "### To summarize"
-msgstr "### Pour résumer"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:57
+#: posts/2015-08-11-theoretical.md:57
 msgid ""
 "uCoin's blockchain can be compared to Bitcoin's blockchain: a great book "
 "tracing the history of each membership inside the Community along with the "
 "transactions of its users. With the blockchain, we have the **fundamental "
-"referential** of the[Relative Money "
-"Theory](http://wiki.creationmonetaire.info/) (humans), and the flow of "
-"transactions emitted by the currency users."
+"referential** of the [Relative Money Theory](http://vit.free.fr/TRM/en_US/) "
+"(humans), and the flow of transactions emitted by the currency users."
 msgstr ""
-"La blockchain de uCoin peut être comparé à la blockchain de Bitcoin : un "
-"grand livre retraçant l'histoire de chaque adhésion à l'intérieur de la "
-"Communauté, ainsi que les opérations de ses utilisateurs. Avec la "
-"blockchain, nous avons le **référentiel fondamental** de la [Théorie "
-"Relative de la Monnaie](http://trm.creationmonetaire.info/) (les humains) et "
-"le flux des transactions émises par les utilisateurs de la monnaie."
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:59
+#: posts/2015-08-11-theoretical.md:59
 msgid "## A free economy"
-msgstr "## Une économie libre"
+msgstr ""
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:61
+#: posts/2015-08-11-theoretical.md:61
 msgid ""
 "The goal of all this is to allow people to participate to a _free economy_ "
-"thanks to a _free currency_. What is a free economy? [Relative Money Theory "
-"(french)](http://wiki.creationmonetaire.info/) defines it through 4 economic "
+"thanks to a _free currency_. What is a free economy? [Relative Money "
+"Theory](http://vit.free.fr/TRM/en_US/) defines it through 4 economic "
 "freedoms:"
 msgstr ""
-"Le but de tout cela est de permettre aux gens de participer à une économie "
-"libre grâce à une monnaie libre. Qu'est-ce qu'une économie libre ? La ["
-"Théorie Relative de la Monnaie](http://trm.creationmonetaire.info/) la "
-"définit à travers 4 libertés économiques :"
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:66
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to choose your currency system**: because money should not be "
 "imposed"
 msgstr ""
-"**La liberté de choisir son système monétaire** : parce que la monnaie ne "
-"devrait pas être imposée"
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:66
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to access resources**: because we _all_ should have access to "
 "economic & monetary resources"
 msgstr ""
-"**La liberté d'accès aux ressources** : parce que nous devrions tous avoir "
-"accès aux ressources économiques et monétaires"
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:66
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to estimate & produce value**: because value is a purely "
 "relative to each individual, in space and time"
 msgstr ""
-"**La liberté d'estimer et de produire de la valeur** : parce que la valeur "
-"est une notion relative à chaque individu, dans l'espace et le temps"
 
 #. type: Bullet: '*   '
-#: 2015-08-11-theoretical.md:66
+#: posts/2015-08-11-theoretical.md:66
 msgid ""
 "**The freedom to trade with the money**: because we should not be limited by "
 "the avaible money supply"
 msgstr ""
-"**La liberté d'échanger dans la monnaie** : parce que nous ne devrions pas "
-"être limités par le stock de monnaie disponible"
 
 #. type: Plain text
-#: 2015-08-11-theoretical.md:67
+#: posts/2015-08-11-theoretical.md:67
 msgid ""
 "Those 4 economic freedoms should be understood together, not "
 "exclusively. Plus, _\"freedom\"_ has to be understood as "
@@ -444,9 +311,3 @@ msgid ""
 "others. Now you get it, this is the goal: _free economy through free "
 "currency._"
 msgstr ""
-"Ces quatre libertés économiques doivent être comprises ensemble, pas "
-"exclusivement. De plus, la «*liberté*» doit être comprise comme «*non-"
-"nuisance*». Donc ici, la liberté ne signifie pas le droit de prendre toutes "
-"les ressources (comme une source d'eau dans un désert) et qu'il n'y en ai "
-"plus à la disposition des autres. Maintenant vous comprenez quel est "
-"l'objectif : une *économie libre* à travers des *monnaies libres*."

@@ -1,3 +1,5 @@
+# Theoretical
+
 ## A cryptocurrency system
 
 uCoin uses the crypto-currency concept introduced by Bitcoin, which is to use cryptography features such as _signature_ to create digital currencies. uCoin fits in this definition, however it has completely different fundation principles than Bitcoin like Web of Trust and Universal Dividend to do _really_ better than Bitcoin. Actually, uCoin has a theoretical reference called [Relative Money Theory](http://vit.free.fr/TRM/en_US/). This theory **demonstrates** that a currency which aims at respecting each individual's economic liberties MUST implement the Universal Dividend (aka. _Basic Income_), which is the only way to avoid both spatial and temporal asymmetry toward money issuance.
