@@ -2,7 +2,8 @@
 
 root=`pwd`
 export_dir=$root/export
-for lang in fr_FR en_EN;
+languages=fr_FR
+for lang in $languages;
 do
   mkdir -p $export_dir/$lang
 	for post in `cat $root/published/$lang.txt`;
@@ -13,11 +14,15 @@ do
       po4a-translate -f text -m posts/$post -p posts/$post_lang -l $final -M utf-8
       if [[ -f $final ]]; then
 	      cat $final | tr '\n' '%' \
-		| sed -e 's/\([^%]\)%\([^%*>]\)/\1 \2/g' \
-		| sed -e 's/%\*\*/ \*\*/g' \
-		| sed -e 's/[^>] \(##\+\)/\n\n\1/g' \
-		| sed -e 's/%/\n/g' | sed -e 's/ \{2,\}/ /g' \
-		 > "$final"
+          | sed -e 's/\([0-9]\)%/\1µ/g' \
+          | sed -e 's/\([^%]\)%\([^%*>]\)/\1 \2/g' \
+          | sed -e 's/%\*\*/ \*\*/g' \
+          | sed -e 's/[^>] \(##\+\)/\n\n\1/g' \
+          | sed -e 's/%/\n/g' \
+          | sed -e 's/µ/%/g' \
+          | sed -e 's/ \{2,\}/ /g' \
+           > "$final.2"
+        mv $final.2 $final
       fi
     else
       echo ">> post$post_lang does not exit" 
@@ -38,7 +43,7 @@ do
 		#cp $root/posts/posts/$post.$lang.html $root/$lang/content/themes/ghostium/partials/$post.hbs
 	#done;
 done;
-for lang in fr_FR en_EN;
+for lang in $languages;
 do
   sleep 1
   export_zip="export/export_$lang.zip"
