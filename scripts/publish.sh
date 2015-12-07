@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if  [[ -z $1 ]] ||  [[ -z $2 ]] ||  [[ -z $3 ]] || [[ -z $4 ]]; then
-	echo "The script requires 4 parameters";
+if  [[ -z $1 ]] ||  [[ -z $2 ]] ||  [[ -z $3 ]] || [[ -z $4 ]] || [[ -z $5 ]]; then
+	echo "The script requires 6 parameters";
 	exit 1;
 fi
 
@@ -20,13 +20,8 @@ if  [[ ! -f $4 ]]; then
 	exit 4;
 fi
 
-if  [[ ! -f $5 ]]; then
-	echo "Fifth parameter must be an existing file";
-	exit 5;
-fi
-
-if  [[ $5 != *.db ]]; then
-	echo "Fifth parameter must end with .db";
+if  [[ $5 != *_* ]]; then
+	echo "Sixth parameter must like fr_FR, en_EN, ...";
 	exit 6;
 fi
 
@@ -61,8 +56,13 @@ curl $BLOG_URL/ghost/api/v0.1/db/ --request DELETE -H "Authorization: $TOKEN_TYP
 curl $BLOG_URL/ghost/api/v0.1/db/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -F "importfile=@$EXPORT_FILE" -s 1>/dev/null
 
 #sleep 2
-for post in `cat static.txt`;
+#for post in try;
+for post in `cat meta/static.txt`;
 do
   slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g"`
-  sqlite3 $SQLITE3_DB "UPDATE posts SET page = 1 WHERE slug = \"$slug\";"
+  echo "Setting post /$slug as static page..."
+  json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s`
+  modified_json=`echo $json | sed -s "s/\"page\":false/\"page\":true/g"`
+  post_id=`echo $modified_json | jq ".posts[0] .id"`
+  curl $BLOG_URL/ghost/api/v0.1/posts/$post_id/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -X PUT -d "$modified_json" 1>/dev/null
 done
