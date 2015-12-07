@@ -14,3 +14,5 @@ scripts/translate_and_export_and_zip.sh
 
 echo "Publishing..."
 scripts/publish.sh $TARGET $USER $PASSWORD $ZIP_WITH_POSTS $EXPORT_LANG
+
+echo ">> The blog has been updated successfully!"
