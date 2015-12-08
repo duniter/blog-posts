@@ -2,7 +2,7 @@
 
 root=`pwd`
 export_dir=$root/export
-languages=fr_FR
+languages="fr_FR en_EN"
 
 # Each export has a target language
 for lang in $languages;
