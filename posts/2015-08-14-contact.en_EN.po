@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-06 12:36-0500\n"
-"PO-Revision-Date: 2015-12-06 21:27+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"PO-Revision-Date: 2015-12-12 08:53+0000\n"
+"Last-Translator: Urodelus <urodelus@free.fr>\n"
 "Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "contact/en_EN/>\n"
 "Language: en_EN\n"
@@ -21,7 +21,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-14-contact.md:2
 msgid "# Contact"
-msgstr ""
+msgstr "# Contact"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:4
@@ -29,6 +29,8 @@ msgid ""
 "You have several ways to contact us. Below is a non-exhaustive list of how "
 "to contact us, for which purpose."
 msgstr ""
+"Vous avez plusieurs façons de nous contacter. Ci-dessous une liste non-"
+"exhaustive ded différentes méthodes."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:6
@@ -38,7 +40,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-14-contact.md:8
 msgid "### The forum"
-msgstr ""
+msgstr "### Le forum"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:10
@@ -47,6 +49,9 @@ msgid ""
 "[forum.ucoin.io](http://forum.ucoin.io), subscribe and you will be able to "
 "create a subject or answer to an existing one."
 msgstr ""
+"C'est la façon la plus simple de se mettre en contact avec nous. Allez à "
+"[forum.ucoin.io] (http: // forum.ucoin.io), inscrivez-vous et vous serez en "
+"mesure de créer un sujet ou répondre à un existant."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:12
@@ -63,7 +68,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-14-contact.md:16
 msgid "### The Chat"
-msgstr ""
+msgstr "### Le Chat"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:18
