@@ -1,3 +1,5 @@
+# RML6 les vidéos
+
 > Article tiré du site [creationmonetaire.info](http://www.creationmonetaire.info/2015/12/rml6-les-videos.html)
 
 Les 6èmes rencontres des monnaies libres ont eu lieu à Valence du 12 au 14 Novembre. Ce fut l’occasion pour les développeurs de uCoin d’avancer sur le projet et de faire quelques conférences sur le sujet de la monnaie libre, de uCoin, de la blockchain gérée par [uCoin](https://github.com/ucoin-io), de Cutecoin (devenu désormais [sakia](https://github.com/ucoin-io/sakia) !), de [uCoinApps](https://github.com/ucoin-io/ucoin-android-app/issues)…
