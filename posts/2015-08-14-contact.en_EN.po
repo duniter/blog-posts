@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-06 12:36-0500\n"
-"PO-Revision-Date: 2015-12-12 08:53+0000\n"
-"Last-Translator: Urodelus <urodelus@free.fr>\n"
+"PO-Revision-Date: 2016-02-11 18:55+0000\n"
+"Last-Translator: sb <s_b_@openmailbox.org>\n"
 "Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
 "contact/en_EN/>\n"
 "Language: en_EN\n"
@@ -35,7 +35,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-14-contact.md:6
 msgid "## General contact"
-msgstr ""
+msgstr "Contact général"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:8
@@ -59,11 +59,14 @@ msgid ""
 "We prefer this platform for questions since topics are indexed by Search "
 "Engines like Google and are made easy to access future newcomers."
 msgstr ""
+"Nous préférons cette plateforme pour les questions étant donné qu'elle est "
+"indexée par des moteurs de recherche comme Google, facilitant l'accès pour "
+"de futurs nouveaux venus."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:14
 msgid "![](/content/images/2015/08/forum.png)"
-msgstr ""
+msgstr "![](/content/images/2015/08/forum.png)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:16
@@ -78,11 +81,16 @@ msgid ""
 "[Pidgin](https://pidgin.im/) or [Psi+](http://psi-plus.com/), or you can use "
 "or widget at the bottom of the page:"
 msgstr ""
+"Nous utilisons les salons XMPP Jappix "
+"[ucoin@muc.jappix.com](ucoin@muc.jappix.com) pour tchatter. Vous pouvez vous "
+"connecter en utilisant votre client XMPP favori comme "
+"[Pidgin](https://pidgin.im) ou [Psi+](http://psi-plus.com), ou vous pouvez "
+"utiliser le widget qui se trouve en bas de page :"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:20
 msgid "![](/content/images/2015/08/jappix_widget.png)"
-msgstr ""
+msgstr "![](/content/images/2015/08/jappix_widget.png)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:22
@@ -92,11 +100,15 @@ msgid ""
 "client like Pidgin or Psi+, or to connect through "
 "[Jappix](https://jappix.com/?l=fr) website."
 msgstr ""
+"Ce composant, Jappix Mini, est très facile à utiliser pour un tchat rapide. "
+"Mais pour un plus grand confort, nous vous conseillons vraiment d'installer "
+"un client comme Pidgin ou Psi+, ou encore de vous connecter via le site "
+"[Jappix](https://jappix.com/?l=fr)."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:24
 msgid "### The Mailing list"
-msgstr ""
+msgstr "La liste de diffusion"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:26
@@ -104,6 +116,8 @@ msgid ""
 "We also have a mailing list at "
 "https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 msgstr ""
+"Nous avons également une liste de diffusion à l'adresse "
+"https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:28
@@ -111,16 +125,19 @@ msgid ""
 "This list was our place to discuss at the beginning and has been replaced by "
 "the forum since. Yet, it will be used for major anouncement thereafter."
 msgstr ""
+"Cette liste était notre lieu initial pour discuter et qui a été remplacée "
+"par le forum depuis. Toutefois, cette liste sera utilisée pour les "
+"événements majeurs."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:30
 msgid "You can use the mailing list, but please prefer the forum."
-msgstr ""
+msgstr "Vous pouvez utiliser la liste de diffusion, mais préférez le forum."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:32
 msgid "## Project specific"
-msgstr ""
+msgstr "Pour chaque projet"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:34
@@ -128,16 +145,18 @@ msgid ""
 "You may want to contact contributors of a specific project. Here is, for "
 "each project, how to contact them."
 msgstr ""
+"Vous pourriez vouloir contacter les contributeurs d'un projet en "
+"particulier. Voici, pour chaque projet, comment les contacter."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:36
 msgid "### uCoin"
-msgstr ""
+msgstr "### uCoin"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:38
 msgid "To contact uCoin contributors, you can:"
-msgstr ""
+msgstr "Pour contacter les contributeurs de uCoin, vous pouvez :"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42
@@ -145,31 +164,33 @@ msgid ""
 "add issues on GitHub: https://github.com/ucoin-io/ucoin, we will answer you "
 "directly on your ticket"
 msgstr ""
+"ajouter des tickets sur GitHub : https://github.com/ucoin-io/ucoin, nous "
+"répondrons directement sur votre ticket"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42
 msgid "send an e-mail to [admin@ucoin.io](admin@ucoin.io) (me – cgeek)"
-msgstr ""
+msgstr "envoyer un e-mail à admin@ucoin.io (moi – cgeek)"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42 posts/2015-08-14-contact.md:50 posts/2015-08-14-contact.md:57
 msgid "leave a message on the chat"
-msgstr ""
+msgstr "laisser un message sur le tchat"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:44
 msgid "### CuteCoin"
-msgstr ""
+msgstr "### CuteCoin"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:46
 msgid "To contact CuteCoin contributors, you can:"
-msgstr ""
+msgstr "Pour contacter les contributeurs de CuteCoin, vous pouvez :"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:50
 msgid "add issues on GitHub: https://github.com/ucoin-io/cutecoin"
-msgstr ""
+msgstr "ajouter des tickets sur GitHub: https://github.com/ucoin-io/cutecoin"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:50
@@ -177,48 +198,55 @@ msgid ""
 "add a subject with the category *Cutecoin* on [the "
 "Forum](http://forum.ucoin.io)"
 msgstr ""
+"ajouter un sujet avec la categorie Cutecoin sur le "
+"[forum](http://forum.ucoin.io)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:52
 msgid "### ucoinApps (Android)"
-msgstr ""
+msgstr "### ucoinApps (Android)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:54
 msgid "To contact ucoinApps contributors, you can:"
-msgstr ""
+msgstr "Pour contacter les contributeurs de uCoinApps, vous pouvez :"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:57
 msgid "add issues on GitHub: https://github.com/ucoin-io/ucoin-android-app"
 msgstr ""
+"ajouter un ticket sur GitHub: https://github.com/ucoin-io/ucoin-android-app"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:59
 msgid "## Relative Theory of Money"
-msgstr ""
+msgstr "Théorie Relative de la Monnaie"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:61
 msgid "RMT author may answer you on:"
-msgstr ""
+msgstr "L'auteur de la TRM peut vous répondre sur :"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "his blog http://creationmonetaire.info"
-msgstr ""
+msgstr "son blog http://creationmonetaire.info"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "uCoin forum (http://forum.ucoin.io)"
-msgstr ""
+msgstr "le forum uCoin (http://forum.ucoin.io)"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "uCoin mailing list https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 msgstr ""
+"la liste de diffusion de uCoin "
+"https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "OpenUDC mailing list https://groups.google.com/forum/?hl=fr#!forum/openudc"
 msgstr ""
+"la liste de diffusion d'OpenUDC "
+"https://groups.google.com/forum/?hl=fr#!forum/openudc"
