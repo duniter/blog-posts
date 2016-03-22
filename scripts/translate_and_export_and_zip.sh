@@ -30,15 +30,7 @@ do
         po4a-translate -f text -m posts/$post -p posts/$post_lang -l $final -M utf-8 --keep $keep
         if [[ -f $final ]]; then
           # Clean result since po4a-gettextize broke many things...
-          cat $final | tr '\n' '%' \
-            | sed -e 's/\([0-9]\)%/\1µ/g' \
-            | sed -e 's/\([^%]\)%\([^%*>]\)/\1 \2/g' \
-            | sed -e 's/%\*\*/ \*\*/g' \
-            | sed -e 's/[^>] \(##\+\)/\n\n\1/g' \
-            | sed -e 's/%/\n/g' \
-            | sed -e 's/µ/%/g' \
-            | sed -e 's/ \{2,\}/ /g' \
-             > "$final.2"
+          cat $final | sed ':a;N;$!ba;s/\n/===%%%===/g' | sed 's/===%%%===AA*/\n\n/g' | sed 's/===%%%===\*/\n\*/g' | sed 's/===%%%===/ /g' > "$final.2"
           # Erase translated file with corrections
           mv $final.2 $final
         fi
