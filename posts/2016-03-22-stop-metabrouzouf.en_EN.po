@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-03-22 02:51-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-03-22 08:16+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"stop-metabrouzouf/en_EN/>\n"
+"Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.4-dev\n"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:2
 msgid "# L'expérimentation Meta_Brouzouf est terminée !"
-msgstr ""
+msgstr "# The Meta_Brouzouf experiment is over!"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:4
@@ -29,6 +31,9 @@ msgid ""
 "cette monnaie et \"stopper\" l'expérimentation afin de passer à l'étape "
 "supérieure !"
 msgstr ""
+"There we are! 14 months after the launch of testing money named "
+"*Meta_Brouzouf* on January 21th 2015, it is now time for us to abandon this "
+"money and \"stop\" this experiment in order to go one stage further!"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:6
@@ -36,16 +41,17 @@ msgid ""
 "Mais pour quelles raisons ? Que va-t-il advenir de cette monnaie ? Et "
 "surtout, quelle est la suite ?!"
 msgstr ""
+"But why? What will happen to this money? And more importantly, what's next?!"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:8
 msgid "Quelques éléments de réponse."
-msgstr ""
+msgstr "Pieces of answer."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:10
 msgid "## Rappels sur le Meta_Brouzouf"
-msgstr ""
+msgstr "## Recalls about Meta_Brouzouf"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:12
@@ -53,11 +59,13 @@ msgid ""
 "Pour ceux qui n'auraient pas suivi de près cette expérimentation, voici "
 "quelques rappels permettant de situer le contexte."
 msgstr ""
+"For those who hadn't followed closely this experiment, here are some recalls "
+"to situate the context."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:14
 msgid "### Le but initial : la naissance de logiciels clients"
-msgstr ""
+msgstr "### The initial goal: the birth of new client softwares"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:16
@@ -69,6 +77,11 @@ msgid ""
 "à d'autres développeurs de produire des *logiciels clients* possédant des "
 "interfaces graphiques facilitant l'utilisation de la monnaie."
 msgstr ""
+"The uCoin project started during summer 2013. After a year and a half of "
+"development, on January 2015, the bases were considered established and the "
+"first pieces of code ready to be tested. It was then important to propose a "
+"first currency, was it a testing one, to allow other developers to produce *"
+"client softwares* equiped with graphical interfaces easing the money usage."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:19
@@ -76,6 +89,11 @@ msgid ""
 "<center>[![](https://camo.githubusercontent.com/39705402deb44e50a1b48b5ed1206394593278dd/68747470733a2f2f7261772e6769746875622e636f6d2f75636f696e2d696f2f73616b69612f6d61737465722f73616b69612e706e67)](http://sakia-wallet.org)</center> "
 "<center>_Logo du premier client : le logiciel Sakia_</center>"
 msgstr ""
+"<center>[![](https://camo.githubusercontent.com/39705402deb44e50a1b48b5ed1206"
+"394593278dd/68747470733a2f2f7261772e6769746875622e636f6d2f75636f696e2d696f2f7"
+"3616b69612f6d61737465722f73616b69612e706e67)](http://sakia-"
+"wallet.org)</center> <center>_Logo of the first client: Sakia "
+"software_</center>"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:21
@@ -84,6 +102,9 @@ msgid ""
 "*n'est pas* de s'occuper de *vos* transactions en particulier, *mais de "
 "traiter tous les documents* permettant de la faire vivre."
 msgstr ""
+"Indeed, even if uCoin is the software at the heart of the money, its role *"
+"is not* to manage *your* transactions specifically, *but to handle any "
+"document* making it possible to live."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:23
@@ -95,6 +116,11 @@ msgid ""
 "d'une certification d'un individu de la toile de confiance ou encore d'une "
 "demande d'adhésion à la communauté monétaire."
 msgstr ""
+"It is the client softwares that allows usage of money supported by uCoin "
+"software, by producing the documents corresponding to your actions and *then "
+"send these to the network* in order to treat them: it could be a transaction "
+"to pay someone, a certification of some individual from the web of trust or "
+"even a membership demand to the monetary community."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:25
@@ -104,6 +130,10 @@ msgid ""
 "l'ensemble des données du réseau : les unités monétaires, les transactions "
 "effectuées et les individus constituant la toile de confiance."
 msgstr ""
+"The uCoin software, on its side, only treats these documents and adds them "
+"to the common register of the currency named *Blockchain* which contains the "
+"whole set of the money network data: monetary units, made transactions and "
+"individuals of the web of trust."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:28
@@ -111,11 +141,14 @@ msgid ""
 "<center>![image](https://cloud.githubusercontent.com/assets/969136/13917314/40084810-ef60-11e5-86f9-eacfb58b9062.png)</center> "
 "<center>_Logo de l'application \"Android App\"_</center>"
 msgstr ""
+"<center>![image](https://cloud.githubusercontent.com/assets/969136/13917314/4"
+"0084810-ef60-11e5-86f9-eacfb58b9062.png)</center> <center>_Logo of \"Android "
+"App\" application_</center>"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:30
 msgid "#### Les premiers clients"
-msgstr ""
+msgstr "#### The first clients"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:32
@@ -124,6 +157,9 @@ msgid ""
 "été atteint ! De valeureux développeurs se sont donnés corps et âme pour "
 "produire les précieux logiciels qui suivent :"
 msgstr ""
+"We can only observe that this objective, at the end of the experiment, was "
+"reached! Brave developers gave their body and soul to produce the following "
+"precious softwares:"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:37
@@ -131,6 +167,8 @@ msgid ""
 "[Sakia](http://sakia-wallet.org), un logiciel de bureau complet pour Linux, "
 "Mac et Windows"
 msgstr ""
+"[Sakia](http://sakia-wallet.org), a complete desktop software for Linux, Mac "
+"and Windows"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:37
@@ -138,6 +176,8 @@ msgid ""
 "[uCoin App](https://play.google.com/store/apps/details?id=io.ucoin.android), "
 "application pour votre smartphone Android"
 msgstr ""
+"[uCoin App](https://play.google.com/store/apps/details?id=io.ucoin.android), "
+"an Android application for your smartphone"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:37
@@ -145,6 +185,8 @@ msgid ""
 "[uCoinWallet](https://play.google.com/store/apps/details?id=io.ucoin.android.wallet), "
 "autre application pour smartphone Android"
 msgstr ""
+"[uCoinWallet](https://play.google.com/store/apps/details?id=io.ucoin.android."
+"wallet), another Android application for your smartphone"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:37
@@ -152,11 +194,13 @@ msgid ""
 "[Cesium](http://cesium.ucoin.fr/), un client toute plateforme qui fonctionne "
 "dans votre navigateur favori"
 msgstr ""
+"[Cesium](http://cesium.ucoin.fr/), a multiplatform client which works in "
+"your favorite browser"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:39
 msgid "#### Et même un premier paquet du serveur !"
-msgstr ""
+msgstr "#### And even a first server packet!"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:41
@@ -166,16 +210,22 @@ msgid ""
 "YunoHost](https://github.com/ucoin-io/ucoin_ynh) facilitant grandement "
 "l'installation de uCoin aux adeptes de l'auto-hébergement !"
 msgstr ""
+"It's worth noting an active contributor of [YunoHost](http://yunohost.org) "
+"team also developed [a uCoin packet for YunoHost](https://github.com/ucoin-"
+"io/ucoin_ynh) greatly easing the installation of uCoin for self-hosting "
+"addicted people!"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:43
 msgid "<center>[![](https://avatars1.githubusercontent.com/u/1519495?v=3&s=200)](http://yunohost.org/)</center>"
 msgstr ""
+"<center>[![](https://avatars1.githubusercontent.com/u/1519495?v=3&s=200)](htt"
+"p://yunohost.org/)</center>"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:45
 msgid "### Les limites connues"
-msgstr ""
+msgstr "### The known limits"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:47
@@ -186,6 +236,10 @@ msgid ""
 "réalistes afin d'essuyer les premiers plâtres et éviter les erreurs les plus "
 "grossières."
 msgstr ""
+"Nevertheless, this is experiment was though and built from the start to "
+"constitute a **testing currency**. So it had no vocation to last, but "
+"instead to test the application in more realistic conditions with the aim to "
+"fix the most early and rough bugs."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:49
@@ -193,21 +247,23 @@ msgid ""
 "En l'occurrence, nous avons choisi des paramètres monétaires incompatibles "
 "avec un fonctionnement à long terme :"
 msgstr ""
+"For this case, we chose parameters which are not compliant with long term "
+"working:"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:53
 msgid "une croissance monétaire de **10% par jour**, plutôt que par an"
-msgstr ""
+msgstr "a monetary growth of **10% per day** rather than year"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:53
 msgid "une nombre minimal de **3 certifications** pour être membre"
-msgstr ""
+msgstr "a minimum number of **3 certifications** to be a member"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:53
 msgid "une durée de validité des certifications et adhésions **limitée à 1 mois**"
-msgstr ""
+msgstr "a certification and membership expiry delay **limited to 1 month**"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:55
@@ -221,6 +277,13 @@ msgid ""
 "pas prendre de valeur à ce rythme, ce qui l'empêche de servir "
 "d'intermédiaire d'échange à moyen et long terme."
 msgstr ""
+"It has to be understood that **10% per day** rather than per year is "
+"tremendous, indeed the monetary mass grows exponentially: by a year (that "
+"is, after a complete revolution of the Earth around its orbit), we create in "
+"reality **1,166,641,437,000,000 times more money** than in a normal case. "
+"Yes, you read it right: it is a **1 million of billion of times** quicker "
+"than 10% a year. The money cannot take value at such a rythm, which prevent "
+"it to be used as a medium of exchange for both medium and long term."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:57
@@ -231,6 +294,11 @@ msgid ""
 "passer, et les faux comptes ne sont plus gênés par cette contrainte (ils le "
 "restent toutefois par la règle de distance)."
 msgstr ""
+"As well, the minimum number of **3 certifications** to be a member is enough "
+"for a dozen member community but becomes way to light for a bigger community "
+"because the rules becomes too easy to pass, and fake accounts are no more "
+"bothered by this contraint (these still are bothered by distance rule, "
+"however)."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:59
@@ -240,21 +308,27 @@ msgid ""
 "vus rapidement exclus du fait de cette faible durée, leurs certifications et "
 "adhésion ayant expiré. Une valeur de **6 mois** serait déjà plus acceptable."
 msgstr ""
+"Finally, the lifetime of **1 month** for certifications and memberships is "
+"way too light. Serveral members of the testing community were rapidly "
+"excluded just because of this duration, their certifications and membership "
+"being expired. A value of **6 months** would be more acceptable."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:61
 msgid "Pour ces raisons, aucune chance que cette monnaie ne perdure dans le temps."
-msgstr ""
+msgstr "For these reasons, no chance for this money to stay in time."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:63
 msgid "<center>![](http://forum.ucoin.io/uploads/default/original/1X/da2e4d72317b4bb205d2b56001bb1add75435113.png)</center>"
 msgstr ""
+"<center>![](http://forum.ucoin.io/uploads/default/original/1X/da2e4d72317b4bb"
+"205d2b56001bb1add75435113.png)</center>"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:65
 msgid "## Les résultats de l'expérimentation"
-msgstr ""
+msgstr "## The experiment results"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:67
@@ -266,16 +340,23 @@ msgid ""
 "jeunesse du projet qui demande un certain effort avant d'arriver au statut "
 "d'individu créateur de monnaie."
 msgstr ""
+"Despite these parameters which promised the early end of this testing "
+"currency, this latter totaly played its role notably because [several client "
+"software were borns](#thefirstclients), but also no less than **115 users** "
+"have actively participated the currency, and this despite of the project "
+"youth which requires a certain effort to reach the status of individual "
+"creating money."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:69
 msgid "En effet pour réussir à créer son compte il a fallu pour chacun d'eux :"
 msgstr ""
+"Indeed to succeed its account creation it was required by each of them to:"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:73
 msgid "installer le logiciel client Sakia"
-msgstr ""
+msgstr "install Sakia client software"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:73
@@ -285,6 +366,10 @@ msgid ""
 "pour créer son identité dans Sakia, se connecter au réseau puis publier sa "
 "demande d'adhésion à la communauté"
 msgstr ""
+"follow an [english tutorial](https://forum.ucoin.io/t/tutorial-subscribe-to-"
+"the-testing-currency/143) to create their identity in Sakia, connect to the "
+"network and publish their membership demand to the community (and most users "
+"were frenchies!)"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:73
@@ -293,6 +378,9 @@ msgid ""
 "uCoin](https://forum.ucoin.io) avec quelques preuves de son identité afin de "
 "recevoir des certifications"
 msgstr ""
+"make an explicit demande, written on the [uCoin "
+"forum](https://forum.ucoin.io) with few identity proofs in order to receive "
+"certifications"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:75
@@ -303,11 +391,15 @@ msgid ""
 "communauté plus grandes, ce qui est important pour que la monnaie ait une "
 "réelle efficacité."
 msgstr ""
+"It is thanks to these people that we could find a good number of bugs, "
+"minors or majors, but also identify the limits of the protocol in its "
+"initial version which necessited to be modified to handle bigger community "
+"sizes, which is important for the currency to have a real efficience."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:78
 msgid "### Quelques chiffres"
-msgstr ""
+msgstr "### Some numbers"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:80
@@ -318,11 +410,16 @@ msgid ""
 "données publique partagée par l'ensemble du réseau utilisateur de la "
 "monnaie, et que vous pouvez donc vous-même consulter et exploiter :"
 msgstr ""
+"To end this post and mark the end of this testing currency, we propose you "
+"some numbers extracted from "
+"[Blockchain](https://en.wikipedia.org/wiki/Block_chain_(database)), the "
+"public database shared by the whole currency network, and which you could "
+"yourself consult and exploit:"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**424** années simulées"
-msgstr ""
+msgstr "**424** simulated year"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
@@ -330,36 +427,38 @@ msgid ""
 "**137 identités** publiées dont **115 identités** ayant atteint le statut de "
 "membre (et donc ayant créé de la monnaie)"
 msgstr ""
+"**137 identities** published with **115 identities** who reached the member "
+"status (and so created money)"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**1676 certifications** d'identité effectuées"
-msgstr ""
+msgstr "**1676 certifications** of identities were made"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**466** demandes d'adhésions / d'actualisation envoyées"
-msgstr ""
+msgstr "**466** membership / actualizing demands were sent"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**1191 transactions** réalisées"
-msgstr ""
+msgstr "**1191 transactions** realized"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**7193** dividendes (DU) ont été créés (1 dividende / jour / membre)"
-msgstr ""
+msgstr "**7193** dividends (UD) were created (1 dividend / day / member)"
 
 #. type: Bullet: '* '
 #: posts/2016-03-22-stop-metabrouzouf.md:88
 msgid "**1,820,920,587,213,340,000,000** Meta_Brouzouf (unités de monnaie) créés"
-msgstr ""
+msgstr "**1,820,920,587,213,340,000,000** Meta_Brouzouf (money units) created"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:90
 msgid "### L'arrêt de la monnaie"
-msgstr ""
+msgstr "### The currency stop"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:92
@@ -369,6 +468,9 @@ msgid ""
 "pouvez-vous donc \"stopper\", \"arrêter\" l'expérimentation si moi, avec mon "
 "nœud personnel, je décide de continuer l'aventure ?"
 msgstr ""
+"> I don't get it, I thought uCoin was based on a peer-to-peer model (P2P) "
+"and so this tool was not centralized? How could \"stop\" the experiment if "
+"I, with my personal node, decide to make the adventure going on?"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:94
@@ -379,6 +481,10 @@ msgid ""
 "uCoin fonctionner tout en se certifiant mutuellement, alors la monnaie "
 "continuera de fonctionner."
 msgstr ""
+"In reality, **we cannot force the stop of the currency**. Indeed, its "
+"infrastructure is actually P2P. So if 3 members decide to continue to make "
+"the currency live by adding each one there node working and also keep up "
+"certifying themselves mutually, then the currency won't stop working."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:96
@@ -386,6 +492,9 @@ msgid ""
 "Simplement, ces 3 membres auront une monnaie \"à eux\", seront les seuls à "
 "en créer et probablement les seuls à l'accepter et l'utiliser."
 msgstr ""
+"Simply, these 3 members will have a money \"belonging to them\", they will "
+"be the only ones able to create it and probably the only ones to use it and "
+"accept it."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:98
@@ -395,6 +504,9 @@ msgid ""
 "d'échange commun dont la durée d'existence vise à dépasser celle d'un être "
 "humain."
 msgstr ""
+"This P2P aspect is crucial to our eyes since it makes extremely hard to take "
+"over the control of a libre currency, our common tool of exchange whose "
+"lifetime expectancy aims at exceeding human's one."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:100
@@ -404,11 +516,14 @@ msgid ""
 "décentralisés (pair-à-pair) sont à même de remplir cet objectif. C'est la "
 "raison pour laquelle uCoin est pair-à-pair."
 msgstr ""
+"Yet if we wish to realize a libre currency, this one has to be robust enough "
+"and be time proof: for us, only decentralized systems (peer-to-peer) are "
+"able to fit this goal. That's why uCoin is P2P software."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:102
 msgid "### Pourquoi arrêter cette monnaie ?"
-msgstr ""
+msgstr "### Why stopping this money?"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:104
@@ -417,6 +532,8 @@ msgid ""
 "techniques qui ne permettent plus d'assurer le bon fonctionnement du "
 "logiciel."
 msgstr ""
+"The objectives were reached, and more importantly we were meeting technical "
+"limits which no more allow to ensure a good software functionality."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:106
@@ -425,6 +542,8 @@ msgid ""
 "perdurer l'expérimentation, nous ne souhaitons pas assurer davantage la "
 "cohérence des données."
 msgstr ""
+"Despite the fact the software still works and users can make it live "
+"forever, we do not want to ensure data consistency for this currency anymore."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:108
@@ -433,11 +552,14 @@ msgid ""
 "les logiciels clients perdent les pédales ! N'en soyez pas surpris, nous ne "
 "le serons pas, et surtout nous regardons déjà dans une nouvelle direction."
 msgstr ""
+"It might occur to have incorrect amounts of money transfered, or even "
+"stranger events! Don't be surprised, we won't: we are already looking in a "
+"new direction."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:110
 msgid "## Et après ?"
-msgstr ""
+msgstr "## What's next?"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:112
@@ -445,6 +567,8 @@ msgid ""
 "Comme dit précédemment, cette monnaie de test a été l'occasion de découvrir "
 "les limites de la 1ère version du protocole, estampillée sobrement **0.1**."
 msgstr ""
+"As said earlier, this testing currency was an occasion to discover the "
+"limits of this 1st version of the protocol, soberly tagged **0.1**."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:114
@@ -452,11 +576,13 @@ msgid ""
 "Nous avons dores et déjà implémenté sa suite, la version **0.2** qui apporte "
 "un grand nombre de nouveautés. Et donc, que va-t-il se passer ?"
 msgstr ""
+"We have already implemented its next version **0.2** which carries a lot of "
+"newness. And so, what will happen?"
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:116
 msgid "Les semaines à venir vous le diront."
-msgstr ""
+msgstr "The next couple of weeks will tell you."
 
 #. type: Plain text
 #: posts/2016-03-22-stop-metabrouzouf.md:117
@@ -464,3 +590,5 @@ msgid ""
 "<center><div style=\"width: "
 "400px\">![](http://forum.ucoin.io/uploads/default/original/1X/5deea7ee59d908a917eb2f099d44e8ee05e50198.png)</div></center>"
 msgstr ""
+"<center><div style=\"width: 400px\">![](http://forum.ucoin.io/uploads/default"
+"/original/1X/5deea7ee59d908a917eb2f099d44e8ee05e50198.png)</div></center>"
