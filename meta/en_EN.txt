@@ -7,4 +7,3 @@
 2015-08-14-contact.md
 2015-08-14-contribute.md
 2015-08-14-try.md
-2016-03-22-stop-metabrouzouf.md
