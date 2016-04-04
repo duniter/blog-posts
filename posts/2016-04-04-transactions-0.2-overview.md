@@ -1,4 +1,4 @@
-# Un aperçu du protocol 0.2 : les transactions
+# Un aperçu du protocole 0.2 : les transactions
 
 Grâce au travail de @cgeek, une fonctionnalité très importante arrive dans la version 0.2 du protocole. 
 Cette fonctionnalité va permettre de réaliser de nombreuses nouvelles choses, de créer des applications 
@@ -28,8 +28,8 @@ efforts conséquents à un tricheur de multiplier les identités, de façon à c
 
 La conséquence est que les individus doivent pouvoir créer plusieurs communautés, tester de nouvelles règles de confiance, 
 chercher à déterminer les meilleurs paramètres. Tout ces éléments font que plusieurs dizaines de communauté pourront 
-potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges
-doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs.
+potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs. Aussi, nous souhaitons
+éviter au maximum à avoir à introduire des tiers de confiances.
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
 
@@ -39,6 +39,16 @@ Vous l'aurez compris : il fallait trouver une solution et améliorer notre block
 
 ## Ne jamais réinventer la roue
 
+L'univers de Bitcoin est riche, après 7 années d'expérimentations, leur blockchain a souffert de nombreux défauts. Ils ont eu
+à répondre à de nombreuses limitations et ont du créer de nouvelles fonctionnalités très souvent. Encore aujourd'hui, la communauté Bitcoin continue d'évoluer et de réfléchir aux évolutions à réaliser pour améliorer ce logiciel.  
+
+Dans la blockchain Bitcoin, il est notemment possible de programmer des [transactions scriptées](https://en.bitcoin.it/wiki/Script) dans un langage qui n'est pas turing complet. Ce langage de script permet d'expérimenter et de réaliser toujours de nouvelle fonctionnalités autour de la blockchain de Bitcoin.
+
+L'univers Bitcoin a vu lui aussi naître de nombreuses crypto-monnaies alternatives. Souvent, ces forks étaient réalisés par des simples changement d'algorithmes de chiffrement, ou d'algorithmes de consensus. Ces monnaies alternatives permettent à leurs utilisateurs de toucher leur part de création monétaire, alors que Bitcoin ne permet plus que de travailler pour les premiers mineurs pour obtenir sa part.  
+
+Pour que les utilisateurs puissant réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui ci permet à deux utilisateurs de monnaies distinctes d'échanger entr eeux des unités monétaires. Ces unités sont présentes dans des blockchains différentes, et pourtant, l'échange crosschain va permettre de chainer l'échange entre les deux blockchains.
+
+**TODO : Présenter les transactions crosschain**
 
 ## Keep It Simple
 
