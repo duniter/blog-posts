@@ -40,7 +40,7 @@ potentiellement exister, et devront échanger leur monnaie via des taux de chang
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
 
-<center>![Protocol 0.1 swap transaction](https://forum.ucoin.io/uploads/default/original/1X/eeb45f20e84361f8a8012d24f63d887162a68705.png)</center>
+<center>![Swap exchange with protocol 0.1](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
 
 Vous l'aurez compris : il fallait trouver une solution et améliorer notre blockchain.
 
@@ -49,13 +49,13 @@ Vous l'aurez compris : il fallait trouver une solution et améliorer notre block
 L'univers de Bitcoin est riche, après 7 années d'expérimentations, leur blockchain a souffert de nombreux défauts. Ils ont eu
 à répondre à de nombreuses limitations et ont du créer de nouvelles fonctionnalités régulièrement. Encore aujourd'hui, la communauté Bitcoin continue d'évoluer et de réfléchir aux évolutions à réaliser pour améliorer ce logiciel.  
 
-Dans la blockchain Bitcoin, il est notemment possible de programmer des [transactions scriptées](https://en.bitcoin.it/wiki/Script) dans un langage qui n'est pas turing complet. Ce langage de script permet d'expérimenter et de réaliser toujours de nouvelle fonctionnalités autour de la blockchain de Bitcoin.
+Dans la blockchain Bitcoin, il est notamment possible de programmer des [transactions scriptées](https://en.bitcoin.it/wiki/Script) dans un langage qui n'est pas turing complet. Ce langage de script permet d'expérimenter et de réaliser toujours de nouvelle fonctionnalités autour de la blockchain de Bitcoin.
 
 L'univers Bitcoin a vu lui aussi naître de [nombreuses crypto-monnaies alternatives](https://coinmarketcap.com/). Souvent, ces forks sont réalisés par des simples changement d'algorithmes de chiffrement, ou d'algorithmes de consensus. Ces monnaies alternatives permettent à leurs utilisateurs de toucher leur part de création monétaire, alors que Bitcoin ne permet plus que de travailler pour les premiers mineurs pour obtenir sa part.  
 
 Pour que les utilisateurs puissant réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui ci permet à deux utilisateurs de monnaies distinctes d'échanger entre eux des unités monétaires. Ces unités sont présentes dans des blockchains différentes, et pourtant, l'échange crosschain va permettre de chainer l'échange entre les deux blockchains.
 
-<center>![Protocol 0.2 swap](https://forum.ucoin.io/uploads/default/original/1X/f816600f7d88a65b9f8759d398ba64ecce6aa120.png)</center>
+<center>![Protocol 0.2 swap transactions](https://framapic.org/tRYxdRO1UtmH/F83AkN8CdNop)</center>
 
 ## Keep It Simple
 
