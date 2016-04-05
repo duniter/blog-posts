@@ -31,7 +31,7 @@ uCoin est un logiciel qui identifie ses utilisateurs grace à [une toile de conf
 identifiés, ils se certifient une confiance d'unicité et d'existence. Cet acte, d'individu en individu, forme
 une toile qui permet à tout le monde de savoir qui est reconnu par qui. Cependant, pour que les individus puissent être reconnus, et que les attaques sybilles ne puissent pas arriver, cette toile doit pouvoir être tendue et serrée. Il faut que  des efforts conséquents soit nécessaires pour qu'un tricheur multiplie les identités, de façon à ce que la triche reste un fait mineur.
 
-<center>![Swap exchange](https://forum.ucoin.io/uploads/default/original/1X/0f3cdfe41a0f2f0d28252e354af07fed43160f9d.png)</center>
+<center>![Swap exchange](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
 
 La conséquence est que les individus doivent pouvoir créer plusieurs communautés, tester de nouvelles règles de confiance, 
 chercher à déterminer les meilleurs paramètres. Tout ces éléments font que plusieurs dizaines de communauté pourront 
@@ -40,7 +40,7 @@ potentiellement exister, et devront échanger leur monnaie via des taux de chang
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
 
-<center>![Swap exchange with protocol 0.1](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
+<center>![Protocol swap exchange with protocol 0.1](https://framapic.org/ohjgASVrm8aU/jdzWNoLWJ8R3)</center>
 
 Vous l'aurez compris : il fallait trouver une solution et améliorer notre blockchain.
 
