@@ -29,6 +29,8 @@ uCoin est un logiciel qui identifie ses utilisateurs grace à un toile de confia
 identifiés, ils se certifient une confiance d'unicité et d'existence. Cet acte, d'individu en individu, forme
 une toile qui permet à tout le monde de savoir qui est reconnu par qui. Cependant, pour que les individus puissent être reconnus, et que les attaques sybilles ne puissent pas arriver, cette toile doit pouvoir être tendue et serrée. Il faut que ça demande des efforts conséquents à un tricheur de multiplier les identités, de façon à ce que la triche reste un élement minoritaire.
 
+<center>![Swap exchange](https://forum.ucoin.io/uploads/default/original/1X/0f3cdfe41a0f2f0d28252e354af07fed43160f9d.png)</center>
+
 La conséquence est que les individus doivent pouvoir créer plusieurs communautés, tester de nouvelles règles de confiance, 
 chercher à déterminer les meilleurs paramètres. Tout ces éléments font que plusieurs dizaines de communauté pourront 
 potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs. Aussi, nous souhaitons
@@ -36,7 +38,7 @@ potentiellement exister, et devront échanger leur monnaie via des taux de chang
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
 
-**TODO : Schématiser un échange inter-communauté en 0.1 et montrer le problème**
+<center>![Protocol 0.1 swap transaction](https://forum.ucoin.io/uploads/default/original/1X/eeb45f20e84361f8a8012d24f63d887162a68705.png)</center>
 
 Vous l'aurez compris : il fallait trouver une solution et améliorer notre blockchain.
 
@@ -51,7 +53,7 @@ L'univers Bitcoin a vu lui aussi naître de nombreuses crypto-monnaies alternati
 
 Pour que les utilisateurs puissant réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui ci permet à deux utilisateurs de monnaies distinctes d'échanger entre eux des unités monétaires. Ces unités sont présentes dans des blockchains différentes, et pourtant, l'échange crosschain va permettre de chainer l'échange entre les deux blockchains.
 
-**TODO : Présenter les transactions crosschain**
+<center>![Protocol 0.2 swap](https://forum.ucoin.io/uploads/default/original/1X/f816600f7d88a65b9f8759d398ba64ecce6aa120.png)</center>
 
 ## Keep It Simple
 
