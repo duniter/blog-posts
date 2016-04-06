@@ -59,7 +59,7 @@ Pour que les utilisateurs puissant réaliser des places de changes sûres, l'alg
 
 L'exemple précédent présente le cas idéal, ou Alice et Mark s'échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C'est pourquoi il est nécessaire d'introduire des documents de remboursements dans cet échange. L'algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
 
-<center>![protocol 0.2 refund](https://framapic.org/qZxB6N2HYvZP/zPhZDuLpReUC)</center>
+<center>![protocol 0.2 refund](https://framapic.org/AtBZfoORYUsx/8hD90FnqQ6BP)</center>
 
 ## Keep It Simple
 
