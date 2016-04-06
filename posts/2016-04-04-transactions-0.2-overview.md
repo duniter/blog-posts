@@ -57,6 +57,10 @@ Pour que les utilisateurs puissant réaliser des places de changes sûres, l'alg
 
 <center>![Protocol 0.2 swap transactions](https://framapic.org/tRYxdRO1UtmH/F83AkN8CdNop)</center>
 
+L'exemple précédent présente le cas idéal, ou Alice et Mark s'échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C'est pourquoi il est nécessaire d'introduire des documents de remboursements dans cet échange. L'algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
+
+<center>![protocol 0.2 refund](![](https://framapic.org/pNSVOeTcTzhz/73pbJtiq73RJ))</center>
+
 ## Keep It Simple
 
 Développer un langage de script au sein de nos transactions aurait nécessité un effort trop conséquent, alors que nous ne souhaitons par transformer notre blockchain en une blockchain applicative. Nous avons donc décidé de réaliser ce mécanisme transactionnel sous sa forme la plus simple : un conditionnement à l'écriture dans la blockchain.
