@@ -28,16 +28,15 @@ Pour comprendre, il faut revenir sur un choix réalisé autour du design de notr
 
 uCoin est un logiciel qui identifie ses utilisateurs grâce à [une toile de confiance](https://en.wikipedia.org/wiki/Web_of_trust). Pour que les individus puissent être
 identifiés, ils se certifient une confiance d'unicité et d'existence. Cet acte, d'individu en individu, forme
-une toile qui permet à tout le monde de savoir qui est reconnu par qui. Cependant, pour que les individus puissent être reconnus, et que les attaques sibylles ne puissent pas arriver, cette toile doit pouvoir être tendue et serrée. Il faut que  des efforts conséquents soit nécessaires pour qu'un tricheur multiplie les identités, de façon à ce que la triche reste un fait extrêmement mineur.
+une toile qui permet à tout le monde de savoir qui est reconnu par qui. Cependant, pour que les individus puissent être reconnus, et que [les attaques sibylles](https://en.wikipedia.org/wiki/Sybil_attack) ne puissent pas arriver, cette toile doit pouvoir être tendue et serrée. Une attaque sibylle consiste à créer de nombreuses fausses identités afin de gagner le contrôle du réseau et de la communauté monétaire. Il faut que  des efforts conséquents soit nécessaires pour qu'un tricheur multiplie les identités, de façon à ce que la triche reste un fait extrêmement mineur.
 
-La conséquence est que les individus doivent pouvoir créer plusieurs communautés, tester de nouvelles règles de confiance, 
-chercher à déterminer les meilleurs paramètres. Tous ces éléments font que plusieurs dizaines de communautés pourront 
-potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs. Aussi, nous souhaitons
+La conséquence est que les individus doivent pouvoir créer plusieurs communautés (et donc plusieurs monnaies). En effet, la toile de confiance est de taille limitée (nous en parlerons plus en détail dans un autre article). Il faut donc que les individus puissent créer plusieurs communautés monétaires pour que l'ensemble des individus aient le droit de co-créer une monnaie libre. De plus, créer plusieurs communautés permet de tester de nouvelles règles de confiance, chercher à déterminer les meilleurs paramètres.  
+Tous ces éléments font que plusieurs dizaines de communautés pourront potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs. Aussi, nous souhaitons
 éviter au maximum à avoir à introduire des tiers de confiances.
 
 <center>![Swap exchange](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
 
-Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. En effet, il est possible d'abuser du système car aucun verrou transactionnel n'est réalisable dans la blockchain : 
+Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. En effet, l'échange demande que chaque partie prenante se fassent confiance car aucun verrou transactionnel n'est réalisable dans la blockchain : 
 
 <center>![Protocol swap exchange with protocol 0.1](https://framapic.org/lKogGowiLKod/9rPABRTUxnOI)</center>
 
@@ -45,18 +44,17 @@ Vous l’aurez compris : il fallait trouver une solution et améliorer notre bl
 
 ## Ne pas réinventer la roue
 
-L’univers de Bitcoin est riche, après 7 années d'expérimentations, leur blockchain a souffert de nombreux défauts. Ils ont eu
-à répondre à de nombreuses limitations et ont dû créer de nouvelles fonctionnalités régulièrement. Encore aujourd’hui, la communauté Bitcoin continue d’évoluer et de réfléchir aux évolutions à réaliser pour améliorer ce logiciel.  
+L’univers de Bitcoin est riche, après 7 années d'expérimentations, leur blockchain a souffert de nombreux défauts. Les développeurs ont eu à répondre à de nombreuses limitations et ont dû créer de nouvelles fonctionnalités régulièrement. Encore aujourd’hui, la communauté Bitcoin continue d’évoluer et de réfléchir aux évolutions à réaliser pour améliorer ce logiciel.  
 
-Dans la blockchain Bitcoin, il est notamment possible de programmer des [transactions scriptées](https://en.bitcoin.it/wiki/Script) dans un langage qui n'est pas turing complet. Ce langage de script permet d'expérimenter et de réaliser toujours de nouvelle fonctionnalités autour de la blockchain de Bitcoin.
+Dans la blockchain Bitcoin, il est notamment possible de programmer des [transactions scriptées](https://en.bitcoin.it/wiki/Script) dans un langage qui n'est pas [turing complet](https://en.wikipedia.org/wiki/Turing_completeness). Ce langage de script permet d'expérimenter et de réaliser toujours de nouvelle fonctionnalités autour de la blockchain de Bitcoin, sans avoir à développer de nouvelles versions du logiciel.
 
-L’univers Bitcoin a vu lui aussi naître de [nombreuses crypto-monnaies alternatives](https://coinmarketcap.com/). Souvent, ces forks sont réalisés par des simples changements d’algorithmes de chiffrement, ou d’algorithmes de consensus. Ces monnaies alternatives permettent à leurs utilisateurs de toucher leur part de création monétaire, alors que Bitcoin ne permet plus que de travailler pour les premiers mineurs pour obtenir sa part.  
+L’univers Bitcoin a vu lui aussi naître de [nombreuses crypto-monnaies alternatives](https://coinmarketcap.com/). Souvent, ces forks sont réalisés par des simples changements d’algorithmes de chiffrement, ou d’algorithmes de consensus. Ces monnaies alternatives permettent à leurs utilisateurs de toucher leur part de création monétaire, puisque Bitcoin ne le permet plus. En effet, les premiers mineurs ont raflé la mise, et il faut travailler pour eux si on souhaite obtenir sa part.  
 
-Pour que les utilisateurs puissent réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui-ci permet à deux utilisateurs de monnaies distinctes d’échanger entre eux des unités monétaires. Ces unités sont présentes dans des blockchains différentes, et pourtant, l’échange crosschain va permettre de chaîner l’échange entre les deux blockchains.
+Pour que les utilisateurs puissent réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui-ci permet à deux utilisateurs de monnaies distinctes d’échanger entre eux des unités monétaires sans tiers de confiance, et sans besoin de se faire confiance. Ces unités sont présentes dans des blockchains différentes, et pourtant, l’échange crosschain va permettre de lier l’échange entre les deux blockchains.
 
 <center>![Protocol 0.2 swap transactions](https://framapic.org/OG1r3m1BrIfX/RUuI5789xdEE)</center>
 
-L’exemple précédent présente le cas idéal, ou Alice et Mark s’échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C’est pourquoi il est nécessaire d’introduire des documents de remboursements dans cet échange. L’algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
+L’exemple précédent présente le cas idéal, ou Alice et Mark s’échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C’est pourquoi il est nécessaire d’introduire des documents de remboursements dans cet échange. Ces documents de remboursement sont des transactions qui retournent la monnaie à son propriétaire. L’algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
 
 <center>![protocol 0.2 refund](https://framapic.org/52mcWMQE9BEo/OHmyyo6MqKDL)</center>
 
@@ -64,7 +62,7 @@ L’exemple précédent présente le cas idéal, ou Alice et Mark s’échangent
 
 Développer un langage de script au sein de nos transactions aurait nécessité un effort trop conséquent, alors que nous ne souhaitons par transformer notre blockchain en une blockchain applicative. Nous avons donc décidé de réaliser ce mécanisme transactionnel sous sa forme la plus simple : un conditionnement à l'écriture dans la blockchain.
 
-Comment ça se passe concrètement ? Les transactions ont toujours une forme *Entrée* -> *Sortie*. Mais des nouveaux éléments font leur apparition : Des *paramètres de déverrouillage* et des *conditions verrouillant* la monnaie de cette transaction.
+Comment ça se passe concrètement ? Les transactions ont toujours une forme *Entrée* -> *Sortie*. L'entrée correspond à de la monnaie disponible à la dépense, tandis que la sortie correspond à la monnaie qui deviendra disponible pour le destinataire. Mais des nouveaux éléments font leur apparition : Des *paramètres de déverrouillage* et des *conditions verrouillant* la monnaie de cette transaction.
 Dans la pratique, ce changement est simple. La transaction est maintenant de la forme *Entrée* -> *Déverrouillage* -> *Verrou de sortie*. La forme d’une transaction est la suivante : 
 
 ```
