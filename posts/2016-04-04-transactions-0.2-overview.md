@@ -40,7 +40,7 @@ potentiellement exister, et devront échanger leur monnaie via des taux de chang
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
 
-<center>![Protocol swap exchange with protocol 0.1](https://framapic.org/ohjgASVrm8aU/jdzWNoLWJ8R3)</center>
+<center>![Protocol swap exchange with protocol 0.1](https://framapic.org/lKogGowiLKod/9rPABRTUxnOI)</center>
 
 Vous l'aurez compris : il fallait trouver une solution et améliorer notre blockchain.
 
@@ -55,11 +55,11 @@ L'univers Bitcoin a vu lui aussi naître de [nombreuses crypto-monnaies alternat
 
 Pour que les utilisateurs puissant réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui ci permet à deux utilisateurs de monnaies distinctes d'échanger entre eux des unités monétaires. Ces unités sont présentes dans des blockchains différentes, et pourtant, l'échange crosschain va permettre de chainer l'échange entre les deux blockchains.
 
-<center>![Protocol 0.2 swap transactions](https://framapic.org/tRYxdRO1UtmH/F83AkN8CdNop)</center>
+<center>![Protocol 0.2 swap transactions](https://framapic.org/djp5ayFKHVy5/CRJCWAvuOxo0)</center>
 
 L'exemple précédent présente le cas idéal, ou Alice et Mark s'échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C'est pourquoi il est nécessaire d'introduire des documents de remboursements dans cet échange. L'algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
 
-<center>![protocol 0.2 refund](https://framapic.org/pNSVOeTcTzhz/73pbJtiq73RJ)</center>
+<center>![protocol 0.2 refund](https://framapic.org/qZxB6N2HYvZP/zPhZDuLpReUC)</center>
 
 ## Keep It Simple
 
