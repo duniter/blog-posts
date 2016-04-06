@@ -30,14 +30,14 @@ uCoin est un logiciel qui identifie ses utilisateurs grâce à [une toile de con
 identifiés, ils se certifient une confiance d'unicité et d'existence. Cet acte, d'individu en individu, forme
 une toile qui permet à tout le monde de savoir qui est reconnu par qui. Cependant, pour que les individus puissent être reconnus, et que les attaques sibylles ne puissent pas arriver, cette toile doit pouvoir être tendue et serrée. Il faut que  des efforts conséquents soit nécessaires pour qu'un tricheur multiplie les identités, de façon à ce que la triche reste un fait extrêmement mineur.
 
-<center>![Swap exchange](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
-
 La conséquence est que les individus doivent pouvoir créer plusieurs communautés, tester de nouvelles règles de confiance, 
 chercher à déterminer les meilleurs paramètres. Tous ces éléments font que plusieurs dizaines de communautés pourront 
 potentiellement exister, et devront échanger leur monnaie via des taux de changes inter-communautaires. Ces relations d'échanges doivent pouvoir s'automatiser de façon à ce que ça soit transparent pour les utilisateurs. Aussi, nous souhaitons
 éviter au maximum à avoir à introduire des tiers de confiances.
 
-Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. 
+<center>![Swap exchange](https://framapic.org/uyFv0qtS0yjG/kWXNVu4DAmDg)</center>
+
+Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. En effet, il est possible d'abuser du système car aucun verrou transactionnel n'est réalisable dans la blockchain : 
 
 <center>![Protocol swap exchange with protocol 0.1](https://framapic.org/lKogGowiLKod/9rPABRTUxnOI)</center>
 
