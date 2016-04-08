@@ -1,6 +1,5 @@
 # Un aperçu du protocole 0.2 : les transactions
 
-Une fonctionnalité très importante arrive dans la version 0.2 du protocole. 
 Celle-ci va permettre de réaliser de nombreuses nouvelles choses, comme de créer des applications avancées
 autour des blockchains ucoin ou encore de s'interfacer avec les crypto-monnaies existantes ! 
 
@@ -60,7 +59,7 @@ L’exemple précédent présente le cas idéal, ou Alice et Mark s’échangent
 
 ## Keep It Simple
 
-Développer un langage de script au sein de nos transactions aurait nécessité un effort trop conséquent, alors que nous ne souhaitons par transformer notre blockchain en une blockchain applicative. Nous avons donc décidé de réaliser ce mécanisme transactionnel sous sa forme la plus simple : un conditionnement à l'écriture dans la blockchain.
+Développer un langage de script au sein de nos transactions aurait nécessité un effort trop conséquent, alors que nous ne souhaitons pas transformer notre blockchain en une blockchain applicative. Nous avons donc décidé de réaliser ce mécanisme transactionnel sous sa forme la plus simple : un conditionnement à l'écriture dans la blockchain.
 
 Comment ça se passe concrètement ? Les transactions ont toujours une forme *Entrée* -> *Sortie*. L'entrée correspond à de la monnaie disponible à la dépense, tandis que la sortie correspond à la monnaie qui deviendra disponible pour le destinataire. Mais des nouveaux éléments font leur apparition : Des *paramètres de déverrouillage* et des *conditions verrouillant* la monnaie de cette transaction.
 Dans la pratique, ce changement est simple. La transaction est maintenant de la forme *Entrée* -> *Déverrouillage* -> *Verrou de sortie*. La forme d’une transaction est la suivante : 
