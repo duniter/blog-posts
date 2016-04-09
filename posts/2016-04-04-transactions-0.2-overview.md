@@ -37,7 +37,7 @@ Tous ces éléments font que plusieurs dizaines de communautés pourront potenti
 
 Dans le protocole 0.1, il n'est pas possible d'automatiser cet échange inter-communautaire. En effet, l'échange demande que chaque partie prenante se fassent confiance car aucun verrou transactionnel n'est réalisable dans la blockchain : 
 
-<center>![Protocol swap exchange with protocol 0.1](https://framapic.org/fK69fxvYqK5G/4QMAom92649R)</center>
+<center>![Protocol swap exchange with protocol](https://framapic.org/gSYRC6SGiInC/BiIQkkIBqYyw)</center>
 
 Vous l’aurez compris : il fallait trouver une solution et améliorer notre blockchain.
 
@@ -51,11 +51,11 @@ L’univers Bitcoin a vu lui aussi naître de [nombreuses crypto-monnaies altern
 
 Pour que les utilisateurs puissent réaliser des places de changes sûres, l'algorithme des transactions crosschains est apparu. Celui-ci permet à deux utilisateurs de monnaies distinctes d’échanger entre eux des unités monétaires sans tiers de confiance, et sans besoin de se faire confiance. Ces unités sont présentes dans des blockchains différentes, et pourtant, l’échange crosschain va permettre de lier l’échange entre les deux blockchains.
 
-<center>![Protocol 0.2 swap transactions](https://framapic.org/eINOfyHO5DvB/QIhBQnH8KFVn)</center>
+<center>![Protocol 0.2 swap transactions](https://framapic.org/3yhgFNQ4sRTL/TFRgfHCkEpx3)</center>
 
 L’exemple précédent présente le cas idéal, ou Alice et Mark s’échangent leur monnaie sans que le processus soit interrompu. Vous noterez cependant que la monnaie peut ici être bloquée dans la blockchain : Si Mark envoie de la monnaie à Alice, et que Alice ne répond plus, Mark ne peut pas récupérer sa part. C’est pourquoi il est nécessaire d’introduire des documents de remboursements dans cet échange. Ces documents de remboursement sont des transactions qui retournent la monnaie à son propriétaire. L’algorithme devient un petit peu plus complexe, alors, accrochez-vous : 
 
-<center>![protocol 0.2 refund](https://framapic.org/s2lD5pV9oldL/hmq51WCBa8f7)</center>
+<center>![protocol 0.2 refund](https://framapic.org/nqX9AvwshMgG/kSerUot4VFz7)</center>
 
 ## Keep It Simple
 
