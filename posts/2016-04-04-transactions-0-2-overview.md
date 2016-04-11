@@ -87,3 +87,5 @@ Pour envoyer de la monnaie à une clé publique **A**, tout en gardant le contr�
 Nous pouvons envisager aussi de mettre en place des billets *consommables*. Un billet serait verrouillé sur une monnaie consommable uniquement par un nombre caché dans le billet. La destruction physique du billet révélerait ce nombre et permettrait d’empocher la monnaie sur son adresse. De nombreux moyens physiques de destruction sont possibles, comme des billets à gratter, un révélateur chimique, etc.
 
 Ce ne sont que des premiers idées que nous avons eu en discutant entre nous. Ces nouvelles règles protocolaires vont permettre de développer de nouveaux systèmes toujours plus décentralisés. Reste aux développeurs de s’approprier ces nouveaux moyens pour développer des nouvelles applications pour des individus toujours plus libres !
+
+Article rédigé par [@Inso](https://twitter.com/_inso), contributeur du projet uCoin et fondateur du client Sakia
