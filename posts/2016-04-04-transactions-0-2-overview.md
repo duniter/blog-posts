@@ -72,8 +72,8 @@ OUTPUTS: Conditions de verrouillage de la monnaie
 SIGNATURES
 ```
 
-Il existe 2 types de verrous possibles. 
- - Un verrou **SIG(PUBKEY)** qui signifie *La signature de PUBKEY est nécessaire pour utiliser cette monnaie*. 
+Il existe 2 types de verrous possibles.  
+ - Un verrou **SIG(PUBKEY)** qui signifie *La signature de PUBKEY est nécessaire pour utiliser cette monnaie*.  
  - Un second verrou est **XHX(HASH)**, qui signifie *Le nombre X générant le HASH est nécessaire pour utiliser cette monnaie*.
 
 Ces verrous peuvent être combinés par des opérateurs **OR** et **AND**. Enfin, il est possible de placer un verrou temporel **LOCKTIME** sur une transaction. Ce verrou permet d'empêcher d'enregistrer une transaction dans une blockchain avant un temps déterminé.
