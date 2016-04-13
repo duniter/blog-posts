@@ -30,7 +30,7 @@ do
         po4a-translate -f text -m posts/$post -p posts/$post_lang -l $final -M utf-8 --keep $keep
         if [[ -f $final ]]; then
           # Clean result since po4a-gettextize broke many things...
-          cat $final | sed ':a;N;$!ba;s/\n/AAA/g' | sed 's/AAAAA*/\n\n/g' | sed 's/AAA\*/\n\*/g' | sed 's/AAA/ /g' > "$final.2"
+          node ./scripts/clean_po4a.js $final > "$final.2"
           # Erase translated file with corrections
           mv $final.2 $final
         fi
