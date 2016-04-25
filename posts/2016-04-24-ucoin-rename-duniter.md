@@ -60,7 +60,7 @@ Ce protocole permet notamment [l'échange inter-monnaies](http://duniter.org/tra
 
 ### Une interface graphique !
 
-Duniter introduira l'ajout d'une interface graphique pour l'utilisation du logiciel, dont vous pouvez un aperçu ci-dessous ! *Enfin*, le logiciel s'ouvre à un plus vaste panel d'utilisateurs que les seuls habitués de la console Linux.
+Duniter introduira l'ajout d'une interface graphique pour l'utilisation du logiciel, dont vous pouvez voir un aperçu ci-dessous ! *Enfin*, le logiciel s'ouvre à un plus vaste panel d'utilisateurs que les seuls habitués de la console Linux.
 
 ![](lien vers l'image)
 
@@ -68,7 +68,7 @@ Duniter introduira l'ajout d'une interface graphique pour l'utilisation du logic
 
 Nous allons prochainement démarrer une nouvelle monnaie. Celle-ci aura pour but de permettre une utilisation en conditions réelles : il s'agira d'une monnaie **expérimentale** à l'instar du Bitcoin il y a 7 ans.
 
-Le lancement sera annoncé sur via les blog, forum, groupes de discussion, Diaspora*, Twitter et autres, suivez-nous donc pour être informés au plus tôt ! Et pour les plus impatients, vous pouvez aussi passer sur le [salon XMPP](https://jappix.com/?r=duniter@muc.duniter.org) où vous pourrez obtenir les toutes dernières informations en date !
+Le lancement sera annoncé sur les blog, forum, groupes de discussion, Diaspora*, Twitter et autres, suivez-nous donc pour être informés au plus tôt ! Et pour les plus impatients, vous pouvez aussi passer sur le [salon XMPP](https://jappix.com/?r=duniter@muc.duniter.org) où vous pourrez obtenir les toutes dernières informations en date !
 
 ### Migration de nos outils
 
