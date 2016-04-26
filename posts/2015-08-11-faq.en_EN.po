@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-06 12:36-0500\n"
-"PO-Revision-Date: 2016-02-11 19:06+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
-"Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"PO-Revision-Date: 2016-04-26 14:23+0000\n"
+"Last-Translator: Christophe Parot <cannecy@free.fr>\n"
+"Language-Team: English <http://weblate.duniter.org/projects/ucoin-blog/blog-"
 "faq/en_EN/>\n"
 "Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.4-dev\n"
+"X-Generator: Weblate 2.6-dev\n"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:2
@@ -31,7 +31,7 @@ msgstr "## General aspects"
 #. type: Plain text
 #: posts/2015-08-11-faq.md:6
 msgid "### uCoin in 3 words?"
-msgstr "### uCoin in 3 words?"
+msgstr "### Duniter in 3 words?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:8
@@ -51,9 +51,9 @@ msgid ""
 "freedoms](http://ucoin.io/theoretical/#a-free-economy), and leading to apply "
 "_Universal Dividend_ to its members."
 msgstr ""
-"This is a new word, as no free currency existed before: free currency is one "
-"[respecting 4 economical freedoms](http://ucoin.io/theoretical/#a-free-"
-"economy), and leading to apply _Universal Dividend_ to its members."
+"This is a new expression, as no free currency existed before: free currency "
+"is one [respecting 4 economical freedoms](http://duniter.org/theoretical/#a"
+"-free-economy), and leading to apply _Universal Dividend_ to its members."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:14
@@ -88,7 +88,7 @@ msgid ""
 "uCoin uses cryptography features provided by "
 "[Ed25519](http://www.wikiwand.com/en/EdDSA) scheme to both:"
 msgstr ""
-"uCoin uses cryptography features provided by "
+"Duniter uses cryptography features provided by "
 "[Ed25519](http://www.wikiwand.com/en/EdDSA) scheme to both:"
 
 #. type: Bullet: '*   '
@@ -108,7 +108,7 @@ msgstr "Allow money transfers through digital signatures"
 #. type: Plain text
 #: posts/2015-08-11-faq.md:25
 msgid "### Is uCoin like Bitcoin?"
-msgstr "### Is uCoin like Bitcoin?"
+msgstr "### Is Duniter like Bitcoin?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:27
@@ -122,11 +122,12 @@ msgid ""
 "both applying _Universal Dividend_ and considerably save energy power "
 "compared to Bitcoin."
 msgstr ""
-"Well, uCoin is a _[cryptocurrency](http://www.wikiwand.com/en/Cryptocurrency)"
-"_ system and so is Bitcoin. Plus, both systems use [Proof of "
-"Work](http://ucoin.io/faq/#http://en.wikipedia.org/wiki/Proof-of-work_system)"
-" (PoW) technology to synchronize & secure its data. But uCoin takes "
-"advantage of [Web of Trust](http://www.wikiwand.com/en/Web_of_trust) "
+"Well, Duniter is a "
+"_[cryptocurrency](http://www.wikiwand.com/en/Cryptocurrency)_ system and so "
+"is Bitcoin. Plus, both systems use [Proof of "
+"Work](http://duniter.org/faq/#http://en.wikipedia.org/wiki/Proof-of-"
+"work_system) (PoW) technology to synchronize & secure its data. But Duniter "
+"takes advantage of [Web of Trust](http://www.wikiwand.com/en/Web_of_trust) "
 "mechanisms for both applying _Universal Dividend_ and considerably save "
 "energy power compared to Bitcoin."
 
@@ -153,12 +154,12 @@ msgid ""
 "others' identity. In uCoin, it is exactly the same."
 msgstr ""
 "Web of Trust refers to a data structure allowing people to trust each "
-"others' identity. In uCoin, it is exactly the same."
+"others' identity. In Duniter, it is exactly the same."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:37
 msgid "### Is uCoin data encrypted?"
-msgstr "### Is uCoin data encrypted?"
+msgstr "### Is Duniter data encrypted?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:39
@@ -166,18 +167,18 @@ msgid ""
 "No, all uCoin data is public & replicated. Anyone using uCoin may have a "
 "complete copy of the database including both community & transactions."
 msgstr ""
-"No, all uCoin data is public & replicated. Anyone using uCoin may have a "
+"No, all Duniter data is public & replicated. Anyone using Duniter may have a "
 "complete copy of the database including both community & transactions."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:41
 msgid "## uCoin for simple users"
-msgstr "## uCoin for simple users"
+msgstr "## Duniter for simple users"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:43
 msgid "### Who can use uCoin?"
-msgstr "### Who can use uCoin?"
+msgstr "### Who can use Duniter?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:45
@@ -201,8 +202,8 @@ msgid ""
 "uCoin data."
 msgstr ""
 "Members are a different kind of users: they have special rights such as "
-"creating money & write new data in uCoin system. Members are the pillar of "
-"uCoin data."
+"creating money & write new data in Duniter system. Members are the pillar of "
+"Duniter data."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:51
@@ -249,7 +250,7 @@ msgid ""
 "WoT, he becomes a _member_."
 msgstr ""
 "Web of Trust (WoT) is a special data structure composed of entities on one "
-"hand, and links between them on the other hand. In uCoin, these _entities_ "
+"hand, and links between them on the other hand. In Duniter, these _entities_ "
 "are inviduals while _links_ are certification of an individual's identity by "
 "another one. When an individual gets enough links from existing WoT, he then "
 "becomes eligible for joining the WoT: when this happens, his identity is "
@@ -309,7 +310,16 @@ msgid ""
 "written."
 msgstr ""
 "You have to be a member of the WoT when Universal Dividend (UD) is being "
-"written."
+"written.\n"
+"\n"
+"###What is the relative theory of money?\n"
+"\n"
+"The relative theory of money is a book published by Stephane Laborde which "
+"explains what is a free money, how the parameters are computed and an "
+"history of money. This book is a theory which requires mathematical and "
+"economic knowledge. [This introduction to the relative theory of "
+"money](http://cuckooland.free.fr/TheRtmForTheKids.html), maybe easier to "
+"understand, to start with."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:80
@@ -322,7 +332,7 @@ msgid ""
 "The amount is currency specific. But a general rule is defined in uCoin "
 "protocol:"
 msgstr ""
-"The amount is currency specific. But a general rule is defined in uCoin "
+"The amount is currency specific. But a general rule is defined in Duniter "
 "protocol:"
 
 #. type: Plain text
@@ -409,10 +419,10 @@ msgid ""
 msgstr ""
 "You can transfer money by using _Transactions_. Transactions are just like "
 "cheques: you write who is the issuer, the recipient, and send it to the "
-"network. When it is validated, money has been transfered. However, "
-"transactions can do more than simple cheque: it may have any number of "
-"sources (minimum 1) and any number of recipients (minimum 1). Also, it "
-"exists 2 different transaction sources:"
+"network. When it is validated, money has been wired. However, transactions "
+"can do more than simple check: it may have any number of sources (minimum 1) "
+"and any number of recipients (minimum 1). Also, it exists 2 different "
+"transaction sources:"
 
 #. type: Bullet: '*   '
 #: posts/2015-08-11-faq.md:107
@@ -449,8 +459,8 @@ msgid ""
 "At any moment, the common data structure of uCoin (the _blockchain_) allows "
 "to know it: membership is simply written in it. Anyone may check it."
 msgstr ""
-"At any moment, the common data structure of uCoin (the _blockchain_) allows "
-"to know it: membership is simply written in it. Anyone may check it."
+"At any moment, the common data structure of Duniter (the _blockchain_) "
+"allows to know it: membership is simply written in it. Anyone may check it."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:117
@@ -473,7 +483,7 @@ msgid ""
 "currency & free economy."
 msgstr ""
 "This is all due to Web of Trust mechanisms. Without being magic, these "
-"mechanisms deeply depends on the rules of the WoT. In uCoin, WoT rules "
+"mechanisms deeply depends on the rules of the WoT. In Duniter, WoT rules "
 "ensures that the more members the WoT is constituted, the harder it is for "
 "fake accounts to stay in. Thus, even if few fake accounts can exist at the "
 "beginning (which is already hard since the more little is WoT, the closer "
@@ -487,7 +497,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-11-faq.md:121
 msgid "## uCoin for validators"
-msgstr "## uCoin for validators"
+msgstr "## Duniter for validators"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:123
@@ -517,10 +527,10 @@ msgid ""
 "transactions. A chain of blocks gives 2 major informations, for any "
 "_t _time:"
 msgstr ""
-"Yes, just like Bitcoin and other altcoins, uCoin stores its data in a "
+"Yes, just like Bitcoin and other altcoins, Duniter stores its data in a "
 "blockchain. A blockchain is a succession of blocks which are stacked, "
 "together, sequentially. Each block contains information about members & "
-"transactions. A chain of blocks gives 2 major informations, for any _t _time:"
+"transactions. A chain of blocks gives 2 major information, for any _t _time:"
 
 #. type: Bullet: '*   '
 #: posts/2015-08-11-faq.md:132
@@ -555,9 +565,9 @@ msgstr ""
 "First because for the currency to work, validators are required: they are "
 "the people _validating_ the blockchain, by writing new blocks on top of it. "
 "Since blocks define members & transactions, validators are those making the "
-"currency dynamic by allowing us creating new money and transfering it to "
-"someone else, or even receive money from others. Without validators, there "
-"_can't_ be currency."
+"currency dynamic by allowing us creating new money and wired it to someone "
+"else, or even receive money from others. Without validators, there _can't_ "
+"be currency."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:138
@@ -590,7 +600,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-11-faq.md:146
 msgid "### Where is stored uCoin data?"
-msgstr "### Where is stored uCoin data?"
+msgstr "### Where is stored Duniter data?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:148
@@ -699,9 +709,10 @@ msgid ""
 "should check it out, you will have a lot of technical informations about "
 "uCoin works!"
 msgstr ""
-"Precise rule is given in [the protocol](https://github.com/ucoin-"
-"io/ucoin/blob/master/doc/Protocol.md#proof-of-work). You should check it "
-"out, you will have a lot of technical informations about uCoin works!"
+"Precise rule is given in [the "
+"protocol](https://github.com/duniter/duniter/blob/master/doc/Protocol.md"
+"#proof-of-work). You should check it out, you will have a lot of technical "
+"informations about Duniter works!"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:174
@@ -716,7 +727,7 @@ msgid ""
 "nodes of the network, one or the other of the 2 blockchains will be "
 "abandoned in the future."
 msgstr ""
-"uCoin will be able to handle multiple blockchains at the same time. So, 2 "
+"Duniter will be able to handle multiple blockchains at the same time. So, 2 "
 "blocks validated at the same time will create a _fork_. Depending on other "
 "nodes of the network, one or the other of the 2 blockchains will be "
 "abandoned in the future."
@@ -786,7 +797,7 @@ msgstr "### Which softwares are required?"
 #. type: Plain text
 #: posts/2015-08-11-faq.md:194
 msgid "uCoin relies on some external softwares, listed here:"
-msgstr "uCoin relies on some external softwares, listed here:"
+msgstr "Duniter relies on some external softwares, listed here:"
 
 #. type: Bullet: '*   '
 #: posts/2015-08-11-faq.md:197
@@ -801,7 +812,7 @@ msgstr "Node.js + NPM"
 #. type: Plain text
 #: posts/2015-08-11-faq.md:199
 msgid "### How to install uCoin?"
-msgstr "### How to install uCoin?"
+msgstr "### How to install Duniter?"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:201
@@ -809,8 +820,8 @@ msgid ""
 "Follow [Install](https://github.com/ucoin-io/ucoin/wiki/Install-uCoin-node) "
 "guide."
 msgstr ""
-"Follow [Install](https://github.com/ucoin-io/ucoin/wiki/Install-uCoin-node) "
-"guide."
+"Follow [Install](https://github.com/duniter/duniter/wiki/Install-duniter-"
+"node) guide."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:203
@@ -841,10 +852,10 @@ msgid ""
 "possibilities. If you feel comfortable with one these profiles, do not "
 "hesitate to [contact us at admin@ucoin.io](mailto:admin@ucoin.io)."
 msgstr ""
-"You can help on project developement in many ways, depending your available "
+"You can help on project development in many ways, depending your available "
 "time, energy and your profile. Please read below requirements and "
 "possibilities. If you feel comfortable with one these profiles, do not "
-"hesitate to [contact us at admin@ucoin.io](mailto:admin@ucoin.io)."
+"hesitate to [contact us at admin@duniter.org(mailto:admin@duniter.org)."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:213
@@ -857,7 +868,7 @@ msgid ""
 "You may participate to uCoin server's development, which is the core "
 "software implementing UCP. You will need some technical skills:"
 msgstr ""
-"You may participate to uCoin server's development, which is the core "
+"You may participate to Duniter server's development, which is the core "
 "software implementing UCP. You will need some technical skills:"
 
 #. type: Bullet: '*   '
@@ -877,9 +888,9 @@ msgid ""
 "[HTTP API](https://github.com/ucoin-io/ucoin/blob/master/doc/HTTP_API.md) "
 "and [contact us](mailto:admin@ucoin.io)."
 msgstr ""
-"If you are not affraid by those technologies, you can both start reading ["
-"HTTP API](https://github.com/ucoin-io/ucoin/blob/master/doc/HTTP_API.md) and "
-"[contact us](mailto:admin@ucoin.io)."
+"If you are not afraid by those technologies, you can both start reading ["
+"HTTP API](https://github.com/duniter/duniter/blob/master/doc/HTTP_API.md) "
+"and [contact us](mailto:admin@duniter.org)."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:222
@@ -895,7 +906,7 @@ msgid ""
 msgstr ""
 "See this beautiful website? You want to improve it with new content, new "
 "design? Feel free to propose your skills, any help is welcome. What probably "
-"uCoin needs the most is: **a logo**!"
+"Duniter needs the most is: **a logo**!"
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:226
@@ -911,8 +922,8 @@ msgid ""
 "experts in that domain. So, if Graph Theory is your every day life, **do not "
 "hesitate to come to us!**"
 msgstr ""
-"uCoin protocol will use Graph Theory properties to build a Web of Trust of "
-"unique & living individuals. Even if uCoin team is made up of engineers/"
+"Duniter protocol will use Graph Theory properties to build a Web of Trust of "
+"unique & living individuals. Even if Duniter team is made up of engineers/"
 "PhDs, Graph Theory is not something easy and we probably need experts in "
 "that domain. So, if Graph Theory is your every day life, **do not hesitate "
 "to come to us!**"
@@ -929,7 +940,7 @@ msgid ""
 "articles, share links, knowledge, experiences, whatever! No need to ask, "
 "simply do it!"
 msgstr ""
-"Well, here, you do not need us to do the job: speak about uCoin, make "
+"Well, here, you do not need us to do the job: speak about Duniter, make "
 "articles, share links, knowledge, experiences, whatever! No need to ask, "
 "simply do it!"
 
@@ -953,13 +964,13 @@ msgid ""
 msgstr ""
 "Well, if reached this paragraph reading the whole FAQ, you should have a "
 "rather good idea of what is uCoin. You could go deeper with [Theoretical "
-"section](http://ucoin.io/theoretical). From there, you should be able to "
+"section](http://duniter.org/theoretical). From there, you should be able to "
 "talk about the project with a minimum of background. If you want to get "
-"deeper in uCoin, read [UCP](http://ucoin.io/specs), this is uCoin protocol. "
-"All what you need to know about technical IT stuff is there, even if not in "
-"a tutorial format. Last, you could try to read "
-"[RMT](http://www.wikiwand.com/fr/Th%C3%A9orie_relative_de_la_monnaie), which "
-"is the fundamental theory behind uCoin's way of creating new money."
+"deeper in Duniter, read [UCP](http://duniter.org/specs), this is Duniter "
+"protocol. All what you need to know about technical IT stuff is there, even "
+"if not in a tutorial format. Last, you could try to read "
+"[RMT](http://en.trm.creationmonetaire.info/), which is the fundamental "
+"theory behind Duniter's way of creating new money."
 
 #. type: Plain text
 #: posts/2015-08-11-faq.md:238
@@ -975,8 +986,8 @@ msgid ""
 "join the chatroom with the bottom-right _Chat_ icon visible on each page of "
 "this website."
 msgstr ""
-"[Mailing List](https://groups.google.com/forum/?hl=fr#!forum/ucoin) for "
-"major events, [uCoin Forum](http://forum.ucoin.io/) for every day talking "
-"about development, events, questions & almost every subject. Last, you could "
-"join the chatroom with the bottom-right _Chat_ icon visible on each page of "
-"this website."
+"[Mailing List](https://groups.google.com/forum/?hl=fr#!forum/duniter) for "
+"major events, [Duniter Forum](http://forum.duniter..org/) for every day "
+"talking about development, events, questions & almost every subject. Last, "
+"you could join the chatroom with the bottom-right _Chat_ icon visible on "
+"each page of this website."
