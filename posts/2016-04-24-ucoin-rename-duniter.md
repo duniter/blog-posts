@@ -33,7 +33,7 @@ Ainsi de nouveaux grains de sables alimentent constamment la dune représentée 
 
 Un taux de croissance de 10 % fait grossir les nombres de 0,8 % par mois. Dans ce référentiel, il n'est pas aisé de comparer des valeurs sur des années d'écarts en comparant ces nombres. Mais dans notre logiciel, les individus émettent un dividende universel (abrégé « DU »). Celui-ci est stable et ne change pas : il vaut toujours 10 % de la masse monétaire. Ainsi, en comparant les nombres *relativement* au DU créé, nous pouvons comparer et mesurer avec un référentiel stable dans le temps.
 
-[ image des courbes relatives/quantitatives ]
+![relquant](https://framapic.org/8xytOUhihQlK/Jm8Dcg1oUTZ0)
 
 C'est pourquoi « Duniter » signifie « Dividend Uniter », car ce nom souhaite évoquer l'unité dividende particulière aux monnaies libres : le Dividende Universel ou « DU » .
 
