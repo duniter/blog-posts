@@ -23,7 +23,7 @@ Le nom que nous cherchions devait faire passer plusieurs idées :
 
 Ce concept est fondamental pour nous. En effet, nous prenons acte du fait que les humains ont une espérance de vie limitée, et que l'arrivée et le départ d'individus dans l'économie forment un flux continu. Le logiciel prend en compte cet aspect à travers la forme de la monnaie et de ses membres, les individus.
 
-![flux](https://framapic.org/2BLWYiySePyP/w7vGsQ4jiVH8)
+![flux](https://framapic.org/WAifIBGYQDDg/myfaxrrYVgwL)
 
 Le renouvellement au sein du flux *à travers l'espérance de vie* permet de déduire le taux de croissance monétaire impliquant une symétrie monétaire spatiale et temporelle entre les individus.
 
