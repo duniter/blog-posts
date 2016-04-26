@@ -23,7 +23,8 @@ Le nom que nous cherchions devait faire passer plusieurs idées :
 
 Ce concept est fondamental pour nous. En effet, nous prenons acte du fait que les humains ont une espérance de vie limitée, et que l'arrivée et le départ d'individus dans l'économie forment un flux continu. Le logiciel prend en compte cet aspect à travers la forme de la monnaie et de ses membres, les individus.
 
-![flux](https://framapic.org/WAifIBGYQDDg/myfaxrrYVgwL)
+<center>![flux](https://framapic.org/WAifIBGYQDDg/myfaxrrYVgwL)  
+*Le flux humain en France de 1920 à 2020*</center>
 
 Le renouvellement au sein du flux *à travers l'espérance de vie* permet de déduire le taux de croissance monétaire impliquant une symétrie monétaire spatiale et temporelle entre les individus.
 
@@ -33,7 +34,8 @@ Ainsi de nouveaux grains de sables alimentent constamment la dune représentée 
 
 Un taux de croissance de 10 % fait grossir les nombres de 0,8 % par mois. Dans ce référentiel, il n'est pas aisé de comparer des valeurs sur des années d'écarts en comparant ces nombres. Mais dans notre logiciel, les individus émettent un dividende universel (abrégé « DU »). Celui-ci est stable et ne change pas : il vaut toujours 10 % de la masse monétaire. Ainsi, en comparant les nombres *relativement* au DU créé, nous pouvons comparer et mesurer avec un référentiel stable dans le temps.
 
-![relquant](https://framapic.org/8xytOUhihQlK/Jm8Dcg1oUTZ0)
+<center>![relquant](https://framapic.org/8xytOUhihQlK/Jm8Dcg1oUTZ0)  
+*La masse monétaire, les comptes, et les dividendes des membres*</center>
 
 C'est pourquoi « Duniter » signifie « Dividend Uniter », car ce nom souhaite évoquer l'unité dividende particulière aux monnaies libres : le Dividende Universel ou « DU » .
 
