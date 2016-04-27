@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-04-27 20:12+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-04-27 19:40+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: English <https://weblate.duniter.org/projects/ucoin-blog/blog-"
+"ucoin-renames-duniter/en_EN/>\n"
+"Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6-dev\n"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:2
 msgid "# uCoin devient Duniter !"
-msgstr ""
+msgstr "# uCoin becomes Duniter !"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:4
@@ -29,11 +31,15 @@ msgid ""
 "son créateur cgeek, et avec le recul nous estimions qu'il ne représentait "
 "plus le logiciel que nous souhaitions développer."
 msgstr ""
+"From now, and for the release of protocol 0.2, the project *uCoin* becomes "
+"*Duniter*. uCoin was a name chosen at the begining by its creator cgeek, and "
+"with hindsight we thought it did not represent anymore the software we aimed "
+"to develop."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:6
 msgid "## Pourquoi uCoin ne convenait pas ?"
-msgstr ""
+msgstr "## Why wasn't uCoin the right name ?"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:8
@@ -43,6 +49,10 @@ msgid ""
 "\"Vous, l'utilisateur, qui alliez créer la monnaie\". Mais ce parallèle avec "
 "Bitcoin était mal choisi à plusieurs titres :"
 msgstr ""
+"The name uCoin was here to remind cryptocurrencies like Bitcoin. The U of "
+"uCoin (pronounced \"You\") wanted suggest the idea that \"You, the user, are "
+"going to create the money\". But this link with Bitcoin was wrongly chosen "
+"for many reasons :"
 
 #. type: Bullet: '* '
 #: posts/2016-04-24-ucoin-rename-duniter.md:13
@@ -51,6 +61,8 @@ msgid ""
 "encore *une seule* monnaie alors que le logiciel permet d'en créer une "
 "multitude"
 msgstr ""
+"The term « coin » indicated that uCoin was a money, and more over *only one* "
+"money whereas the software is able to create many of them"
 
 #. type: Bullet: '* '
 #: posts/2016-04-24-ucoin-rename-duniter.md:13
@@ -59,6 +71,8 @@ msgid ""
 "qu'une monnaie uCoin est commune et co-produites par ses utilisateurs, et "
 "donc pas individuelle"
 msgstr ""
+"the  « you » term could suggest it was about individual currencies, where a "
+"uCoin money is common and co-produced by its users, and so is not individual"
 
 #. type: Bullet: '* '
 #: posts/2016-04-24-ucoin-rename-duniter.md:13
@@ -66,6 +80,8 @@ msgid ""
 "notre logiciel utilise certes une blockchain, mais celle-ci est particulière "
 "au sens où il n'y a pas de course à la puissance"
 msgstr ""
+"our software may use a blockchain, but this one is particular in the way "
+"where there is no run for power"
 
 #. type: Bullet: '* '
 #: posts/2016-04-24-ucoin-rename-duniter.md:13
@@ -74,6 +90,8 @@ msgid ""
 "sur Bitcoin, apportant donc une confusion vis-à-vis de notre projet *dont "
 "elle ne fait pas partie*"
 msgstr ""
+"a money named uCoin was initiated during our developments but based on "
+"Bitcoin, bringing then a confusion with our project *from which apart*"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:15
@@ -86,11 +104,17 @@ msgid ""
 "projet. Et depuis la sixième édition des rencontres des monnaies libres, "
 "nous étions à la recherche d'un nom alternatif."
 msgstr ""
+"Last point but not the least, was finding a [logo "
+"idea]](https://forum.duniter.org/t/need-a-logo-for-ucoin/138) for uCoin "
+"extremely difficult. After more than a hundred comments on the forum, we "
+"were not satisfied. We understood that the current name wasn't communicating "
+"enough the founding principles of the project. And since the sixth edition "
+"of the free money meetings, we were looking for an alternative name."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:17
 msgid "## Présentons Duniter"
-msgstr ""
+msgstr "## Let's present Duniter"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:19
@@ -98,16 +122,18 @@ msgid ""
 "« Duniter » pour « Dividend Uniter » : le logiciel qui *fait* l'unité "
 "Dividende."
 msgstr ""
+"« Duniter » for « Dividend Uniter » : the software which *makes* the "
+"Dividend unit."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:21
 msgid "Le nom que nous cherchions devait faire passer plusieurs idées :"
-msgstr ""
+msgstr "The name we were looking for had to pass multiples ideas :"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:23
 msgid "### Concept de Flux"
-msgstr ""
+msgstr "### The Concept of Flow"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:25
@@ -118,6 +144,10 @@ msgid ""
 "prend en compte cet aspect à travers la forme de la monnaie et de ses "
 "membres, les individus."
 msgstr ""
+"This concept is fundamental to us. Indeed, we acknowledge that humans have a "
+"limited life expectancy, and that arrival and departure of individuals in "
+"the economy form a continuous flow. This software takes this aspect into "
+"account throughout the form of the money and its members, the individuals."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:28
@@ -125,6 +155,8 @@ msgid ""
 "<center>![flux](https://framapic.org/WAifIBGYQDDg/myfaxrrYVgwL)  *Le flux "
 "humain en France de 1920 à 2020*</center>"
 msgstr ""
+"<center>![flux](https://framapic.org/WAifIBGYQDDg/myfaxrrYVgwL)  *Human flow "
+"in France from 1920 to 2020*</center>"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:30
@@ -133,11 +165,14 @@ msgid ""
 "déduire le taux de croissance monétaire impliquant une symétrie monétaire "
 "spatiale et temporelle entre les individus."
 msgstr ""
+"Renewal within the flow *through life expectancy* is used to deduce the "
+"monetary growth rate which imply a monetary symmetry, spatially and "
+"temporally, between the individuals."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:32
 msgid "### Concept de Relativité"
-msgstr ""
+msgstr "### Relativity Concept"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:34
@@ -150,6 +185,13 @@ msgid ""
 "monétaire. Ainsi, en comparant les nombres *relativement* au DU créé, nous "
 "pouvons comparer et mesurer avec un référentiel stable dans le temps."
 msgstr ""
+"A growth rate of 10 % imply a 0.8 % growth of the numbers each month. In "
+"this referential, it is not eased to compare values years apart by comparing "
+"these numbers. But in our software, individuals issue a universal dividend ("
+"abbreviated « UD »). This one is stable and does not change : it is always "
+"worth 10 % of the monetary mass each year. Thus, by comparing the numbers "
+"*relatively* to the created UD, we can compare and measure in a stable "
+"referential in time."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:37
@@ -158,6 +200,9 @@ msgid ""
 "Quantitative](https://framapic.org/AgIhtDRo5Cz0/5ouZAx2xLOHu)  *La masse "
 "monétaire, les comptes, et les dividendes des dix membres*</center>"
 msgstr ""
+"<center>![Relative and "
+"Quantitative](https://framapic.org/AgIhtDRo5Cz0/5ouZAx2xLOHu)  *Monetary "
+"mass, accounts, and the dividends of the ten members*</center>"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:39
@@ -166,11 +211,14 @@ msgid ""
 "évoquer l'unité dividende particulière aux monnaies libres : le Dividende "
 "Universel ou « DU » ."
 msgstr ""
+"That's why « Duniter » means « Dividend Uniter », because this name wish to "
+"evoke the dividend unit, particular to free moneys : the Universal Dividend "
+"or « UD » ."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:41
 msgid "### Logiciel de génération de monnaies, au pluriel"
-msgstr ""
+msgstr "### A software to generate moneys, in plural"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:43
@@ -183,6 +231,12 @@ msgid ""
 "n'évoque plus la monnaie de façon directe à travers la suppression du terme "
 "« coin »."
 msgstr ""
+"The name of the software was supposed to mean it would generate free moneys. "
+"This is then each one, by initializing its own Duniter network, that will be "
+"able to create and give a name to a new money. This name had to suggested a "
+"\"software\" name instead of a \"money\" name. This is why this new name is "
+"sounding like this, and does not suggest the money anymore through the "
+"removal of the « coin » term."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:45
@@ -190,11 +244,13 @@ msgid ""
 "Dividend Uniter, ou Duniter exprime ainsi mieux le concept d'outil de "
 "création de monnaies libres par dividendes universels."
 msgstr ""
+"Dividend Uniter, or Duniter, express better the concept of a tool to create "
+"free moneys with universal dividends."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:47
 msgid "## Logo Duniter"
-msgstr ""
+msgstr "## Duniter Logo"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:50
@@ -206,6 +262,11 @@ msgid ""
 "sont emportés par le vent, faisant de celle-ci une entité changeante mais "
 "stable. Tout comme le flux des individus et de la monnaie."
 msgstr ""
+"With this new name, more evocative, this logo was found fast. It evokes the "
+"sand dune swept by the wind. The dune is an invisible flow, a perpetual "
+"entity. Each new grain of sand feed constantly the dune represented by the "
+"Duniter logo, while others are brought away by the wind,  making of it an "
+"changing but stable entity."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:52
@@ -213,16 +274,18 @@ msgid ""
 "<center>![Duniter "
 "logo](https://raw.github.com/duniter/duniter/master/duniter-logos/250×250.png)</center>"
 msgstr ""
+"<center>![Duniter logo](https://raw.github.com/duniter/duniter/master"
+"/duniter-logos/250×250.png)</center>"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:54
 msgid "## Changements"
-msgstr ""
+msgstr "## Changes"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:56
 msgid "### Un nouveau protocole"
-msgstr ""
+msgstr "### A new protocol"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:58
@@ -232,6 +295,10 @@ msgid ""
 "devient la nouvelle implémentation de référence qui corrige et améliore son "
 "ancêtre uCoin de façon décisive."
 msgstr ""
+"This name change is the occasion for us to use a new version of the protocol "
+"(0.2), not reverse-compatible with the 0.1. Duniter becomes the new "
+"reference implementation which fixes and enhanced its ancestor uCoin "
+"decisively."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:60
@@ -242,11 +309,15 @@ msgid ""
 "une monnaie en une autre facilement, librement et de manière totalement "
 "sécurisée."
 msgstr ""
+"This protocol will notably permit the [inter-money "
+"exchange](http://duniter.org/transactions-0-2-overview/) *without any "
+"trusted third-party*, a feature particularly interesting to convert a money "
+"in another easily, freely and in a totally secured way."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:62
 msgid "### Une interface graphique !"
-msgstr ""
+msgstr "### A graphical interface !"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:64
@@ -256,6 +327,9 @@ msgid ""
 "s'ouvre à un plus vaste panel d'utilisateurs que les seuls habitués de la "
 "console Linux."
 msgstr ""
+"Duniter will introduce a graphical interface to use the software, whose you "
+"can have a preview underneath ! *Finally*, the software is available to a "
+"wider range of users than the ones used to the Linux terminal."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:66
@@ -263,11 +337,13 @@ msgid ""
 "<center>![Duniter "
 "UI](https://framapic.org/7AzhRriA02v3/PX652JMfkflr)</center>"
 msgstr ""
+"<center>![Duniter "
+"UI](https://framapic.org/7AzhRriA02v3/PX652JMfkflr)</center>"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:68
 msgid "### Une nouvelle monnaie !"
-msgstr ""
+msgstr "### A new money !"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:70
@@ -276,6 +352,8 @@ msgid ""
 "but de permettre une utilisation en conditions réelles : il s'agira d'une "
 "monnaie **expérimentale** à l'instar du Bitcoin il y a 7 ans."
 msgstr ""
+"Soon, we will start a new money. This one will aim to being used a real "
+"conditions : it will be an **experimental** as was Bitcoin 7 years ago."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:72
@@ -286,11 +364,16 @@ msgid ""
 "XMPP](https://jappix.com/?r=duniter@muc.duniter.org) où vous pourrez obtenir "
 "les toutes dernières informations en date !"
 msgstr ""
+"The launch will be announced on the blog, forum, newsgroup, Diaspora*, "
+"Twitter, and others, follow-us to remain informed as early as possible ! And "
+"for the more impatient, you can also come on the [XMPP "
+"room](https://jappix.com/?r=duniter@muc.duniter.org) where you will be able "
+"to obtain all the latest information !"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:74
 msgid "### Migration de nos outils"
-msgstr ""
+msgstr "### Migration of our tools"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:81
@@ -306,6 +389,14 @@ msgid ""
 " * Hébergement de notre serveur XMPP, salon de discussion :  "
 "ucoin@muc.jappix.com –> duniter@muc.duniter.org\n"
 msgstr ""
+"As the project name changes, the web addresses of our tools change too : \n"
+" * Development repositories : https://github.com/ucoin-io –> "
+"https://github.com/duniter\n"
+" * Website : http://ucoin.io –>  http://duniter.org\n"
+" * Forum : https://forum.ucoin.io –> https://forum.duniter.org\n"
+" * Translation tool : http://weblate.ucoin.io –> http://weblate.duniter.org\n"
+" * Hosting of our XMPP server, chat room :  ucoin@muc.jappix.com –> "
+"duniter@muc.duniter.org\n"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:84
@@ -314,6 +405,9 @@ msgid ""
 "redirigés vers le même lien en http://duniter.org, de façon à conserver leur "
 "validité tout en basculant vers le nouveau nom."
 msgstr ""
+"Please note that any past link using http://ucoin.io will be automatically "
+"redirected to the same link with http://duniter.org, so that they remain "
+"valid while we switch to a new name."
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:86
@@ -323,6 +417,10 @@ msgid ""
 "en participant aux [7èmes rencontres des monnaies libres à Laval du 2 au 5 "
 "Juin prochain](http://www.ucoin.fr/rml/) !"
 msgstr ""
+"Do not hesitate to tell us what you think about this new name on the "
+"[forum](https://forum.duniter.org/t/ucoin-renames-to-duniter/810) or by "
+"participating to the [7th money meeting in Laval from the 2th to the 5th of "
+"June](http://www.ucoin.fr/rml/) !"
 
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:87
@@ -330,3 +428,4 @@ msgid ""
 "Vous pouvez maintenant faire savoir autour de vous que uCoin a changé de "
 "nom, et est devenu Duniter !"
 msgstr ""
+"Now, you can tell everyone that uCoin name has changed and is now Duniter !"
