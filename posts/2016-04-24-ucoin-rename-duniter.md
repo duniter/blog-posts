@@ -84,6 +84,6 @@ Le nom du projet changeant, les adresses web de nos outils changent également :
 
 A noter que tous les anciens liens en http://ucoin.io seront automatiquement redirigés vers le même lien en http://duniter.org, de façon à conserver leur validité tout en basculant vers le nouveau nom.
 
-N'hésitez pas à nous dire ce que vous pensez de ce nouveau nom sur le [forum](https://forum.duniter.org/t/ucoin-renames-to-duniter/810) ou encore en participant aux [7èmes rencontres des monnaies libres à Laval du 2 au 5 Mai prochain](http://www.ucoin.fr/rml/) !
+N'hésitez pas à nous dire ce que vous pensez de ce nouveau nom sur le [forum](https://forum.duniter.org/t/ucoin-renames-to-duniter/810) ou encore en participant aux [7èmes rencontres des monnaies libres à Laval du 2 au 5 Juin prochain](http://www.ucoin.fr/rml/) !
 
 Vous pouvez maintenant faire savoir autour de vous que uCoin a changé de nom, et est devenu Duniter !
