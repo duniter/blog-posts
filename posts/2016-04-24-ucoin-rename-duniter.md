@@ -62,13 +62,9 @@ Ce protocole permet notamment [l'échange inter-monnaies](http://duniter.org/tra
 
 ### Une interface graphique !
 
-Duniter introduira l'ajout d'une interface graphique pour l'utilisation du logiciel, dont vous pouvez voir un aperçu ci-dessous ! 
+Duniter introduira l'ajout d'une interface graphique pour l'utilisation du logiciel, dont vous pouvez voir un aperçu ci-dessous ! *Enfin*, le logiciel s'ouvre à un plus vaste panel d'utilisateurs que les seuls habitués de la console Linux.
 
 <center>![Duniter UI](https://framapic.org/7AzhRriA02v3/PX652JMfkflr)</center>
-
-*Enfin*, le logiciel s'ouvre à un plus vaste panel d'utilisateurs que les seuls habitués de la console Linux.
-
-![](lien vers l'image)
 
 ### Une nouvelle monnaie !
 
@@ -88,6 +84,6 @@ Le nom du projet changeant, les adresses web de nos outils changent également :
 
 A noter que tous les anciens liens en http://ucoin.io seront automatiquement redirigés vers le même lien en http://duniter.org, de façon à conserver leur validité tout en basculant vers le nouveau nom.
 
-N'hésitez pas à nous dire ce que vous pensez de ce nouveau nom sur le [forum]( URL du topic dédié ) ou encore en participant aux [7èmes rencontres des monnaies libres à Laval du 2 au 5 Mai prochain](http://www.ucoin.fr/rml/) !
+N'hésitez pas à nous dire ce que vous pensez de ce nouveau nom sur le [forum](https://forum.duniter.org/t/ucoin-renames-to-duniter/810) ou encore en participant aux [7èmes rencontres des monnaies libres à Laval du 2 au 5 Mai prochain](http://www.ucoin.fr/rml/) !
 
 Vous pouvez maintenant faire savoir autour de vous que uCoin a changé de nom, et est devenu Duniter !
