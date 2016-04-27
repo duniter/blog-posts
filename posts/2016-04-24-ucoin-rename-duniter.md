@@ -28,8 +28,6 @@ Ce concept est fondamental pour nous. En effet, nous prenons acte du fait que le
 
 Le renouvellement au sein du flux *à travers l'espérance de vie* permet de déduire le taux de croissance monétaire impliquant une symétrie monétaire spatiale et temporelle entre les individus.
 
-Ainsi de nouveaux grains de sables alimentent constamment la dune représentée dans le logo Duniter, tandis que d'autres sont emportés par le vent, faisant de celle-ci une entité changeante mais stable. Tout comme le flux des individus et de la monnaie.
-
 ### Concept de Relativité
 
 Un taux de croissance de 10 % fait grossir les nombres de 0,8 % par mois. Dans ce référentiel, il n'est pas aisé de comparer des valeurs sur des années d'écarts en comparant ces nombres. Mais dans notre logiciel, les individus émettent un dividende universel (abrégé « DU »). Celui-ci est stable et ne change pas : il vaut toujours 10 % de la masse monétaire. Ainsi, en comparant les nombres *relativement* au DU créé, nous pouvons comparer et mesurer avec un référentiel stable dans le temps.
@@ -48,7 +46,7 @@ Dividend Uniter, ou Duniter exprime ainsi mieux le concept d'outil de création 
 ## Logo Duniter
 
 Avec ce nouveau nom, plus évocateur, le logo a rapidement été trouvé. Il évoque les dunes de sables balayées par le vent.
-La dune est un flux invisible, une entité perpétuelle mais dont les grains de sable ne sont jamais les mêmes d'un instant à l'autre, tout comme la monnaie produite par Duniter.
+La dune est un flux invisible, une entité perpétuelle. De nouveaux grains de sables alimentent constamment la dune représentée dans le logo Duniter, tandis que d'autres sont emportés par le vent, faisant de celle-ci une entité changeante mais stable. Tout comme le flux des individus et de la monnaie.
 
 <center>![Duniter logo](https://raw.github.com/duniter/duniter/master/duniter-logos/250×250.png)</center>
 
