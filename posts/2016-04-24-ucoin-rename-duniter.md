@@ -1,4 +1,4 @@
-# uCoin change de nom et devient Duniter !
+# uCoin devient Duniter !
 
 À partir d'aujourd'hui, et à l'occasion de l'arrivée du protocole 0.2, le projet *uCoin* devient *Duniter*. uCoin fut un nom choisi au démarrage par son créateur cgeek, et avec le recul nous estimions qu'il ne représentait plus le logiciel que nous souhaitions développer.
 
