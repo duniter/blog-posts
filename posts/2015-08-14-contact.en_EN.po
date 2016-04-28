@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-06 12:36-0500\n"
-"PO-Revision-Date: 2016-02-11 18:55+0000\n"
-"Last-Translator: sb <s_b_@openmailbox.org>\n"
-"Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"PO-Revision-Date: 2016-04-26 16:05+0000\n"
+"Last-Translator: Christophe Parot <cannecy@free.fr>\n"
+"Language-Team: English <http://weblate.duniter.org/projects/ucoin-blog/blog-"
 "contact/en_EN/>\n"
 "Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.4-dev\n"
+"X-Generator: Weblate 2.6-dev\n"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:2
@@ -29,18 +29,18 @@ msgid ""
 "You have several ways to contact us. Below is a non-exhaustive list of how "
 "to contact us, for which purpose."
 msgstr ""
-"Vous avez plusieurs façons de nous contacter. Ci-dessous une liste non-"
-"exhaustive ded différentes méthodes."
+"You have several ways to contact us. Below is a non-exhaustive list of how "
+"to contact us, for which purpose."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:6
 msgid "## General contact"
-msgstr "Contact général"
+msgstr "## General contact"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:8
 msgid "### The forum"
-msgstr "### Le forum"
+msgstr "### The forum"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:10
@@ -49,9 +49,9 @@ msgid ""
 "[forum.ucoin.io](http://forum.ucoin.io), subscribe and you will be able to "
 "create a subject or answer to an existing one."
 msgstr ""
-"C'est la façon la plus simple de se mettre en contact avec nous. Allez à "
-"[forum.ucoin.io] (http: // forum.ucoin.io), inscrivez-vous et vous serez en "
-"mesure de créer un sujet ou répondre à un existant."
+"This is the most common way to get in touch with us. Go to "
+"[forum.duniter.org](http://forum.duniter.org), subscribe and you will be "
+"able to create a subject or answer to an existing one."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:12
@@ -59,9 +59,8 @@ msgid ""
 "We prefer this platform for questions since topics are indexed by Search "
 "Engines like Google and are made easy to access future newcomers."
 msgstr ""
-"Nous préférons cette plateforme pour les questions étant donné qu'elle est "
-"indexée par des moteurs de recherche comme Google, facilitant l'accès pour "
-"de futurs nouveaux venus."
+"We prefer this platform for questions since topics are indexed by Search "
+"Engines like Google and are made easy to access future newcomers.."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:14
@@ -71,7 +70,7 @@ msgstr "![](/content/images/2015/08/forum.png)"
 #. type: Plain text
 #: posts/2015-08-14-contact.md:16
 msgid "### The Chat"
-msgstr "### Le Chat"
+msgstr "### The Chat"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:18
@@ -81,11 +80,10 @@ msgid ""
 "[Pidgin](https://pidgin.im/) or [Psi+](http://psi-plus.com/), or you can use "
 "or widget at the bottom of the page:"
 msgstr ""
-"Nous utilisons les salons XMPP Jappix "
-"[ucoin@muc.jappix.com](ucoin@muc.jappix.com) pour tchatter. Vous pouvez vous "
-"connecter en utilisant votre client XMPP favori comme "
-"[Pidgin](https://pidgin.im) ou [Psi+](http://psi-plus.com), ou vous pouvez "
-"utiliser le widget qui se trouve en bas de page :"
+"We use Jappix XMPP chatroom [duniter@muc.jappix.com](duniter@muc.jappix.com) "
+"for chatting. You can connect using your favorite XMPP client like "
+"[Pidgin](https://pidgin.im/) or [Psi+](http://psi-plus.com/), or you can use "
+"or widget at the bottom of the page:"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:20
@@ -100,15 +98,15 @@ msgid ""
 "client like Pidgin or Psi+, or to connect through "
 "[Jappix](https://jappix.com/?l=fr) website."
 msgstr ""
-"Ce composant, Jappix Mini, est très facile à utiliser pour un tchat rapide. "
-"Mais pour un plus grand confort, nous vous conseillons vraiment d'installer "
-"un client comme Pidgin ou Psi+, ou encore de vous connecter via le site "
-"[Jappix](https://jappix.com/?l=fr)."
+"This widget, Jappix Mini, is very easy to use for a quick chat. But for a "
+"more comfortable chat session, we definitely advice you either to install a "
+"client like Pidgin or Psi+, or to connect through "
+"[Jappix](https://jappix.com/?l=fr) website."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:24
 msgid "### The Mailing list"
-msgstr "La liste de diffusion"
+msgstr "### The Mailing list"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:26
@@ -116,8 +114,8 @@ msgid ""
 "We also have a mailing list at "
 "https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 msgstr ""
-"Nous avons également une liste de diffusion à l'adresse "
-"https://groups.google.com/forum/?hl=fr#!forum/ucoin"
+"We also have a mailing list at "
+"https://groups.google.com/forum/?hl=fr#!forum/duniter"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:28
@@ -125,19 +123,18 @@ msgid ""
 "This list was our place to discuss at the beginning and has been replaced by "
 "the forum since. Yet, it will be used for major anouncement thereafter."
 msgstr ""
-"Cette liste était notre lieu initial pour discuter et qui a été remplacée "
-"par le forum depuis. Toutefois, cette liste sera utilisée pour les "
-"événements majeurs."
+"This list was our place to discuss at the beginning and has been replaced by "
+"the forum since. Yet, it will be used for major anouncement thereafter."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:30
 msgid "You can use the mailing list, but please prefer the forum."
-msgstr "Vous pouvez utiliser la liste de diffusion, mais préférez le forum."
+msgstr "You can use the mailing list, but please prefer the forum."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:32
 msgid "## Project specific"
-msgstr "Pour chaque projet"
+msgstr "## Project specific"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:34
@@ -145,18 +142,18 @@ msgid ""
 "You may want to contact contributors of a specific project. Here is, for "
 "each project, how to contact them."
 msgstr ""
-"Vous pourriez vouloir contacter les contributeurs d'un projet en "
-"particulier. Voici, pour chaque projet, comment les contacter."
+"You may want to contact contributors of a specific project. Here is, for "
+"each project, how to contact them."
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:36
 msgid "### uCoin"
-msgstr "### uCoin"
+msgstr "### Duniter"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:38
 msgid "To contact uCoin contributors, you can:"
-msgstr "Pour contacter les contributeurs de uCoin, vous pouvez :"
+msgstr "To contact Duniter contributors, you can:"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42
@@ -164,33 +161,33 @@ msgid ""
 "add issues on GitHub: https://github.com/ucoin-io/ucoin, we will answer you "
 "directly on your ticket"
 msgstr ""
-"ajouter des tickets sur GitHub : https://github.com/ucoin-io/ucoin, nous "
-"répondrons directement sur votre ticket"
+"add issues on GitHub: https://github.com/duniter/duniter, we will answer you "
+"directly on your ticket"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42
 msgid "send an e-mail to [admin@ucoin.io](admin@ucoin.io) (me – cgeek)"
-msgstr "envoyer un e-mail à admin@ucoin.io (moi – cgeek)"
+msgstr "send an e-mail to [admin@duniter.org](admin@duniter.org) (me – cgeek)"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:42 posts/2015-08-14-contact.md:50 posts/2015-08-14-contact.md:57
 msgid "leave a message on the chat"
-msgstr "laisser un message sur le tchat"
+msgstr "leave a message on the chat"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:44
 msgid "### CuteCoin"
-msgstr "### CuteCoin"
+msgstr "### Sakia"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:46
 msgid "To contact CuteCoin contributors, you can:"
-msgstr "Pour contacter les contributeurs de CuteCoin, vous pouvez :"
+msgstr "To contact Sakia contributors, you can:"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:50
 msgid "add issues on GitHub: https://github.com/ucoin-io/cutecoin"
-msgstr "ajouter des tickets sur GitHub: https://github.com/ucoin-io/cutecoin"
+msgstr "add issues on GitHub: https://github.com/duniter/sakia"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:50
@@ -198,55 +195,52 @@ msgid ""
 "add a subject with the category *Cutecoin* on [the "
 "Forum](http://forum.ucoin.io)"
 msgstr ""
-"ajouter un sujet avec la categorie Cutecoin sur le "
-"[forum](http://forum.ucoin.io)"
+"add a subject with the category \"Sakia\" on the "
+"[forum](http://forum.duniter.org)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:52
 msgid "### ucoinApps (Android)"
-msgstr "### ucoinApps (Android)"
+msgstr "### DuniterApps (Android)"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:54
 msgid "To contact ucoinApps contributors, you can:"
-msgstr "Pour contacter les contributeurs de uCoinApps, vous pouvez :"
+msgstr "To contact DuniterApps contributors, you can:"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:57
 msgid "add issues on GitHub: https://github.com/ucoin-io/ucoin-android-app"
-msgstr ""
-"ajouter un ticket sur GitHub: https://github.com/ucoin-io/ucoin-android-app"
+msgstr "add issues on GitHub: https://github.com/duniter/ucoin-android-app"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:59
 msgid "## Relative Theory of Money"
-msgstr "Théorie Relative de la Monnaie"
+msgstr "## Relative Theory of Money"
 
 #. type: Plain text
 #: posts/2015-08-14-contact.md:61
 msgid "RMT author may answer you on:"
-msgstr "L'auteur de la TRM peut vous répondre sur :"
+msgstr "RMT author may answer you on:"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "his blog http://creationmonetaire.info"
-msgstr "son blog http://creationmonetaire.info"
+msgstr "his blog http://creationmonetaire.info"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "uCoin forum (http://forum.ucoin.io)"
-msgstr "le forum uCoin (http://forum.ucoin.io)"
+msgstr "Duniter [forum](http://forum.duniter.org)"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "uCoin mailing list https://groups.google.com/forum/?hl=fr#!forum/ucoin"
 msgstr ""
-"la liste de diffusion de uCoin "
-"https://groups.google.com/forum/?hl=fr#!forum/ucoin"
+"Duniter mailing lis https://groups.google.com/forum/?hl=fr#!forum/duniter"
 
 #. type: Bullet: '* '
 #: posts/2015-08-14-contact.md:65
 msgid "OpenUDC mailing list https://groups.google.com/forum/?hl=fr#!forum/openudc"
 msgstr ""
-"la liste de diffusion d'OpenUDC "
-"https://groups.google.com/forum/?hl=fr#!forum/openudc"
+"OpenUDC mailing list https://groups.google.com/forum/?hl=fr#!forum/openudc"
