@@ -3,3 +3,4 @@
 2015-12-14-rml6-les-videos.md
 2016-03-22-bye-metabrouzouf.md
 2016-04-04-transactions-0-2-overview.md
+2016-04-24-ucoin-rename-duniter.md
