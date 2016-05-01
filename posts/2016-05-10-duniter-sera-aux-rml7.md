@@ -1,22 +1,22 @@
 # Duniter aux 7èmes Rencontres des Monnaies Libres !
-Nous serons présent pour faire découvrir Duniter aux 7èmes rencontres des monnaies libres.
+Nous serons présents pour faire découvrir Duniter aux 7èmes rencontres des monnaies libres.
 Rejoignez-nous ! Il suffit de remplir quelques informations du [formulaire d'inscription](https://docs.google.com/forms/d/1CekoZ4EpgU56vWU3IpYCUb3z28kHHjrtdLld7hjdPb8/viewform?c=0&w=1) pour nous faire part de votre présence ! 
 
-Le programme détaillé est disponible sur le site de [ucoin.fr](http://www.ucoin.fr/rml-programme/). Voici le résumé des activités prévues.
+Le programme détaillé est disponible sur le site de [duniter.fr](http://www.duniter.fr/rml-programme/). Voici le résumé des activités prévues.
 
 ## Résumé du programme 
 ### Jeudi 2 et vendredi 3 juin
 
-**Conférences et ateliers techniques** - Cette partie est réservée au informaticiens ou contributeurs des monnaies libres ;
+**Conférences et ateliers techniques** - Cette partie est réservée aux informaticiens ou contributeurs des monnaies libres.
 Après une courte introduction sur le logiciel Duniter et ses clients, nous présenterons l'environnement de développement. 
-Nous organiserons ensuite de petits ateliers de développement autour de Duniter.
-L'objectif est de permettre à plus de monde de contribuer à Duniter et ainsi d'améliorer le logiciel !
+Nous organiserons ensuite de petits ateliers d'utilisation et de modification des logiciels.
+L'objectif étant de permettre à plus de monde d'y contribuer afin de les améliorer sans attendre !
 
 <center>![rml6](https://framapic.org/EAISgysfYsfl/pwLrN7QrboJx)</center>
 
 ### Samedi 4 juin et dimanche 5 juin
  - Expérimenter les monnaies libres (et non libres) :
-   - **Jeu libre [Ğeconomicus](http://vtexier.github.io/Geconomicus/)** : jeu grandeur nature de simulation économique et monétaire sur une durée de vie humaine (80 ans) simulant naissances vies et morts de joueurs d’âges distincts (de 0 à 80 ans). Des vidéos résumant les jeux précédents sont disponibles sur [youtube](https://www.youtube.com/watch?v=R4SIO2VuC2A&list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK).
+   - **Jeu libre [Ğeconomicus](http://vtexier.github.io/Geconomicus/)** : jeu grandeur nature de simulation économique et monétaire sur une durée de vie humaine (80 ans) simulant naissances, vies et morts de joueurs d’âges distincts (de 0 à 80 ans). Des vidéos résumant les jeux précédents sont disponibles sur [youtube](https://www.youtube.com/watch?v=R4SIO2VuC2A&list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK).
 
  - **Atelier d'économie** :
   - Travaux économique (sur PC) pour approfondir la compréhension de la TRM sur des cas concrets
@@ -27,7 +27,7 @@ L'objectif est de permettre à plus de monde de contribuer à Duniter et ainsi d
 <center>![geconomicus](http://www.ucoin.fr/wp-content/uploads/2016/03/photos_jeu_geconomicus-v1.1-300x181.png)</center>
  
  - **Vulgarisation et présentations** diverses autour de la notion de monnaie libre.
- - Présentation générale des logiciels uCoin, Sakia et uCoin App;
+ - Présentation générale des logiciels Duniter, Sakia, Cesium et uCoin App;
  - Travaux pratiques
  
 ## Envie de contribuer ?
