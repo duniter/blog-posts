@@ -14,22 +14,40 @@ L'objectif étant de permettre à plus de monde d'y contribuer afin de les amél
 
 <center>![rml6](https://framapic.org/EAISgysfYsfl/pwLrN7QrboJx)</center>
 
-### Samedi 4 juin et dimanche 5 juin
+### Samedi 4 juin
  - Expérimenter les monnaies libres (et non libres) :
    - **Jeu libre [Ğeconomicus](http://vtexier.github.io/Geconomicus/)** : jeu grandeur nature de simulation économique et monétaire sur une durée de vie humaine (80 ans) simulant naissances, vies et morts de joueurs d’âges distincts (de 0 à 80 ans). Des vidéos résumant les jeux précédents sont disponibles sur [youtube](https://www.youtube.com/watch?v=R4SIO2VuC2A&list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK).
 
  - **Atelier d'économie** :
-  - Travaux économique (sur PC) pour approfondir la compréhension de la TRM sur des cas concrets
+  - Travaux sur PC pour approfondir la compréhension de la TRM sur des cas concrets :
+    - Module Galilée : pour les nouveaux ayant déjà joué à Ğeconomicus
+    - Module Yoland Bresson : pour ceux ayant déjà réalisé le module Galilée
+    Animé par Stéphane Laborde;
+    Si possible, venir avec un ordinateur portable muni d'un tableur.
+
   - Animé par Stéphane Laborde;
   - Niveau requis : avoir déjà joué au jeu Ğeconomicus;
   - Si possible, venir avec un ordinateur portable muni d'un tableur.
 
 <center>![geconomicus](http://www.ucoin.fr/wp-content/uploads/2016/03/photos_jeu_geconomicus-v1.1-300x181.png)</center>
- 
- - **Vulgarisation et présentations** diverses autour de la notion de monnaie libre.
- - Présentation générale des logiciels Duniter, Sakia, Cesium et uCoin App;
- - Travaux pratiques
- 
+
+**Conférence de vulgarisation et de présentation de la notion de monnaie libre, à 17h**</br>
+"La monnaie libre dans l’histoire des monnaies"</br>
+par Matthieu Bize, Carole Fabre et Pierre-Jean Chancellier.
+
+**Soirée Débat & Concert au bar Le Rond Point**</br>
+2 rue du Val de Mayenne - Laval</br>
+Posez vos questions sur les monnaies libres, autour d'un verre !
+
+### Dimanche 5 Juin
+
+**Prenez en main les monnaies libres !**</br>
+Démonstration et travaux pratiques sur les logiciels de monnaie libre :  logiciel de bureau, applications web, sur téléphone...
+
+**Conférence de vulgarisation et de présentation de la notion de monnaie libre à 14h**</br>
+"Une monnaie libre ? Pourquoi, comment ?"</br>
+par Vincent Texier
+
 ## Envie de contribuer ?
 Proposition de conférence, d'atelier, d'animations ludiques, etc. >> **envoyez-nous vos propositions** à : [contact@le-sou.org](mailto:contact@le-sou.org)
     
