@@ -118,9 +118,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="370.47197"
-     inkscape:cy="694.3466"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="404.84132"
+     inkscape:cy="879.76203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -342,7 +342,7 @@
          sodipodi:role="line"
          x="30.304579"
          y="744.57526"
-         id="tspan11014">24 hhours later,</tspan><tspan
+         id="tspan11014">48 hours later,</tspan><tspan
          sodipodi:role="line"
          x="30.304579"
          y="763.32526"
@@ -552,7 +552,7 @@
          sodipodi:role="line"
          x="70.502235"
          y="80.732529"
-         id="tspan9420"> - It can not be written in the blockchain before 24 hours</tspan><tspan
+         id="tspan9420"> - It can not be written in the blockchain before 48 hours</tspan><tspan
          sodipodi:role="line"
          x="70.502235"
          y="99.482529"
@@ -560,7 +560,7 @@
          sodipodi:role="line"
          x="70.502235"
          y="118.23253"
-         id="tspan9486">Alice produces the same document, but with Mark's signature.</tspan></text>
+         id="tspan9486">Alice produces the same document, but with Mark's signature, and locked for 24 hours.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7351"
@@ -572,33 +572,6 @@
            x="-140"
            y="9.5050592" /></flowRegion><flowPara
          id="flowPara7357" /></flowRoot>    <g
-       transform="translate(238.49965,453.45985)"
-       id="g6570-2-4"
-       style="fill:#441650">
-      <g
-         id="g6572-5-7"
-         style="fill:#441650">
-        <g
-           id="g6574-6-3"
-           style="fill:#441650">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 31.068,16.711 3.438,-2.204 -3.438,-2.204 2.337,-3.35 -4.021,-0.715 0.874,-3.99 -3.99,0.876 L 25.553,1.102 22.203,3.439 20,-0.001 17.796,3.438 14.446,1.1 13.731,5.122 9.741,4.247 l 0.874,3.99 -4.02,0.717 2.337,3.35 -3.438,2.204 3.438,2.204 -2.338,3.35 4.022,0.715 -0.874,3.99 3.872,-0.849 L 8.927,37.45 14.368,33.434 16.29,40 20,29.284 23.71,40 l 1.921,-6.565 5.441,4.016 -4.686,-13.533 3.872,0.85 -0.876,-3.991 4.023,-0.715 -2.337,-3.351 z M 20,22.941 c -4.65,0 -8.434,-3.784 -8.434,-8.434 0,-4.651 3.784,-8.434 8.434,-8.434 4.65,0 8.434,3.784 8.434,8.434 0,4.651 -3.784,8.434 -8.434,8.434 z"
-             id="path6576-6-3"
-             style="fill:#441650" />
-        </g>
-      </g>
-      <g
-         id="g6578-3-2"
-         style="fill:#441650">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 20,7.391 c -3.924,0 -7.117,3.192 -7.117,7.116 0,3.924 3.193,7.116 7.117,7.116 3.924,0 7.117,-3.192 7.117,-7.116 0,-3.924 -3.193,-7.116 -7.117,-7.116 z"
-           id="path6580-8-3"
-           style="fill:#441650" />
-      </g>
-    </g>
-    <g
        transform="translate(209.92822,454.60271)"
        id="g6570-5-0"
        style="fill:#005544">
@@ -768,33 +741,6 @@
          style="fill:#aa4400" />
     </g>
     <g
-       transform="matrix(0.47597315,0,0,0.47597315,232.12663,714.00338)"
-       id="g6570-2-9"
-       style="fill:#441650">
-      <g
-         id="g6572-5-6"
-         style="fill:#441650">
-        <g
-           id="g6574-6-7"
-           style="fill:#441650">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 31.068,16.711 3.438,-2.204 -3.438,-2.204 2.337,-3.35 -4.021,-0.715 0.874,-3.99 -3.99,0.876 L 25.553,1.102 22.203,3.439 20,-0.001 17.796,3.438 14.446,1.1 13.731,5.122 9.741,4.247 l 0.874,3.99 -4.02,0.717 2.337,3.35 -3.438,2.204 3.438,2.204 -2.338,3.35 4.022,0.715 -0.874,3.99 3.872,-0.849 L 8.927,37.45 14.368,33.434 16.29,40 20,29.284 23.71,40 l 1.921,-6.565 5.441,4.016 -4.686,-13.533 3.872,0.85 -0.876,-3.991 4.023,-0.715 -2.337,-3.351 z M 20,22.941 c -4.65,0 -8.434,-3.784 -8.434,-8.434 0,-4.651 3.784,-8.434 8.434,-8.434 4.65,0 8.434,3.784 8.434,8.434 0,4.651 -3.784,8.434 -8.434,8.434 z"
-             id="path6576-6-9"
-             style="fill:#441650" />
-        </g>
-      </g>
-      <g
-         id="g6578-3-6"
-         style="fill:#441650">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 20,7.391 c -3.924,0 -7.117,3.192 -7.117,7.116 0,3.924 3.193,7.116 7.117,7.116 3.924,0 7.117,-3.192 7.117,-7.116 0,-3.924 -3.193,-7.116 -7.117,-7.116 z"
-           id="path6580-8-4"
-           style="fill:#441650" />
-      </g>
-    </g>
-    <g
        transform="matrix(0.47597315,0,0,0.47597315,217.84743,714.54735)"
        id="g6570-5-1"
        style="fill:#005544">
@@ -905,7 +851,7 @@
          sodipodi:role="line"
          x="380.80844"
          y="567.68634"
-         id="tspan9506">only be used 24 hours after the transaction.</tspan></text>
+         id="tspan9506">only be used 48 hours after the transaction.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10986"
