@@ -3,18 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-05-10 19:48+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-05-11 04:24+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: French <https://weblate.duniter.org/projects/ucoin-blog/blog-"
+"duniter-sera-aux-rml7/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:4
@@ -25,6 +27,11 @@ msgid ""
 "d'inscription](https://docs.google.com/forms/d/1CekoZ4EpgU56vWU3IpYCUb3z28kHHjrtdLld7hjdPb8/viewform?c=0&w=1) "
 "pour nous faire part de votre présence !"
 msgstr ""
+"# Duniter aux 7èmes Rencontres des Monnaies Libres ! Nous serons présents "
+"pour faire découvrir Duniter aux 7èmes rencontres des monnaies libres.  "
+"Rejoignez-nous ! Il suffit de remplir quelques informations du [formulaire d'"
+"inscription](https://docs.google.com/forms/d/1CekoZ4EpgU56vWU3IpYCUb3z28kHHjr"
+"tdLld7hjdPb8/viewform?c=0&w=1) pour nous faire part de votre présence !"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:6
@@ -33,11 +40,14 @@ msgid ""
 "[duniter.fr](http://www.duniter.fr/rml-programme/). Voici le résumé des "
 "activités prévues."
 msgstr ""
+"Le programme détaillé est disponible sur le site de "
+"[duniter.fr](http://www.duniter.fr/rml-programme/). Voici le résumé des "
+"activités prévues."
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:9
 msgid "## Résumé du programme ### Jeudi 2 et vendredi 3 juin"
-msgstr ""
+msgstr "## Résumé du programme ### Jeudi 2 et vendredi 3 juin"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:14
@@ -52,11 +62,20 @@ msgid ""
 "L'objectif étant de permettre à plus de monde d'y contribuer afin de les "
 "améliorer sans attendre !\n"
 msgstr ""
+"**Conférences et ateliers techniques** - Cette partie est réservée aux "
+"informaticiens ou contributeurs des monnaies libres.\n"
+"Après une courte introduction sur le logiciel Duniter et ses clients, nous "
+"présenterons l'environnement de développement. \n"
+"Nous organiserons ensuite de petits ateliers d'utilisation et de "
+"modification des logiciels.\n"
+"L'objectif étant de permettre à plus de monde d'y contribuer afin de les "
+"améliorer sans attendre !\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:16
 msgid "<center>![rml6](https://framapic.org/EAISgysfYsfl/pwLrN7QrboJx)</center>"
 msgstr ""
+"<center>![rml6](https://framapic.org/EAISgysfYsfl/pwLrN7QrboJx)</center>"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:20
@@ -71,6 +90,14 @@ msgid ""
 "disponibles sur "
 "[youtube](https://www.youtube.com/watch?v=R4SIO2VuC2A&list=PL0UDqLtXevvHY5rAyFtql5931VqYyRaoK).\n"
 msgstr ""
+"### Samedi 4 juin\n"
+" - Expérimenter les monnaies libres (et non libres) :\n"
+"   - **Jeu libre [Ğeconomicus](http://vtexier.github.io/Geconomicus/)** : "
+"jeu grandeur nature de simulation économique et monétaire sur une durée de "
+"vie humaine (80 ans) simulant naissances, vies et morts de joueurs d’âges "
+"distincts (de 0 à 80 ans). Des vidéos résumant les jeux précédents sont "
+"disponibles sur [youtube](https://www.youtube.com/watch?v=R4SIO2VuC2A&list=PL"
+"0UDqLtXevvHY5rAyFtql5931VqYyRaoK).\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:27
@@ -85,26 +112,36 @@ msgid ""
 "    Animé par Stéphane Laborde;\n"
 "    Si possible, venir avec un ordinateur portable muni d'un tableur.\n"
 msgstr ""
+" - **Atelier d'économie** :\n"
+"  - Travaux sur PC pour approfondir la compréhension de la TRM sur des cas "
+"concrets :\n"
+"    - Module Galilée : pour les nouveaux ayant déjà joué à Ğeconomicus\n"
+"    - Module Yoland Bresson : pour ceux ayant déjà réalisé le module "
+"Galilée\n"
+"    Animé par Stéphane Laborde;\n"
+"    Si possible, venir avec un ordinateur portable muni d'un tableur.\n"
 
 #. type: Bullet: '  - '
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:31
 msgid "Animé par Stéphane Laborde;"
-msgstr ""
+msgstr "Animé par Stéphane Laborde;"
 
 #. type: Bullet: '  - '
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:31
 msgid "Niveau requis : avoir déjà joué au jeu Ğeconomicus;"
-msgstr ""
+msgstr "Niveau requis : avoir déjà joué au jeu Ğeconomicus;"
 
 #. type: Bullet: '  - '
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:31
 msgid "Si possible, venir avec un ordinateur portable muni d'un tableur."
-msgstr ""
+msgstr "Si possible, venir avec un ordinateur portable muni d'un tableur."
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:33
 msgid "<center>![geconomicus](http://www.ucoin.fr/wp-content/uploads/2016/03/photos_jeu_geconomicus-v1.1-300x181.png)</center>"
 msgstr ""
+"<center>![geconomicus](http://www.ucoin.fr/wp-"
+"content/uploads/2016/03/photos_jeu_geconomicus-v1.1-300x181.png)</center>"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:37
@@ -115,6 +152,10 @@ msgid ""
 "\"La monnaie libre dans l’histoire des monnaies\"</br>\n"
 "par Matthieu Bize, Carole Fabre et Pierre-Jean Chancellier.\n"
 msgstr ""
+"**Conférence de vulgarisation et de présentation de la notion de monnaie "
+"libre, à 17h**</br>\n"
+"\"La monnaie libre dans l’histoire des monnaies\"</br>\n"
+"par Matthieu Bize, Carole Fabre et Pierre-Jean Chancellier.\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:41
@@ -124,11 +165,14 @@ msgid ""
 "2 rue du Val de Mayenne - Laval</br>\n"
 "Posez vos questions sur les monnaies libres, autour d'un verre !\n"
 msgstr ""
+"**Soirée Débat & Concert au bar Le Rond Point**</br>\n"
+"2 rue du Val de Mayenne - Laval</br>\n"
+"Posez vos questions sur les monnaies libres, autour d'un verre !\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:43
 msgid "### Dimanche 5 Juin"
-msgstr ""
+msgstr "### Dimanche 5 Juin"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:46
@@ -138,6 +182,9 @@ msgid ""
 "Démonstration et travaux pratiques sur les logiciels de monnaie libre :  "
 "logiciel de bureau, applications web, sur téléphone...\n"
 msgstr ""
+"**Prenez en main les monnaies libres !**</br>\n"
+"Démonstration et travaux pratiques sur les logiciels de monnaie libre :  "
+"logiciel de bureau, applications web, sur téléphone...\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:50
@@ -148,6 +195,10 @@ msgid ""
 "\"Une monnaie libre ? Pourquoi, comment ?\"</br>\n"
 "par Vincent Texier\n"
 msgstr ""
+"**Conférence de vulgarisation et de présentation de la notion de monnaie "
+"libre à 14h**</br>\n"
+"\"Une monnaie libre ? Pourquoi, comment ?\"</br>\n"
+"par Vincent Texier\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:53
@@ -156,6 +207,9 @@ msgid ""
 "ludiques, etc. >> **envoyez-nous vos propositions** à : "
 "[contact@le-sou.org](mailto:contact@le-sou.org)"
 msgstr ""
+"## Envie de contribuer ? Proposition de conférence, d'atelier, d'animations "
+"ludiques, etc. >> **envoyez-nous vos propositions** à : [contact@le-"
+"sou.org](mailto:contact@le-sou.org)"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:56
@@ -163,6 +217,8 @@ msgid ""
 "## Plan d'accès <center>![plan "
 "d'acces](http://www.ucoin.fr/wp-content/uploads/2016/01/plan_technopole_laval.jpg)</center>"
 msgstr ""
+"## Plan d'accès <center>![plan d'acces](http://www.ucoin.fr/wp-"
+"content/uploads/2016/01/plan_technopole_laval.jpg)</center>"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:68
@@ -187,11 +243,31 @@ msgid ""
 "43 68 30 70\n"
 "  * Camping de Coupeau, rue Jean Cottereau, 53940 Saint-Berthevin\n"
 msgstr ""
+"## Hébergement\n"
+"L'hébergement n'est pas pris en charge;\n"
+"Liste des hôtels a proximité:\n"
+"  * Première classe : Jeudi: 48€  Vendredi/Samedi : 39€         - 02 43 98 "
+"27 74 / Boulevard Bertrand du Guesclin, 53000 Laval\n"
+"  * B&B : Jeudi : 45€ Vendredi/Samedi : 40€                        - 08 92 "
+"78 80 49 / Rue Louis de Broglie, 53810 Changé\n"
+"  * Ibis Budget : Jeudi : 44€  Vendredi/Samedi : 37.40€        - 08 92 70 20 "
+"38 / 2 Rue Bernard Palissy, 53960 Bonchamp-lès-Laval\n"
+"  * Fasthotel : Jeudi:43.90€  Vendredi/Samedi : 32.90€         - 02 43 68 30 "
+"30 / Rue du Dr Paul Mer, 53000 Laval\n"
+"  * Bas du Gast (Auberge/hôtel) : 30€                                   - 02 "
+"43 49 22 79 / 6 Rue de la Halle aux Toiles, 53000 Laval\n"
+"  * F1 :27€"
+"                                                                             "
+"- 08 91 70 52 66 / Boulevard de Buffon, ZI des Touches, 53810 Changé\n"
+"  * Camping municipal pour tente et caravane : entre 2,50€ et 8€ la nuit  02 "
+"43 68 30 70\n"
+"  * Camping de Coupeau, rue Jean Cottereau, 53940 Saint-Berthevin\n"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:70
 msgid "Pour toute demande contactez les organisateurs : contact (at) le-sou.org"
 msgstr ""
+"Pour toute demande contactez les organisateurs : contact (at) le-sou.org"
 
 #. type: Plain text
 #: posts/2016-05-10-duniter-sera-aux-rml7.md:77
@@ -204,3 +280,9 @@ msgid ""
 " * Adresse :  **22 résidence de la Filousière, 53100 Mayenne, FRANCE**\n"
 "  Tel : (+33) 6 62 86 37 82 - www.le-sou.org\n"
 msgstr ""
+"## Contact\n"
+"Les RML7 sont organisées par :\n"
+"L'association Le Sou et ses partenaires\n"
+" * Email : **contact (at) le-sou.org**\n"
+" * Adresse :  **22 résidence de la Filousière, 53100 Mayenne, FRANCE**\n"
+"  Tel : (+33) 6 62 86 37 82 - www.le-sou.org\n"
