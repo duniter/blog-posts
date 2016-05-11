@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-04-11 22:13+0200\n"
-"PO-Revision-Date: 2016-04-13 10:58+0000\n"
-"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
-"Language-Team: English <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"PO-Revision-Date: 2016-05-10 17:43+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: English <https://weblate.duniter.org/projects/ucoin-blog/blog-"
 "protocol-0-2-overview/en_EN/>\n"
 "Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.6-dev\n"
+"X-Generator: Weblate 2.6\n"
 
 #. type: Plain text
 #: posts/2016-04-04-transactions-0-2-overview.md:2
@@ -322,7 +322,7 @@ msgid ""
 "refund](https://framapic.org/nqX9AvwshMgG/kSerUot4VFz7)</center>"
 msgstr ""
 "<center>![protocol 0.2 "
-"refund](https://framapic.org/lSyaBIjAWgOl/6DN8PiuMSegf)</center>"
+"refund](https://framapic.org/to5m3slfBWjb/3h2TUn0Wk1Ws)</center>"
 
 #. type: Plain text
 #: posts/2016-04-04-transactions-0-2-overview.md:61
