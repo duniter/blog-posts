@@ -5,9 +5,9 @@ Cette théorie implique que les unités monétaires sont co-produites par chacun
 Il est donc essentiel que les membres de la communauté soient bien identifiés et (re)connus.
 
 Dans un monde dépourvu de gens malhonnêtes, une simple déclaration d'identité pourrait suffire pour devenir membre (et donc co-produire des unités monétaires).
-Mais dans notre monde, s'agissant de monnaie, des comportements inadaptés sont susceptibles d’apparaître.
+Mais dans notre monde, s'agissant de monnaie, des cas de triches sont susceptibles d’apparaître.
 
-En effet, il est tentant de s'inscrire avec plusieurs identités et ainsi de produire un surplus d'unités monétaires à son avantage.
+En effet, il est tentant de s'inscrire avec plusieurs identités et ainsi produire un surplus d'unités monétaires à son avantage.
 Ceci est d'autant plus vrai qu'il s'agit d'identités numériques et qu'il est aisé d'en créer autant que l'on en souhaite.
 On appelle cela une *« attaque sybil »*.
 
@@ -21,18 +21,18 @@ Quelle organisation est nécessaire ?
 
 Il existe deux types d'organisations possibles : les organisations à tiers de confiance et les organisations auto-régulées.
 
-Pour illustrer l'organisation à tiers de confiance, prenons l'exemple du recensement de la population française.
-Ce sont les services de l'état qui « créent » les identités et les enregistrent dans les différents fichiers (aka. bases de données) de l'état. Les fonctionnaires agissent comme « tiers de confiance » au nom de l'état Français. Les moyens de contrôles utilisés peuvent être des justificatifs administratifs (déclaration de la maternité, justificatifs de domicile, …). Ces moyens sont loin d'être infaillibles puisqu'il est trivial de créer des faux documents (et ainsi obtenir de vrais-faux papiers). 
+Pour illustrer l'organisation à tiers de confiance, prenons l'exemple du recensement de la population.
+Ce sont les services de l'état qui « créent » les identités et les enregistrent dans les différents fichiers (aka. bases de données) de l'état. Les fonctionnaires agissent comme « tiers de confiance » au nom de l'état. Les moyens de contrôles utilisés peuvent être des justificatifs administratifs (déclaration de la maternité, justificatifs de domicile, …). Ces moyens sont loin d'être infaillibles puisqu'il est trivial de créer des faux documents (et ainsi obtenir de vrais-faux papiers). 
 Ce système s'appuie donc sur le système judiciaire pour dissuader les comportements frauduleux.
 
 Pour illustrer une organisation auto-régulée, nous pouvons utiliser l'exemple de la file d'attente.
-Les clients arrivent les uns après les autres et personne n'est vraiment ravi d'avoir à attendre son tour.
-Pourtant chacun respecte les règles, qu'il a intégré, qui régissent une file d'attente ; l'ordre de passage correspond à l'ordre d'arrivée.
+Les personnes arrivent les unes après les autres et, bien que personne ne soit vraiment ravi d'avoir à attendre son tour,
+ chacun respecte la règle, qui régit une file d'attente ; l'ordre de passage correspond à l'ordre d'arrivée.
 Étant donné que chacun sait qui est arrivé avant et qui est arrivé après, chacun est en mesure de contrôler qu'il n'y a pas de fraude.
 Enfreindre ces règles nous expose à une désapprobation sociale forte, et une exclusion de la file d'attente.
 
 
-## Une Toile de Confiance
+## La toile de confiance
 
 Duniter fait le choix d'un système auto-régulé par ses membres. 
 
@@ -42,7 +42,7 @@ Le système distingue deux types d'identités numériques : les *identités memb
 Seules les identités membres sont co-créatrices de monnaie.
 
 Chaque individu déjà membre est en capacité, à l'aide d'un document numérique signé, de certifier des identités (membres et non membres).
-Cela revient à délivrer des **certificats d'authenticité*.
+Cela revient à délivrer des **certificats d'authenticité**.
 
 Ces certificats, donnés les uns aux autres, forment un maillage appelé « **toile de confiance** ». 
 Cette toile de confiance est utilisé par Duniter pour déterminer qui est membre et qui ne l'est pas.
@@ -51,9 +51,9 @@ Cette toile de confiance est utilisé par Duniter pour déterminer qui est membr
 <center>![Toile de confiance globale de la monnaie de test Méta Brouzouf en juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)
 
 
-## Les règles de fonctionnement de la Toile de Confiance
+## Les règles de fonctionnement de la toile de confiance
 
-Les règles régissant la Toile de Confiance d'une monnaie Duniter est paramétrée lors de la création (l'initialisation) de cette monnaie, par ses fondateurs, et *ne peuvent pas être modifiés ultérieurement*.
+Les règles régissant la toile de confiance d'une monnaie Duniter est paramétrée lors de la création (l'initialisation) de cette monnaie, par ses fondateurs, et *ne peuvent pas être modifiés ultérieurement*.
 Il est donc important d'y porter une attention particulière.
 
 
@@ -87,23 +87,23 @@ La durée de vie d'une certification est configurée avec le paramètre *sigVali
 
 **Les protections anti-Sybil**
 
-Des règles complémentaires sont mises en place pour assurer la sécurité de la WoT contre un groupe d'attaquants.
+Des règles complémentaires sont mises en place pour assurer la sécurité de la toile de confiance contre un groupe d'attaquants.
 
  - Le nombre de pas
 
-Un groupe d'individus membres pourrait s'entendre pour créer des identités fictives et les certifier pour leur permettre de devenir membres à leur tour.
+Un groupe d'individus membres pourrait s'entendre pour créer des identités fictives et les certifier pour leur permettre de devenir membres à leurs tour.
 Plus encore, ils pourraient utiliser ces membres fictifs pour certifier de nouvelles identités fictives, créant ainsi un très grand nombre de membres illégitimes.
 
 <center>![Réseau Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)
 
 
-Pour prévenir cette attaque, Duniter s'assure que les membres soient suffisamment proches les uns des autres dans la Toile de confiance.
+Pour prévenir cette attaque, Duniter s'assure que les membres soient suffisamment proches les uns des autres dans la toile de confiance.
 Dans l'exemple ci-dessous, le membre C est à deux pas (deux sauts) de A.
 
 <center>![Nombre de pas à 2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)
 
 
-Lorsqu'un individu est susceptible de devenir membre (c'est à dire qu'il a obtenu suffisamment de certifications), Duniter déroule le protocole de vérification suivant :
+Lorsqu'un individu est susceptible de devenir membre (c'est-à-dire qu'il a obtenu suffisamment de certifications), Duniter déroule le protocole de vérification suivant :
     
  - Les membres ayant émis suffisamment de certifications sont utilisés comme « points de contrôle » (*sentries*).
 
@@ -123,13 +123,13 @@ Pour devenir membre, l'identité doit pouvoir joindre un certain pourcentage *xp
 
 **Limiter les pouvoirs**
 
-Afin de se protéger contre une création de membres sybils massive, les membres sont dotés d'un stock de signature.
+Afin de se protéger contre une création de membres sybils massive, les membres sont dotés d'un stock limite de signature.
 Ce stock se vide à mesure que le membre émet des certifications, et se remplit à mesure que ces certifications expirent.
 
 Le stock de certifications est configuré avec le paramètre *sigstock* (Max cert stock).
 
 De plus, afin d'enrayer une éventuelle attaque, Duniter ne permet pas qu'un membre puisse émettre plusieurs certifications simultanément.
-Duniter les traite les unes après les autres en observant un temps d'attente entre chaque traitement.
+Duniter les traite les unes après les autres en observant une pause entre chaque traitement.
 
 Ce période est configurée avec le paramètre *sigPeriod* (Delay between two certs).
 
@@ -137,8 +137,8 @@ Ce période est configurée avec le paramètre *sigPeriod* (Delay between two ce
 **L'expiration des certifications en cours de traitement**
 
 Une certification qui n'a pas été traitée dans un certain laps de temps est détruite.
-Cela se produit lorsque qu'un membre émet de nombreuses de signatures au meme moment.
-Duniter observant un temps d'attente entre chaque traitement, les certifications qui n'ont pas eu le temps d’être traitées sont détruites.
+Cela se produit lorsque qu'un membre émet de nombreuses signatures au même moment.
+Duniter observant une pause entre chaque traitement, les certifications qui n'ont pas eu le temps d’être traitées sont détruites.
 
 Ce laps de temps est configurable avec le paramètre *sigWindow* (Cert Time Window).
 
@@ -148,7 +148,7 @@ Comme vu précédemment, pour devenir membre un individu doit :
 
  - publier sa déclaration d'identité
  - collecter un nombre de certifications suffisantes
- - respecter la règles des pas
+ - respecter la règle des pas
 
 Ces trois étapes doivent être réalisées dans le laps de temps configuré par *idtyWindow*.
 
