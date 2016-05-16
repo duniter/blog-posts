@@ -5,3 +5,4 @@
 2016-04-04-transactions-0-2-overview.md
 2016-04-24-ucoin-rename-duniter.md
 2016-05-10-duniter-sera-aux-rml7.md
+2016-13-05-Introduction-a-la-toile-de-confiance.md
