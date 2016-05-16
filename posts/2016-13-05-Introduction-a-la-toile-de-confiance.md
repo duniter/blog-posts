@@ -48,7 +48,7 @@ Ces certificats, donnés les uns aux autres, forment un maillage appelé « **to
 Cette toile de confiance est utilisé par Duniter pour déterminer qui est membre et qui ne l'est pas.
 
 
-<center>![Toile de confiance globale de la monnaie de test Méta Brouzouf en juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)
+<center>![Toile de confiance globale de la monnaie de test Méta Brouzouf en juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>
 
 
 ## Les règles de fonctionnement de la toile de confiance
