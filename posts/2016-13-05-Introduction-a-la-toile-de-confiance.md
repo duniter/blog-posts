@@ -94,13 +94,13 @@ Des règles complémentaires sont mises en place pour assurer la sécurité de l
 Un groupe d'individus membres pourrait s'entendre pour créer des identités fictives et les certifier pour leur permettre de devenir membres à leurs tour.
 Plus encore, ils pourraient utiliser ces membres fictifs pour certifier de nouvelles identités fictives, créant ainsi un très grand nombre de membres illégitimes.
 
-<center>![Réseau Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)
+<center>![Réseau Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</center>
 
 
 Pour prévenir cette attaque, Duniter s'assure que les membres soient suffisamment proches les uns des autres dans la toile de confiance.
 Dans l'exemple ci-dessous, le membre C est à deux pas (deux sauts) de A.
 
-<center>![Nombre de pas à 2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)
+<center>![Nombre de pas à 2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)</center>
 
 
 Lorsqu'un individu est susceptible de devenir membre (c'est-à-dire qu'il a obtenu suffisamment de certifications), Duniter déroule le protocole de vérification suivant :
