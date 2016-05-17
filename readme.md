@@ -1,4 +1,4 @@
-# uCoin blog's posts
+# Duniter blog's posts
 
 This repository contains all blog's posts, either it was written in french, english or another language.
 
