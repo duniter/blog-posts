@@ -3,23 +3,25 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2016-05-18 21:32+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2016-05-18 20:49+0000\n"
+"Last-Translator: Inso <insomniak.fr@gmail.com>\n"
+"Language-Team: English <https://weblate.duniter.org/projects/ucoin-blog/blog-"
+"introduction-la-toile-de-confiance/en_EN/>\n"
+"Language: en_EN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:2
 msgid "# Introduction à la gestion des membres"
-msgstr ""
+msgstr "# Introducing members management"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:6
@@ -30,6 +32,11 @@ msgid ""
 "communauté.  Il est donc essentiel que les membres de la communauté soient "
 "bien identifiés et (re)connus."
 msgstr ""
+"Duniter is a software which allowing the creation of a free money as "
+"described by the RTM (Relative Theory of Money). This theory implies that "
+"monetary units are co-produced by each of the members of a given community. "
+"It is therefore essential that the members of the community are identified "
+"and recognized."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:9
@@ -39,6 +46,9 @@ msgid ""
 "unités monétaires).  Mais dans notre monde, s'agissant de monnaie, des cas "
 "de triches sont susceptibles d’apparaître."
 msgstr ""
+"In a word without dishonest people, a simple declaration of identity could "
+"be enough to become a member (and thus co-produce monetary units). But in "
+"our world, when it is about money, cheating cases can potentially come."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:13
@@ -48,6 +58,10 @@ msgid ""
 "plus vrai qu'il s'agit d'identités numériques et qu'il est aisé d'en créer "
 "autant que l'on en souhaite.  On appelle cela une *« attaque sybil »*."
 msgstr ""
+"Actually, it is tempting to register with many identities and thus produce a "
+"surplus of monetary units for its own advantage. This is even more true when "
+"it is about digital identities and when it is easy to create as much as we "
+"wish. We call such a thing a *« sybil attack »*."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:15
@@ -55,11 +69,13 @@ msgid ""
 "Il convient donc de s'assurer que les membres ne disposent que d'une seule "
 "identité numérique."
 msgstr ""
+"One should ensure sure that the members are disposing of only one digital "
+"identity."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:18
 msgid "## À qui faire confiance ?"
-msgstr ""
+msgstr "## Who is to trust ?"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:21
@@ -67,6 +83,8 @@ msgid ""
 "Comment s'assurer que les membres ne disposent que d'une seule identité "
 "numérique ? Quelle organisation est nécessaire ?"
 msgstr ""
+"How to ensure that the members are disposing of only one digital identity ? "
+"Which organization is necessary ?"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:23
@@ -74,6 +92,8 @@ msgid ""
 "Il existe deux types d'organisations possibles : les organisations à tiers "
 "de confiance et les organisations auto-régulées."
 msgstr ""
+"There are two types of possible organization : the organizations with a "
+"trusted third-party, and the self-regulated organizations."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:27
@@ -89,6 +109,15 @@ msgid ""
 "papiers).  Ce système s'appuie donc sur le système judiciaire pour dissuader "
 "les comportements frauduleux."
 msgstr ""
+"To illustrate the organization with a trusted third-party, let's take the "
+"example of population census. These is the administration of the state which "
+"« creates » the identities and registers them in different files (aka, data "
+"bases) of the state. These officials are acting like  « trusted third-party »"
+" in the name of the state. The control means used can be administrative "
+"documents (maternity declaration, proof of address, ...). These means are "
+"far from being foolproof since it is trivial to create fake documents (and "
+"then obtain real-fake papers). This system is based on the judiciary system "
+"to deter fraudulent behaviors."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:33
@@ -105,16 +134,25 @@ msgid ""
 "Enfreindre ces règles nous expose à une désapprobation sociale forte, et une "
 "exclusion de la file d'attente.\n"
 msgstr ""
+"To illustrate an auto-regulated organization, we can use the example of the "
+"the queue area.\n"
+"People arrive one after the others, even if no one is really delighted to "
+"wait for his turn, each one respects the rule, which regulates a queue ; "
+"first-come, first-served.\n"
+"Given that everyone knows who came first and who came later, anyone is able "
+"to control that there is no cheating.\n"
+"To violate these rules expose us to a strong social disapproval, and an "
+"exclusion of the queue.\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:36
 msgid "## La toile de confiance"
-msgstr ""
+msgstr "## Web of trust"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:38
 msgid "Duniter fait le choix d'un système auto-régulé par ses membres."
-msgstr ""
+msgstr "Duniter makes the choice of a self-regulated system by its own members."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:40
@@ -122,6 +160,8 @@ msgid ""
 "Rappelons l'objectif qui est de s'assurer que les individus ne puissent "
 "s'enregistrer qu'avec une seule identité numérique."
 msgstr ""
+"Let's not forget the goal which is to ensure that the individuals are able "
+"to register with only one digital identity."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:43
@@ -130,6 +170,9 @@ msgid ""
 "membres* et les *identités non-membres*.  Seules les identités membres sont "
 "co-créatrices de monnaie."
 msgstr ""
+"The system distinguish two types of digital identities : the *member "
+"identities* and the *non-member identities*. Only the members identities are "
+"co-producers of money."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:46
@@ -138,6 +181,9 @@ msgid ""
 "numérique signé, de certifier des identités (membres et non membres).  Cela "
 "revient à délivrer des **certificats d'authenticité**."
 msgstr ""
+"Any individual which is already a member is in capacity, thanks to a signed "
+"digital document, to certify identities (members and non-members). That is "
+"to deliver **certificates of authenticity**."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:49
@@ -146,6 +192,9 @@ msgid ""
 "**toile de confiance** ».  Cette toile de confiance est utilisé par Duniter "
 "pour déterminer qui est membre et qui ne l'est pas."
 msgstr ""
+"These certificates, given from ones to the others, makes a mesh called « **"
+"web of trust** ».  This web of trust is used by Duniter to determinate who "
+"is a member and who is not."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:52
@@ -153,11 +202,13 @@ msgid ""
 "<center>![Toile de confiance globale de la monnaie de test Méta Brouzouf en "
 "juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>"
 msgstr ""
+"<center>![Global Web of trust of the test money Meta Brozouf in June of "
+"2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:55
 msgid "## Les règles de fonctionnement de la toile de confiance"
-msgstr ""
+msgstr "## Operating rules of the web of trust"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:58
@@ -167,12 +218,16 @@ msgid ""
 "fondateurs, et *ne peuvent pas être modifiés ultérieurement*.  Il est donc "
 "important d'y porter une attention particulière."
 msgstr ""
+"Rules governing the web of trust of a Duniter money is parametrized when the "
+"money is being created (initialized) by it's founders, and *cannot be "
+"modified later*. It is thus important to pay a particular attention to these "
+"parameters."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:61
 #, no-wrap
 msgid "**L'auto-déclaration d'identité numérique**\n"
-msgstr ""
+msgstr "**Self-declaration of a digital identity**\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:63
@@ -180,11 +235,13 @@ msgid ""
 "Un individu, s'il souhaite devenir membre d'une communauté, doit créer son "
 "identité numérique."
 msgstr ""
+"An individual, who whishes to become a member of a community, has to issue "
+"its digital identity."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:65
 msgid "Sur Duniter, une identité numérique est composée de :"
-msgstr ""
+msgstr "On Duniter, a digital identity is composed of :"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:69
@@ -192,6 +249,8 @@ msgid ""
 "une clé cryptographique privée, connue uniquement de l'individu et donc non "
 "diffusée sur le réseau, lui servant à signer des documents numériques"
 msgstr ""
+"a private cryptographic key, knew only by the individual and not broadcasted "
+"to the network, is used to sign digital documents"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:69
@@ -199,11 +258,13 @@ msgid ""
 "une clé cryptographique publique, connue de tous, permettant de vérifier "
 "qu'un document a été signé par la clé privée de l'individu"
 msgstr ""
+"a public cryptographic key, knew be anyone, is used to check that a document "
+"has been signed by the private key of the individual"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:69
 msgid "un pseudonyme"
-msgstr ""
+msgstr "a pseudonym"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:71
@@ -211,6 +272,8 @@ msgid ""
 "L'auto-déclaration d'identité à elle seule ne suffit pas pour devenir membre "
 "mais est la première étape du processus."
 msgstr ""
+"The self-declaration of identity by itself is not enough to become a member "
+"but is the first step of the process."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:74
@@ -219,6 +282,8 @@ msgid ""
 "validité**.  Si elle n'est pas renouvelée régulièrement, elle devient "
 "invalide."
 msgstr ""
+"As any identity card, a digital identity has an **expiration date**. If it "
+"is not renewed regularly, it becomes invalid."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:76
@@ -227,12 +292,15 @@ msgid ""
 "identité membre est configurée avec le paramètre *msValidity (Membership "
 "expiry Delay)*"
 msgstr ""
+"In a money created with Duniter, the maximum validity duration of a member "
+"identity is configured with the parameters  *msValidity (Membership expiry "
+"Delay)*"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:78
 #, no-wrap
 msgid "**Les certifications**\n"
-msgstr ""
+msgstr "**Certifications**\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:84
@@ -243,6 +311,10 @@ msgid ""
 "numérique doit donc être continuellement re-certifiée par des individus "
 "membres."
 msgstr ""
+"To become a member, an individual must collect a given number of "
+"certifications from existing members. These certifications have an "
+"expiration date. To keep a member status, a digital identity must be "
+"continually re-certified by members."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:87
@@ -252,12 +324,16 @@ msgid ""
 "certification est configurée avec le paramètre *sigValidity (Cert Expiry "
 "Delay)*."
 msgstr ""
+"The number of necessary certifications to become a member is configured by "
+"the parameter  *sigQty (Min Required Certs)*. The life expectancy of a "
+"certification is configured with the parameter  *sigValidity (Cert Expiry "
+"Delay)*."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:89
 #, no-wrap
 msgid "**Les protections anti-Sybil**\n"
-msgstr ""
+msgstr "**Anti-sybil protections**\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:91
@@ -265,11 +341,13 @@ msgid ""
 "Des règles complémentaires sont mises en place pour assurer la sécurité de "
 "la toile de confiance contre un groupe d'attaquants."
 msgstr ""
+"Complementary rules are applied to ensure the safety of the web of trust "
+"against a group of attackers."
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:93
 msgid "Le nombre de pas"
-msgstr ""
+msgstr "The number of steps"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:96
@@ -280,6 +358,10 @@ msgid ""
 "certifier de nouvelles identités fictives, créant ainsi un très grand nombre "
 "de membres illégitimes."
 msgstr ""
+"A group of members could associate to create fake identities and certify "
+"them to let them become members. Even more, they could use these fake "
+"members to certify new fake identities, creating then a really big number of "
+"illegitimate members."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:98
@@ -287,6 +369,8 @@ msgid ""
 "<center>![Réseau "
 "Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</center>"
 msgstr ""
+"<center>![Sybil "
+"Network](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:102
@@ -295,6 +379,9 @@ msgid ""
 "suffisamment proches les uns des autres dans la toile de confiance.  Dans "
 "l'exemple ci-dessous, le membre C est à deux pas (deux sauts) de A."
 msgstr ""
+"To prevent this attack, Duniter ensures that members are close enough one to "
+"the others in the web of trust. In the example below, the member C is two "
+"steps from A."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:104
@@ -302,6 +389,8 @@ msgid ""
 "<center>![Nombre de pas à "
 "2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)</center>"
 msgstr ""
+"<center>![2 "
+"steps](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)</center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:107
@@ -310,6 +399,8 @@ msgid ""
 "obtenu suffisamment de certifications), Duniter déroule le protocole de "
 "vérification suivant :"
 msgstr ""
+"When an individual is susceptible to become a member (that is, he obtained "
+"enough certifications), Duniter runs the following verification procotol :"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:109
@@ -317,6 +408,8 @@ msgid ""
 "Les membres ayant émis suffisamment de certifications sont utilisés comme « "
 "points de contrôle » (*sentries*)."
 msgstr ""
+"Members who issued enough certifications are used as  « points of control » "
+"(*sentries*)."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:112
@@ -325,6 +418,10 @@ msgid ""
 "cours.  N est le nombre de membres, Y(N) est le nombre de certifications "
 "émises requises pour que le membre soit considéré « point de contrôle »."
 msgstr ""
+"The number of issued certifications depends of the number of current "
+"members. N is the number of members, Y(N) is the number of issued "
+"certifications required for the members to be considered  « point of control "
+"»."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:120
@@ -338,6 +435,13 @@ msgid ""
 "\t100000    12\n"
 "\t1000000   20\n"
 msgstr ""
+"\tN         Y(N)\n"
+"\t10        2\n"
+"\t100       4\n"
+"\t1000      6\n"
+"\t10000     8\n"
+"\t100000    12\n"
+"\t1000000   20\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:122
@@ -346,12 +450,15 @@ msgid ""
 "*xpercent* (Percent of distance) des points de contrôle avec un nombre de "
 "pas maximum nommé *maxsteps* (Max distance)."
 msgstr ""
+"To become a member, the identity has to join a given percentage *xpercent* ("
+"Percent of distance) of the points of controls with a number of steps named "
+"*maxsteps* (Max distance)."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:125
 #, no-wrap
 msgid "**Limiter les pouvoirs**\n"
-msgstr ""
+msgstr "**Limiting the powers**\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:128
@@ -361,6 +468,9 @@ msgid ""
 "mesure que le membre émet des certifications, et se remplit à mesure que ces "
 "certifications expirent."
 msgstr ""
+"To protect against a massive creation of sybil members, the members are "
+"given a limited stock of signature. This stock is emptied when the member "
+"issue certifications, and fills when the certifications expire."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:130
@@ -368,6 +478,8 @@ msgid ""
 "Le stock de certifications est configuré avec le paramètre *sigstock* (Max "
 "cert stock)."
 msgstr ""
+"The stock of certifications is configured with the parameter *sigstock* (Max "
+"cert stock)."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:133
@@ -377,6 +489,9 @@ msgid ""
 "traite les unes après les autres en observant une pause entre chaque "
 "traitement."
 msgstr ""
+"In addition, to stops an eventual attack, Duniter does not authorize a "
+"member to issue many certifications simultaneously. Duniter handles them one "
+"by one and apply a pause between each processing."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:135
@@ -384,12 +499,14 @@ msgid ""
 "Ce période est configurée avec le paramètre *sigPeriod* (Delay between two "
 "certs)."
 msgstr ""
+"This period is configured with the parameter  *sigPeriod* (Delay between two "
+"certs)."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:138
 #, no-wrap
 msgid "**L'expiration des certifications en cours de traitement**\n"
-msgstr ""
+msgstr "**Expiration of certifications while they are being treated**\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:142
@@ -400,6 +517,10 @@ msgid ""
 "traitement, les certifications qui n'ont pas eu le temps d’être traitées "
 "sont détruites."
 msgstr ""
+"A certification which has not been treated in a given time is destroyed. "
+"This happens when a member issue many signatures at the same time. Duniter "
+"apply a pause between each processing, the certifications which did not had "
+"the time to be treated are destroyed."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:144
@@ -407,33 +528,34 @@ msgid ""
 "Ce laps de temps est configurable avec le paramètre *sigWindow* (Cert Time "
 "Window)."
 msgstr ""
+"This delay is configured with the parameter *sigWindow* (Cert Time Window)."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:146
 msgid ""
 "Il existe un paramètre similaire utilisé lors de l'inscription de nouveaux "
 "membres."
-msgstr ""
+msgstr "There is one similar parameter used when new members are registering."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:148
 msgid "Comme vu précédemment, pour devenir membre un individu doit :"
-msgstr ""
+msgstr "As we saw previously, to become a member, an individual must :"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:152
 msgid "publier sa déclaration d'identité"
-msgstr ""
+msgstr "publish is declaration of identity"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:152
 msgid "collecter un nombre de certifications suffisantes"
-msgstr ""
+msgstr "collect a sufficient number of certifications"
 
 #. type: Bullet: ' - '
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:152
 msgid "respecter la règle des pas"
-msgstr ""
+msgstr "respect the steps rule"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:154
@@ -441,3 +563,5 @@ msgid ""
 "Ces trois étapes doivent être réalisées dans le laps de temps configuré par "
 "*idtyWindow*."
 msgstr ""
+"These three steps must be realized a window of time configured by  "
+"*idtyWindow*."
