@@ -18,7 +18,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:2
 msgid "# Theoretical"
-msgstr "# La théorie"
+msgstr "# La théorie"u
 
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:4
@@ -39,7 +39,7 @@ msgid ""
 "Income_), which is the only way to avoid both spatial and temporal asymmetry "
 "toward money issuance."
 msgstr ""
-"uCoin utilise le concept de crypto-monnaie introduit par Bitcoin. Le "
+"Duniter utilise le concept de crypto-monnaie introduit par Bitcoin. Le "
 "principe est d'utiliser des fonctionnalités de cryptographie telle que la "
 "signature afin de créer des devises numériques. uCoin rentre dans cette "
 "définition, mais a des principes totalement différents de Bitcoin comme la "
