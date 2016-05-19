@@ -7,18 +7,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-12-07 07:09-0500\n"
-"PO-Revision-Date: 2015-12-07 13:29+0100\n"
-"Last-Translator: cgeek\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2016-05-19 12:29+0000\n"
+"Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
+"Language-Team: French <https://weblate.duniter.org/projects/ucoin-blog/blog-"
+"theoretical/fr_FR/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.6\n"
 
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:2
 msgid "# Theoretical"
-msgstr "# La théorie"u
+msgstr "# La théorie"
 
 #. type: Plain text
 #: posts/2015-08-11-theoretical.md:4
@@ -41,7 +44,7 @@ msgid ""
 msgstr ""
 "Duniter utilise le concept de crypto-monnaie introduit par Bitcoin. Le "
 "principe est d'utiliser des fonctionnalités de cryptographie telle que la "
-"signature afin de créer des devises numériques. uCoin rentre dans cette "
+"signature afin de créer des devises numériques. Duniter rentre dans cette "
 "définition, mais a des principes totalement différents de Bitcoin comme la "
 "toile de confiance et le dividende universel. En fait, uCoin a une référence "
 "théorique appelée Théorie Relative de la Monnaie (TRM) que vous trouverez "
