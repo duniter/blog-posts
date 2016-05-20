@@ -45,18 +45,46 @@ CREDENTIALS=`curl $BLOG_URL/ghost/api/v0.1/authentication/token --data "grant_ty
 TOKEN_ACCESS=`echo $CREDENTIALS | jq '.access_token' | sed -e 's/\"//g'`
 TOKEN_TYPE=`echo $CREDENTIALS | jq '.token_type' | sed -e 's/\"//g'`
 
-# 2) Reset all posts
-curl $BLOG_URL/ghost/api/v0.1/db/ --request DELETE -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" 1>/dev/null -s -k
+# Création et mise à jour des articles
+for post in `cat meta/$5.txt`;
+do
+    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | awk '{print tolower($0)}'`
+    json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
+    post_id=`echo $json | jq ".posts[0] .id"`
 
-# 3) Import posts
-curl $BLOG_URL/ghost/api/v0.1/db/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -F "importfile=@$EXPORT_FILE" -s -k 1>/dev/null
+    new_markdown=`cat export/$5/published-$post | tail -n +2`
+    title=`cat export/$5/published-$post | head -n 1 | tail -c +3`
 
+    if (("$post_id" > 0))
+    then
+        echo "Modification de l'article : $slug"
+        json=`jq -n --arg title "$title" --arg id "$post_id" --arg v "$new_markdown" '{"posts": [{"title": $title, "id": $id, "markdown": $v}]}'`
+        curl $BLOG_URL/ghost/api/v0.1/posts/$post_id/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X PUT -d "$json" 1>/dev/null
+    else
+        echo "Création de l'article : $slug"
+        json=`jq -n --arg slug "$slug" --arg title "$title" --arg v "$new_markdown" '{"posts": [{"title": $title,  "markdown": $v, "status":"published", "slug": $slug}]}'`
+        curl $BLOG_URL/ghost/api/v0.1/posts/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X POST -d "$json" 1>/dev/null
+    fi
+done
+
+# Création et mise à jour des pages statiques
 for post in `cat meta/static.txt`;
 do
-  slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g"`
-  echo "Setting post /$slug as static page..."
-  json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
-  modified_json=`echo $json | sed -s "s/\"page\":false/\"page\":true/g"`
-  post_id=`echo $modified_json | jq ".posts[0] .id"`
-  curl $BLOG_URL/ghost/api/v0.1/posts/$post_id/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X PUT -d "$modified_json" 1>/dev/null
+    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | awk '{print tolower($0)}'`
+    json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
+
+    post_id=`echo $json | jq ".posts[0] .id"`
+    new_markdown=`cat export/$5/published-$post | tail -n +2`
+    title=`cat export/$5/published-$post | head -n 1 | tail -c +3`
+
+    if (("$post_id" > 0))
+    then
+        echo "Modification de la page statique : $slug"
+        json=`jq -n --arg title "$title" --arg id "$post_id" --arg v "$new_markdown" '{"posts": [{"title": $title, "id": $id, "markdown": $v}]}'`
+        curl $BLOG_URL/ghost/api/v0.1/posts/$post_id/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X PUT -d "$json" 1>/dev/null
+    # else
+    #     echo "Création de la page statique : $slug"
+    #     json=`jq -n --arg slug "$slug" --arg title "$title" --arg v "$new_markdown" '{"posts": [{"title": $title,  "markdown": $v, "status": "published", "page": true, "slug": $slug}]}'`
+    #     curl $BLOG_URL/ghost/api/v0.1/posts/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X POST -d "$json" 1>/dev/null
+    fi
 done
