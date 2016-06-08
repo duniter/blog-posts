@@ -4,7 +4,7 @@ Les [7èmes Rencontres des Monnaies Libres](http://www.duniter.fr/rml/) viennent
 
 Voici donc l'ensemble des liens et vidéos pour vous permettre de vivre ou revivre ces journées très intenses en échanges, et qui n'interviennent que tous les 6 mois !
 
-Prochain rendez-vous pour les RML8 à Toulouse, les dates et lieux seront indiqués prochainement sur ce blog.
+Prochain rendez-vous dans environ 6 mois pour les RML8 à Toulouse, le site officiel, les dates et lieux seront indiqués prochainement sur ce blog.
 
 ## Vidéos
 
