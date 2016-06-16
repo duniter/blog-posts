@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "Duniter est un logiciel de _crypto-monnaie_, c'est-à-dire qu'il s'agit d'un "
 "**logiciel** permettant de **créer des monnaies**. Duniter est différent des "
-"autres logiciels de crypto-monnaie que vous connaissez peut-être (Bicoin, "
+"autres logiciels de crypto-monnaie que vous connaissez peut-être (Bitcoin, "
 "Litecoin, Peercoin, ...) pour 2 raisons principales : son **code monétaire** "
 "qui inclut à la fois les concepts de [Dividende "
 "Universel](https://fr.wikipedia.org/wiki/Cr%C3%A9dit_social) et de [Toile de "
@@ -194,7 +194,7 @@ msgstr ""
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:31
 msgid "the members must have enough signatures (links) from other members"
-msgstr "le membre doivent avoir assez de signatures (liens) des autres membres"
+msgstr "les membres doivent avoir assez de signatures (liens) des autres membres"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:31
@@ -214,7 +214,7 @@ msgstr "les signatures expirent (elles ont une durée de validité)"
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "a given link must see a delay before being replayed"
-msgstr "a lien donné doit observer un délai avant de pouvoir être rejoué"
+msgstr "un lien donné doit observer un délai avant de pouvoir être rejoué"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
@@ -233,7 +233,7 @@ msgstr ""
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
 msgid "links cannot be made in the future"
-msgstr "les liens ne peuvent pas être écris dans le futur"
+msgstr "les liens ne peuvent pas être écrits dans le futur"
 
 #. type: Bullet: '*   '
 #: 2015-08-11-presentation.md:40
