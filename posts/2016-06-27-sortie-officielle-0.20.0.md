@@ -6,6 +6,8 @@ Et aujourd'hui est une date importante, car nous officialisons la livraison de *
 
 Quelle est donc cette version, et quelle sera la suite ?
 
+> Si vous souhaitez utiliser cette nouvelle version sans plus attendre : suivez ce [tutoriel d'installation de Duniter (anglais)](https://forum.duniter.org/t/install-a-duniter-node/900)
+
 ## TestNet et le protocole en version 0.2
 
 Cela fait maintenant 2 mois que la nouvelle monnaie de test appelée « *TestNet* » circule sur le réseau. Elle compte aujourd'hui 81 membres se partageant et s'échangeant les 810 dividendes qui constituent la monnaie, via les logiciels de paiement libres que sont [Cesium](http://cesium.duniter.fr), [Sakia](http://sakia-wallet.org/) et [Android](https://play.google.com/store/apps/details?id=org.duniter.android&hl=fr).
@@ -78,4 +80,4 @@ Mais plutôt que d'attendre, vous pouvez aussi [nous aider](http://fr.duniter.or
 
 Car une monnaie libre n'émergera pas toute seule, et même une fois réalisée, c'est bien *vous* qui produirez votre monnaie : ce n'est pas un banquier qui le fera à votre place !
 
-Alors si vous comptez utiliser une monnaie libre, autant s'y mettre dès maintenant ! Venez tester, venez développer, en deux mots : *venez participer* !
+Alors si vous comptez utiliser une monnaie libre, autant s'y mettre dès maintenant ! [Venez tester](http://fr.duniter.org/try/), venez développer, en deux mots : *venez participer* !
