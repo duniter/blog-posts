@@ -7,3 +7,4 @@
 2016-05-10-duniter-sera-aux-rml7.md
 2016-05-13-Introduction-a-la-toile-de-confiance.md
 2016-06-08-rml7-liens-et-videos.md
+2016-06-27-sortie-officielle-0.20.0.md
