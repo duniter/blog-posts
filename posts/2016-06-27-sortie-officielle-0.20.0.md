@@ -24,9 +24,9 @@ Cette monnaie est sous-tendue par le logiciel Duniter dans sa **version 0.20.0**
 
 Cette version du protocole est actuellement stable, de même que cette version du logiciel. Cela fait pratiquement 1 mois que nous autres, développeurs ou utilisateurs avancés du logiciel, ne sommes pas intervenus pour palier à un bug majeur ou a une instabilité.
 
-Dans les faits bien sûr, des forks apparaissent régulièrement : c'est-à-dire que le réseau se scinde en 2 groupes qui ne sont plus d'accords entre eux pour diverses raisons (latences réseau, bloc calculé simultanément, etc.). Mais cette scission ne dure jamais très longtemps, en général une heure, chaque pair disposant de mécanismes automatiques afin de rejoindre le consensus dès lors que celui-ci émerge. L'expérience de ce derniers mois nous montre que ces mécanismes sont tout à fait fonctionnels et à l'épreuve des aléas de connectivité réseau !
+Dans les faits biensûr, des forks apparaissent régulièrement : c'est-à-dire que le réseau se scinde en deux groupes qui ne sont plus d'accords entre eux pour diverses raisons (latences réseau, bloc calculé simultanément, etc.). Mais cette scission ne dure jamais très longtemps, en général une heure, chaque pair disposant de mécanismes automatiques afin de rejoindre le consensus dès lors que celui-ci émerge. L'expérience de ce dernier mois nous montre que ces mécanismes sont tout à fait fonctionnels et à l'épreuve des aléas de connectivité réseau !
 
-Et donc grâce à cette version 0.20.0 de Duniter, le logiciel fonctionne, se montre stable, et le réseau d'utilisateurs fait sa vie, [se reconnaît mutuellement](https://forum.duniter.org/search?q=Demande%20de%20certification) et produit sa monnaie. D'aucuns se demandent même pourquoi ne pas lancer tout de suite une monnaie libre ! C'est dire l'impression procurée par son l'utilisation !
+Et donc grâce à cette version 0.20.0 de Duniter, le logiciel fonctionne, se montre stable, et le réseau d'utilisateurs fait sa vie, [se reconnaît mutuellement](https://forum.duniter.org/search?q=Demande%20de%20certification) et produit sa monnaie. D'aucuns se demandent même pourquoi ne pas lancer tout de suite une monnaie libre ! C'est dire l'impression procurée par son utilisation !
 
 Même si nous devons tempérer ces ardeurs, puisqu'il nous reste du travail comme vous le verrez ci-après, ces derniers résultats sont tout de même très positifs !
 
@@ -40,7 +40,7 @@ Même si nous devons tempérer ces ardeurs, puisqu'il nous reste du travail comm
 
 ## Vers les protocoles 0.3 et 0.4 !
 
-Cette stabilité et les désormais nombreux utilisateurs de la monnaie (81 utilisateurs venus de tous horizons) nous donnent des ailes : nous préparons ainsi plusieurs évolutions importantes en vue de réaliser une première monnaie libre, et qui passeront par 2 évolutions successives du protocole,  *a minima*.
+Cette stabilité et les désormais nombreux utilisateurs de la monnaie (81 utilisateurs venus de tous horizons) nous donnent des ailes : nous préparons ainsi plusieurs évolutions importantes en vue de réaliser une première monnaie libre, et qui passeront par deux évolutions successives du protocole,  *a minima*.
 
 ### La version 0.3
 
@@ -74,7 +74,7 @@ Cette version impactera aussi les logiciels clients, comme pour la version 0.3 d
 
 ## Du chemin à parcourir
 
-Comme vous le voyez, il nous reste encore du chemin avant d'en arriver à nos fins ! Et peut-être attendez-vous vous aussi, avec impatience, l'émergence d'une monnaie libre P2P ?
+Comme vous le voyez, il nous reste encore du chemin avant d'en arriver à nos fins ! Et peut-être attendez-vous aussi, avec impatience, l'émergence d'une monnaie libre P2P ?
 
 Mais plutôt que d'attendre, vous pouvez aussi [nous aider](http://fr.duniter.org/contribute) à votre échelle afin d'accélérer les choses ! [Venez nous voir](http://fr.duniter.org/contact/) sur les [salons de discussion](https://jappix.com/?r=duniter@muc.duniter.org) (choisissez un pseudo) et [forum](https://forum.duniter.org), nous vous répondrons !
 
