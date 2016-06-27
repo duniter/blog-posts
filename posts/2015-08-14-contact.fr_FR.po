@@ -7,16 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2016-04-26 16:04+0000\n"
-"Last-Translator: Christophe Parot <cannecy@free.fr>\n"
-"Language-Team: French <http://weblate.duniter.org/projects/ucoin-blog/blog-"
+"PO-Revision-Date: 2016-06-04 08:05+0000\n"
+"Last-Translator: vincentux <vincent.fraslin@free.fr>\n"
+"Language-Team: French <https://weblate.duniter.org/projects/ucoin-blog/blog-"
 "contact/fr_FR/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.6-dev\n"
+"X-Generator: Weblate 2.6\n"
 
 #. type: Plain text
 #: 2015-08-14-contact.md:2
@@ -50,8 +50,8 @@ msgid ""
 "create a subject or answer to an existing one."
 msgstr ""
 "C'est le moyen le plus conventionnel de nous parler. Allez sur le "
-"[forum](http://forum.ucoin.io), inscrivez vous et vous serez en mesure de "
-"créer un sujet ou répondre à un sujet existant."
+"[forum](https://forum.duniter.org), inscrivez vous et vous serez en mesure "
+"de créer un sujet ou répondre à un sujet existant."
 
 #. type: Plain text
 #: 2015-08-14-contact.md:12
@@ -82,8 +82,8 @@ msgid ""
 "or widget at the bottom of the page:"
 msgstr ""
 "Nous utilisons les salons XMPP Jappix "
-"[dunitern@muc.jappix.com](duniter@muc.jappix.com) pour tchatter. Vous pouvez "
-"vous connecter en utilisant votre client XMPP favori comme "
+"[duniter@muc.duniter.org](duniter@muc.duniter.org) pour tchatter. Vous "
+"pouvez vous connecter en utilisant votre client XMPP favori comme "
 "[Pidgin](https://pidgin.im/) ou [Psi+](http://psi-plus.com/), ou vous pouvez "
 "utiliser le widget qui se trouve en bas de page :"
 
@@ -164,7 +164,7 @@ msgid ""
 "add issues on GitHub: https://github.com/ucoin-io/ucoin, we will answer you "
 "directly on your ticket"
 msgstr ""
-"ajouter des tickets sur GitHub : https://github.com/ucoin-io/duniter, nous "
+"ajouter des tickets sur GitHub : https://github.com/duniter/duniter, nous "
 "répondrons directement sur votre ticket"
 
 #. type: Bullet: '* '
@@ -191,7 +191,7 @@ msgstr "Pour contacter les contributeurs de Sakia, vous pouvez :"
 #. type: Bullet: '* '
 #: 2015-08-14-contact.md:50
 msgid "add issues on GitHub: https://github.com/ucoin-io/cutecoin"
-msgstr "ajouter des tickets sur GitHub: https://github.comduniter/sakia"
+msgstr "ajouter des tickets sur GitHub: https://github.com/duniter/sakia"
 
 #. type: Bullet: '* '
 #: 2015-08-14-contact.md:50
