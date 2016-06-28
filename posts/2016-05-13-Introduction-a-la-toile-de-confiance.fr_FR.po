@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2016-05-18 21:32+0200\n"
-"PO-Revision-Date: 2016-05-19 09:29+0000\n"
+"PO-Revision-Date: 2016-06-28 18:57+0200\n"
 "Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
 "Language-Team: French <https://weblate.duniter.org/projects/ucoin-blog/blog-"
 "introduction-la-toile-de-confiance/fr_FR/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.6\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:2
@@ -117,35 +117,25 @@ msgstr ""
 "confiance » au nom de l'état. Les moyens de contrôles utilisés peuvent être "
 "des justificatifs administratifs (déclaration de la maternité, justificatifs "
 "de domicile, …). Ces moyens sont loin d'être infaillibles puisqu'il est "
-"trivial de créer des faux documents (et ainsi obtenir de vrais-faux papiers)"
-".  Ce système s'appuie donc sur le système judiciaire pour dissuader les "
-"comportements frauduleux."
+"trivial de créer des faux documents (et ainsi obtenir de vrais-faux "
+"papiers).  Ce système s'appuie donc sur le système judiciaire pour dissuader "
+"les comportements frauduleux."
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:33
 #, no-wrap
 msgid ""
-"Pour illustrer une organisation auto-régulée, nous pouvons utiliser "
-"l'exemple de la file d'attente.\n"
-"Les personnes arrivent les unes après les autres et, bien que personne ne "
-"soit vraiment ravi d'avoir à attendre son tour,\n"
-" chacun respecte la règle, qui régit une file d'attente ; l'ordre de passage "
-"correspond à l'ordre d'arrivée.\n"
-"Étant donné que chacun sait qui est arrivé avant et qui est arrivé après, "
-"chacun est en mesure de contrôler qu'il n'y a pas de fraude.\n"
-"Enfreindre ces règles nous expose à une désapprobation sociale forte, et une "
-"exclusion de la file d'attente.\n"
+"Pour illustrer une organisation auto-régulée, nous pouvons utiliser l'exemple de la file d'attente.\n"
+"Les personnes arrivent les unes après les autres et, bien que personne ne soit vraiment ravi d'avoir à attendre son tour,\n"
+" chacun respecte la règle, qui régit une file d'attente ; l'ordre de passage correspond à l'ordre d'arrivée.\n"
+"Étant donné que chacun sait qui est arrivé avant et qui est arrivé après, chacun est en mesure de contrôler qu'il n'y a pas de fraude.\n"
+"Enfreindre ces règles nous expose à une désapprobation sociale forte, et une exclusion de la file d'attente.\n"
 msgstr ""
-"Pour illustrer une organisation auto-régulée, nous pouvons utiliser "
-"l'exemple de la file d'attente.\n"
-"Les personnes arrivent les unes après les autres et, bien que personne ne "
-"soit vraiment ravi d'avoir à attendre son tour,\n"
-" chacun respecte la règle, qui régit une file d'attente ; l'ordre de passage "
-"correspond à l'ordre d'arrivée.\n"
-"Étant donné que chacun sait qui est arrivé avant et qui est arrivé après, "
-"chacun est en mesure de contrôler qu'il n'y a pas de fraude.\n"
-"Enfreindre ces règles nous expose à une désapprobation sociale forte, et une "
-"exclusion de la file d'attente.\n"
+"Pour illustrer une organisation auto-régulée, nous pouvons utiliser l'exemple de la file d'attente.\n"
+"Les personnes arrivent les unes après les autres et, bien que personne ne soit vraiment ravi d'avoir à attendre son tour,\n"
+" chacun respecte la règle, qui régit une file d'attente ; l'ordre de passage correspond à l'ordre d'arrivée.\n"
+"Étant donné que chacun sait qui est arrivé avant et qui est arrivé après, chacun est en mesure de contrôler qu'il n'y a pas de fraude.\n"
+"Enfreindre ces règles nous expose à une désapprobation sociale forte, et une exclusion de la file d'attente.\n"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:36
@@ -195,8 +185,8 @@ msgid ""
 "**toile de confiance** ».  Cette toile de confiance est utilisé par Duniter "
 "pour déterminer qui est membre et qui ne l'est pas."
 msgstr ""
-"Ces certificats, donnés les uns aux autres, forment un maillage appelé « **"
-"toile de confiance** ».  Cette toile de confiance est utilisé par Duniter "
+"Ces certificats, donnés les uns aux autres, forment un maillage appelé « "
+"**toile de confiance** ».  Cette toile de confiance est utilisé par Duniter "
 "pour déterminer qui est membre et qui ne l'est pas."
 
 #. type: Plain text
@@ -206,7 +196,7 @@ msgid ""
 "juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>"
 msgstr ""
 "<center>![Toile de confiance globale de la monnaie de test Méta Brouzouf en "
-"juin 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>"
+"juin 2015](https://moul.re/blog/data/medias/duniter/wot_fmm5.png)</center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:55
@@ -372,11 +362,11 @@ msgstr ""
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:98
 msgid ""
-"<center>![Réseau "
-"Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</center>"
+"<center>![Réseau Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</"
+"center>"
 msgstr ""
-"<center>![Réseau "
-"Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</center>"
+"<center>![Réseau Sybil](https://framapic.org/qh2PZc9A2Unk/IDZe8MfG6yh0.jpg)</"
+"center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:102
@@ -392,11 +382,11 @@ msgstr ""
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:104
 msgid ""
-"<center>![Nombre de pas à "
-"2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)</center>"
+"<center>![Nombre de pas à 2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7."
+"jpg)</center>"
 msgstr ""
-"<center>![Nombre de pas à "
-"2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7.jpg)</center>"
+"<center>![Nombre de pas à 2](https://framapic.org/4LNI8XX2JAJt/HY1s3QndhJS7."
+"jpg)</center>"
 
 #. type: Plain text
 #: posts/2016-05-13-Introduction-a-la-toile-de-confiance.md:107
