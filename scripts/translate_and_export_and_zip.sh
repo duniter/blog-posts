@@ -19,7 +19,7 @@ do
       # Exception is when post original language is export language
       keep=0
     fi
-    posts_of_lang=`cat $root/meta/$srclang.txt`
+    posts_of_lang=`cat $root/meta/$srclang.txt $root/meta/static.txt`
     for post in $posts_of_lang;
     do
       post_lang=`echo $post | sed -e "s/\.md/\.$lang\.po/g"`
