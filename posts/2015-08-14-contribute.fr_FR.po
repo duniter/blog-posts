@@ -21,7 +21,7 @@ msgstr ""
 #. type: Plain text
 #: 2015-08-14-contribute.md:2
 msgid "# Contribute"
-msgstr "# Contribuer"
+msgstr "# Contribuer"
 
 #. type: Plain text
 #: 2015-08-14-contribute.md:4
