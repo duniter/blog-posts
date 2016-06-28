@@ -24,12 +24,12 @@ for (var i = 0; i < lines.length; i++) {
 }
 
 content = lines.join('\n');
-+content = content.replace(/===>/gm, '\n>');
-+content = content.replace(/[?.!]\s+(#+)/gm, '.\n$1');
-+content = content.replace(/===(#+)/gm, '\n\n$1');
-+content = content.replace(/(\w)===(\s)*\* /gm, '$1\n$2* ');
-+content = content.replace(/([^\w\s])===(\s)*\* /gm, '$1\n$2* ');
-+content = content.replace(/===\* /gm, '\n* ');
+content = content.replace(/===>/gm, '\n>');
+content = content.replace(/[?.!]\s+(#+)/gm, '.\n$1');
+content = content.replace(/===(#+)/gm, '\n\n$1');
+content = content.replace(/(\w)===(\s)*\* /gm, '$1\n$2* ');
+content = content.replace(/([^\w\s])===(\s)*\* /gm, '$1\n$2* ');
+content = content.replace(/===\* /gm, '\n* ');
 content = content.replace(/===\*/gm, ' *');
 content = content.replace(/===\*/gm, '\n*');
 content = content.replace(/===```/gm, '\n```');
