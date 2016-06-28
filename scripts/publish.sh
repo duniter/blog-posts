@@ -48,7 +48,7 @@ TOKEN_TYPE=`echo $CREDENTIALS | jq '.token_type' | sed -e 's/\"//g'`
 # Création et mise à jour des articles
 for post in `cat meta/$5.txt`;
 do
-    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | awk '{print tolower($0)}'`
+    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | sed -e "s/\./-/g" | awk '{print tolower($0)}'`
     json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
     post_id=`echo $json | jq ".posts[0] .id"`
 
@@ -70,7 +70,7 @@ done
 # Création et mise à jour des pages statiques
 for post in `cat meta/static.txt`;
 do
-    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | awk '{print tolower($0)}'`
+    slug=`echo $post | sed -e "s/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-//g" | sed -e "s/\.md//g" | sed -e "s/\./-/g" | awk '{print tolower($0)}'`
     json=`curl $BLOG_URL/ghost/api/v0.1/posts/slug/$slug/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
 
     post_id=`echo $json | jq ".posts[0] .id"`
