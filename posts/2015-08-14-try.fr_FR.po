@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
-"PO-Revision-Date: 2016-06-27 16:19+0200\n"
+"PO-Revision-Date: 2016-06-28 18:15+0200\n"
 "Last-Translator: Cédric Moreau <cem.moreau@gmail.com>\n"
 "Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-try/fr_FR/>\n"
 "Language: fr_FR\n"
@@ -39,8 +39,8 @@ msgid ""
 "new kind of currency."
 msgstr ""
 "Nous mettons à disposition une monnaie de test appelée **TestNet**. Cette monnaie est "
-"vivante, étant activement utilisée par une douzaine de personnes avec qui vous pouvez "
-"interagir pour vous habituer à ce nouveau genre de monnaie."
+"vivante, étant activement utilisée par plus de 80 personnes (au 27 Juin 2016) avec "
+"qui vous pouvez interagir pour vous habituer à ce nouveau genre de monnaie."
 
 #. type: Plain text
 #: 2015-08-14-try.md:8
@@ -100,6 +100,4 @@ msgstr "Profitez bien de ce petit goût de futur !"
 #. type: Plain text
 #: 2015-08-14-try.md:19
 msgid "![](/content/images/2015/08/Capture-du-2015-06-09-21-38-05-1.png)"
-msgstr ""
-"![](https://forum.duniter.org/uploads/default/original/1X/"
-"aa7e4ebab5886127d90b031cdbd3650b44fe1776.png)"
+msgstr "![](/content/images/2015/08/Capture-du-2015-06-09-21-38-05-1.png)"
