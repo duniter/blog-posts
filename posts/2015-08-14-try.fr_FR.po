@@ -35,11 +35,11 @@ msgstr ""
 #: 2015-08-14-try.md:6
 msgid ""
 "We provide you a testing currency named **meta_brouzouf**. This currency is alive, "
-"being actively used by more than 80 people (June 27th 2016) you can interact with to get used to this "
+"being actively used by a dozen of people you can interact with to get used to this "
 "new kind of currency."
 msgstr ""
 "Nous mettons à disposition une monnaie de test appelée **TestNet**. Cette monnaie est "
-"vivante, étant activement utilisée par plus de 80 personnes (au 27 Juin 2016) avec qui vous pouvez "
+"vivante, étant activement utilisée par une douzaine de personnes avec qui vous pouvez "
 "interagir pour vous habituer à ce nouveau genre de monnaie."
 
 #. type: Plain text
