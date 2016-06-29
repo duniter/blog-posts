@@ -1,0 +1,52 @@
+<style>
+    .center {
+        text-align: center;
+    }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        var featured = $('.hero-featured');
+        var liberapay = $('.liberapay');
+
+        function prependTo(what, where) {
+            var childClass = what.attr('data-name') + '-child';
+            var copy = what.clone();
+            if (!where.find('.' + childClass)[0]) {
+                copy.addClass(childClass);
+                copy.attr('style', '');
+                copy.prependTo(where);
+            }
+        }
+
+        function reloadHero(delay) {
+            setTimeout(function() {
+                // Display featured only
+                if ($('.cover')[0]) {
+                    prependTo(featured, $('.wrapper-container'));
+                }
+
+                // Liberapay
+                prependTo(liberapay, $('.footer'));
+            }, delay || 1);
+        }
+
+        (function(history){
+            var pushState = history.pushState;
+            history.pushState = function(state) {
+                if (typeof history.onpushstate == "function") {
+                    history.onpushstate({state: state});
+                }
+                // ... whatever else you want to do
+                reloadHero(150);
+                // maybe call onhashchange e.handler
+                return pushState.apply(history, arguments);
+            }
+        })(window.history);
+
+        window.onpopstate = reloadHero;
+
+        reloadHero();
+    });
+</script>

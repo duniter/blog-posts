@@ -86,9 +86,17 @@ set_page() {
 }
 
 # Création et mise à jour des articles
-#for post in `ls posts/${LANGUAGE}/disabled/*.md`;
 for post in `ls posts/${LANGUAGE}/*.md posts/${LANGUAGE}/static/*.md posts/${LANGUAGE}/disabled/*.md`;
 do
     set_page ${post}
 done
 
+# Injection HTML/CSS/JS
+settings=`curl ${BLOG_URL}/ghost/api/v0.1/settings/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -s -k`
+headers=`cat injection/common/common_header.html injection/${LANGUAGE}/header/*.html | sed 's/"/\\\"/g;' | sed ':a;N;$!ba;s/\n/\\\n/g'`
+footers=`cat injection/common/common_footer.html injection/${LANGUAGE}/footer/*.html | sed 's/"/\\\"/g;' | sed ':a;N;$!ba;s/\n/\\\n/g'`
+res=`echo ${settings} |
+    jq "{ \"settings\": .settings | map(if .key == \"ghost_head\" then . + { \"value\": \"$headers\" } else . end), \"meta\": .meta }" |
+    jq "{ \"settings\": .settings | map(if .key == \"ghost_foot\" then . + { \"value\": \"$footers\" } else . end), \"meta\": .meta }"`
+echo "$res" > abc.json
+curl ${BLOG_URL}/ghost/api/v0.1/settings/ -H "Authorization: $TOKEN_TYPE $TOKEN_ACCESS" -H "Content-Type: application/json" -s -k -X PUT -d "$res" 1>/dev/null

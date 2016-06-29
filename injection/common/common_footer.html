@@ -1,0 +1,68 @@
+<!-- GitHub Button -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Twitter widget -->
+<script>window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function(f) {
+        t._e.push(f);
+    };
+
+    return t;
+}(document, "script", "twitter-wjs"));</script>
+
+<style>
+    /*** JAPPIX ***/
+
+    .jm_button {
+        height: 26px !important;
+    }
+
+    @media only screen and (max-width: 768px) {
+        .jm_position {
+            display: none;
+        }
+    }
+</style>
+<script type="text/javascript">
+    jQuery.ajaxSetup({ cache: true });
+
+    jQuery.getScript("https://static.jappix.com/server/get.php?l=en&t=js&g=mini.xml", function() {
+        JappixMini.launch({
+            connection: {
+                domain: "anonymous.jappix.com"
+            },
+
+            application: {
+                network: {
+                    autoconnect: false
+                },
+
+                interface: {
+                    showpane: true,
+                    animate: true
+                },
+
+                user: {
+                    random_nickname: false
+                },
+
+                groupchat: {
+                    open: ["duniter@muc.duniter.org"]
+                }
+            }
+        });
+    });
+</script>
+
+<div class="liberapay pull-right" data-name="liberapay" style="display: none">
+    <script src="https://liberapay.com/duniter/widgets/receiving.js"></script>
+</div>
