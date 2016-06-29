@@ -124,6 +124,21 @@ L'article sera alors disponible à l'adresse http://fr.duniter.org/bonne-annee/,
 
 Très important : votre fichier doit débuter par une ligne de titre, c'est-à-dire débuter par un `#` puis un message qui fera office de titre d'article. Par exemple, `# Bonne année !` est une ligne de titre valide.
 
+### Regardez les exemples !
+
+Si vous vous sentez perdus, prenez simplement les autres fichiers comme exemple ! Tous ceux présents, mis à part vos propre fichiers, sont déjà publiés sur le blog et donc parfaitement valides. Inspirez-vous-en !
+
+Voici, à titre informatif, le contenu du fichier d'exemple :
+
+    # Exemple
+
+    Ceci est un exemple d'article désactivé. Il ne sera jamais publié, tant qu'il reste dans ce dossier.
+
+    ## Règles importantes
+
+    * **Ne pas déplacer cet article dans le répertoire parent : cela publierait automatiquement l'article !**
+    * **Ne pas supprimer cet article : le répertoire courant ne dois jamais devenir vide !**
+
 ### Langue de votre article
 
 Les articles sont pour le moment rédigés *soit en français soit en anglais*. Selon la langue choisie, l'article sera publié :
