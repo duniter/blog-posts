@@ -66,3 +66,73 @@
 <div class="liberapay pull-right" data-name="liberapay" style="display: none">
     <script src="https://liberapay.com/duniter/widgets/receiving.js"></script>
 </div>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        var featured = $('.hero-featured');
+        var liberapay = $('.liberapay');
+
+        function prependTo(what, where) {
+            var childClass = what.attr('data-name') + '-child';
+            var copy = what.clone();
+            if (!where.find('.' + childClass)[0]) {
+                copy.addClass(childClass);
+                copy.attr('style', '');
+                copy.prependTo(where);
+            }
+        }
+
+        function reloadHero(delay) {
+            setTimeout(function() {
+                // Display featured only
+                if ($('.cover')[0]) {
+                    prependTo(featured, $('.wrapper-container'));
+                }
+
+                // Liberapay
+                prependTo(liberapay, $('.footer'));
+            }, delay || 1);
+        }
+
+        (function(history){
+            var pushState = history.pushState;
+            history.pushState = function(state) {
+                if (typeof history.onpushstate == "function") {
+                    history.onpushstate({state: state});
+                }
+                // ... whatever else you want to do
+                reloadHero(150);
+                // maybe call onhashchange e.handler
+                return pushState.apply(history, arguments);
+            }
+        })(window.history);
+
+        window.onpopstate = reloadHero;
+
+        reloadHero();
+
+        var menu = $('nav .drawer-container');
+        var newMenuItems = $('.duniter-menu');
+        menu.empty();
+        newMenuItems.attr('style', '');
+        newMenuItems.prependTo(menu);
+    });
+</script>
+
+<!-- Piwik -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//piwik.twiced.fr/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 6]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<noscript><p><img src="//piwik.twiced.fr/piwik.php?idsite=6" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
