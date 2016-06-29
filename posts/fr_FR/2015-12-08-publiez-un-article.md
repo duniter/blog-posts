@@ -225,7 +225,7 @@ Cela se fait simplement avec la commande :
 
     git pull blog master
 
-> Attention : il se peut que des conflits apparaissent si vous avez modifié des fichiers en même temps que d'autres personnes, et que ces modifications entrent en conflit. Dans ce cas vous aurez à arbitrer les conflits ! Voici un petit manuel pour vous en sortir dans un tel cas : http://alainericgauthier.com/git/gerer_les_conflits_de_fusion
+> Attention : il se peut que des conflits apparaissent si vous avez modifié des fichiers en même temps que d'autres personnes, et que ces modifications entrent en conflit. Dans ce cas vous aurez à arbitrer les conflits ! Voici [un petit manuel](http://alainericgauthier.com/git/gerer_les_conflits_de_fusion) pour vous en sortir dans un tel cas.
 
 ### Procéder comme d'habitude
 
