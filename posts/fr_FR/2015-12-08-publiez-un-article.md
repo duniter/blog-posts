@@ -237,10 +237,10 @@ Vous pouvez ensuite reprendre le processus de l'étape 3 à 5. C'est tout !
 
 Il s'agit d'un répertoire abritant des articles spéciaux : ceux-ci ne sont pas publiés à la suite des autres articles, mais forment des pages du blog à part entière. Nous les utilisons pour des pages comme :
 
-* la page de [Présentation](http://fr.duniter.org/presentation/)
-* la page de [Théorie](http://fr.duniter.org/theoretical)
-* la page de [Contact](http://fr.duniter.org/contact)
-* la page de [Contribution](http://fr.duniter.org/contribute)
+* [Présentation](http://fr.duniter.org/presentation/)
+* [Théorie](http://fr.duniter.org/theoretical)
+* [Contact](http://fr.duniter.org/contact)
+* [Contribution](http://fr.duniter.org/contribute)
 * ...
 
 Vous pouvez vous aussi y placer votre article, toutefois cela nécessite également que nous placions un lien pour y accéder par la suite.
@@ -249,7 +249,10 @@ Nous utiliserons notamment les pages statiques pour les tutoriels d'utilisation 
 
 ### Que signifie le répertoire `disabled` dans l'arborescence du blog ?
 
-Il s'agit des articles que l'on souhaite désactiver du blog s'ils ont été publiés, ou des articles en cours de rédaction mais déjà ajoutés au dépôt principal. Ces articles **ne sont donc pas visibles** sur le blog.
+Il s'agit d'un répertoire hébergeant des articles :
+
+* publiés sur le blog mais que l'on souhaite désactiver
+* en cours de rédaction mais déjà ajoutés au dépôt principal. Ces articles **ne sont donc pas visibles** sur le blog.
 
 Cela peut aussi nous aider à mettre temporairement hors ligne un article, un article alternatif est alors affiché (le contenu du fichier `2016-06-29-editing.md`).
 
