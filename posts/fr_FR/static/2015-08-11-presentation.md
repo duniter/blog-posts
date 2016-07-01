@@ -38,5 +38,5 @@ sachant que :
 Ces règles sont ce qui permet raisonnablement de s'assurer que la grande majorité de la Toile de Confiance soit composée d'individus vivants et uniques. Selon les paramètres de la monnaie, ces règles peuvent devenir aussi bien faciles que très difficiles à passer. Par exemple, si chaque membre doit être directement signé par chaque autre membre (distance = 1), alors il ne sera pas possible d'avoir de faux comptes (à moins que chacun soit d'accord avec cela). Mais une telle communauté sera forcément très réduite. A l'opposé, une distance de 5 signifierait qu'il existe un chemin de 5 liens entre toute paire de membre (de l'un vers l'autre). Cela serait une communauté plus grande et bien plus facile à réaliser, mais les faux comptes le seraient également. C'est là toute la difficulté de choisir les bons paramètres pour une taille maximale de communauté.
 ## Plus de détails ?
 
-Pour aller plus loin dans les concepts de uCoin, faites un tour du coté de la [Théorie](http://duniter.org/theoretical/).
+Pour aller plus loin dans les concepts de Duniter, faites un tour du coté de la [Théorie](http://duniter.org/theoretical/).
 

@@ -10,7 +10,7 @@ To deploy posts on a [Ghost blog](https://ghost.org/), you need to edit [publish
 
 ```
 # -------------- CONFIG TO BE CHANGED --------------
-TARGET=http://fr.ucoin.io
+TARGET=http://fr.duniter.org
 USER=someuser@blog.info
 PASSWORD=ultraSafePassword
 EXPORT_LANG=fr_FR

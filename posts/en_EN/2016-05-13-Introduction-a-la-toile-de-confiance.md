@@ -34,7 +34,7 @@ Any individual which is already a member is in capacity, thanks to a signed digi
 
 These certificates, given from ones to the others, makes a mesh called « **web of trust** ».  This web of trust is used by Duniter to determinate who is a member and who is not.
 
- <center>![Global Web of trust of the test money Meta Brozouf in June of 2015](https://moul.re/blog/data/medias/ucoin/wot_fmm5.png)</center>
+ <center>![Global Web of trust of the test money Meta Brozouf in June of 2015](https://moul.re/blog/data/medias/duniter/wot_fmm5.png)</center>
 
 
 

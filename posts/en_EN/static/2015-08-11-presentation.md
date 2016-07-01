@@ -38,5 +38,5 @@ given the facts that:
 These rules are what reasonably ensures very most of the WoT is composed of unique and living individuals. Depending on the currency parameters, these rules may become either very hard or very easy to pass. For example, if each member must be directly signed by every other member (distance = 1), then it won't be possible to have fake accounts (unless everyone agrees with that). But such a community would be small. In the opposite, a distance of 5 would mean it exists a path of 5 links between 2 members (from one to the other). This would be much easier, making a wider community, but making fake accounts easier too. This is all a matter of which parameters are used for which maximum community size.
 ## Want more details?
 
-To get deeper in uCoin's concepts, check the [Theoretical](http://duniter.org/theoretical/ "Theoretical") page.
+To get deeper in Duniter's concepts, check the [Theoretical](http://duniter.org/theoretical/ "Theoretical") page.
 

@@ -6,7 +6,7 @@
 You can help on project developement in many ways, depending your available time, energy and skills. Please read below requirements and possibilities. If you feel comfortable with one these profiles, do not hesitate to [contact us](/contact).
 #### As a backend developer
 
-You may participate to uCoin server's development, which is the core software implementing [UCP](https://github.com/ucoin-io/ucoin/blob/master/doc/Protocol.md). You will need some technical skills:
+You may participate to Duniter server's development, which is the core software implementing [UCP](https://github.com/duniter/ucoin/blob/master/doc/Protocol.md). You will need some technical skills:
 
 *   Node.js development involving:
  * JavaScript (ES5 code only, but ES6 ready with [Promises/A+](https://promisesaplus.com/))
@@ -16,7 +16,7 @@ You may participate to uCoin server's development, which is the core software im
  * understanding the basics of asymmetric cryptography
  * optionnaly know the [Ed25519](http://ed25519.cr.yp.to/) scheme
 
-If you are not affraid by those technologies, you can both start reading the Wiki to [Dive into uCoin code](https://github.com/ucoin-io/ucoin/wiki/Dive-into-the-code) and [contact us](/contact).
+If you are not affraid by those technologies, you can both start reading the Wiki to [Dive into Duniter code](https://github.com/duniter/ucoin/wiki/Dive-into-the-code) and [contact us](/contact).
 #### As a designer/frontend developer
 
 See this beautiful website? You want to improve it with new content, new design? Feel free to propose your skills, any help is welcome. What probably Duniter needs the most is: **a logo**.
