@@ -78,6 +78,7 @@
 <script type="text/javascript">
     $(document).ready(function() {
 
+        var initialButtonText = $('.downloadDuniter').text();
         var featured = $('.hero-featured');
         var liberapay = $('.liberapay');
 
@@ -125,6 +126,15 @@
         menu.empty();
         newMenuItems.attr('style', '');
         newMenuItems.prependTo(menu);
+
+        // Latest release
+        $.get( "https://api.github.com/repos/duniter/duniter/releases/latest", function( data ) {
+            if (data && data.tag_name) {
+                console.log(data.tag_name);
+                console.log(initialButtonText);
+                $('.downloadDuniter').text(initialButtonText + ' ' + data.tag_name);
+            }
+        });
     });
 </script>
 
