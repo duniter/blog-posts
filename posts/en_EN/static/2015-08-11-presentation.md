@@ -1,6 +1,6 @@
 # Presentation
 
-Duniter is a _cryptocurrency software_, which means it is a **sotfware** providing the ability to **create currencies**. Duniter is different from other cryptocurrency softwares you may know (Bitcoin, Litecoin, Peercoin, ...) for 2 main reasons : its **currency code** includes the concepts of a [Universal Dividend](https://en.wikipedia.org/wiki/Social_credit) and [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust); but also its **Blockchain code**, which is far more energy efficient, getting rid of the massive waste of energy introduced by Bitcoin.
+Duniter is a _cryptocurrency software_, which means it is a **software** providing the ability to **create currencies**. Duniter is different from other cryptocurrency softwares you may know (Bitcoin, Litecoin, Peercoin, ...) for 2 main reasons : its **currency code** includes the concepts of a [Universal Dividend](https://en.wikipedia.org/wiki/Social_credit) and [Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust); but also its **Blockchain code**, which is far more energy efficient, getting rid of the massive waste of energy introduced by Bitcoin.
 ## Outline
 
 > **Any member is co-producer of the money** without doing anything, just for being a part of the monetary Community.
