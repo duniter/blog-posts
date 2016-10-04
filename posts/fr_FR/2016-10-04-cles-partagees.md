@@ -1,3 +1,5 @@
+# Avoir plusieurs pairs partageant une même clé
+
 Petit billet technique, vu que Moul m'inspire le sujet dans [ce ticket](https://github.com/duniter/duniter/issues/608).
 
 > Attention, ce billet est de la technique pure et dure d'un protocole encore peu connu, ce post est donc pour les plus acharnés.
