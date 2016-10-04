@@ -153,6 +153,8 @@ Dans cet ultime cas, il ne consommera donc pas le stock de blockstamp commun à 
 
 Et bien sûr lorsque Na recevra Fab3, il réitère le processus de réception d'une fiche de pair. Tant que Na et Nb se voient mutuellement, seul l'un d'eux émet et consomme un blockstamp pour mettre à jour la fiche de pair commune, ce qui permet à ce petit réseau de cohabiter et exister de concert parmi le réseau Duniter, tout en partageant le même trousseau et pouvant donc calculer simultanément leur preuve suivante.
 
+Dans notre exemple, nous n'utilisons que 2 noeuds, mais vous pouvez bien entendu étendre le raisonnement à 3, 5, 10, 20, 50 nœuds ! Il y aura peut-être alors d'autres effets non mesurés pour le moment, mais un réseau de 10 nœuds partageant un même trousseau devrait parfaitement tourner.
+
 > A noter que, si les 2 pairs possèdent *strictement les mêmes données*, et jouent le "Nonce" de la preuve de travail à l'identique (par exemple s'ils ont un Nonce séquentiel à partir de zéro) alors ils calculeront exactement la même preuve, et donc ne tireront aucunement parti d'être plusieurs. Toutefois, étant donné qu'ils ont une fiche de pair indiquant clairement qu'ils sont plusieurs, ils doivent pouvoir s'adapter en conséquence.
 >
 > Ceci fait l'objet du ticket [#634](https://github.com/duniter/duniter/issues/634) fraîchement saisi alors que je rédige ce billet, me rendant compte du problème :)
