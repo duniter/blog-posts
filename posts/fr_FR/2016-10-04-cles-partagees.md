@@ -136,7 +136,7 @@ Une solution possible pour ces deux malheureux nœuds, est en réalité *de supp
 
 Concrètement, quand Na reçoit Fb1, il se dit « *Tiens, ce n'est pas de moi car, étant donné ma configuration, je n'aurais pas écrit cela. Je vais vérifier l'adresse inscrite sur cette fiche, il s'agit peut-être d'un de mes semblables.* ». Il établit le contact. S'il n'obtient aucune réponse de Nb, alors il considère qu'il s'agit d'une erreur et émet Fa2 comme précédemment pour corriger le tir auprès du réseau qui pourrait tenter de contacter Na via Fb1, ce qui ne fonctionnerait pas, puisque Na possède l'interface Na, pas Nb.
 
-Maiiiiis … si jamais Nb répond, alors Na est aux anges : il a trouvé un nœud partageant le même trousseau que lui ! Ce sont des alliés. Pour que chacun puisse être visible du réseau, et étant donné le problème du stock de blockstamp, *les 2 nœuds vont coopérer*. Pour Na qui vient de recevoir Fa1, il va alors émettre une fiche Fab2 qui, comme son code l'indique, *contiendra à la fois l'interface Na et l'interface Nb* :
+Maiiiiis … si jamais Nb répond, alors Na est aux anges : il a trouvé un nœud partageant le même trousseau que lui ! Ce sont des alliés. Pour que chacun puisse être visible du réseau, et étant donné le problème du stock de blockstamp, *les 2 nœuds vont coopérer*. Pour Na qui vient de recevoir Fb1, il va alors émettre une fiche Fab2 qui, comme son code l'indique, *contiendra à la fois l'interface Na et l'interface Nb* :
 
 ```
 [Fiche partielle Fab2]
