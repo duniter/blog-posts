@@ -10,7 +10,7 @@ Peut-être ne le savez-vous pas encore, mais il est *tout à fait possible d'avo
 
 En effet, vous avez simplement à inscrire les données de votre trousseau personnel dans l'écran dédié de chacun de vos nœuds pour réaliser cette opération :
 
-<img src="/uploads/default/original/2X/8/81af8fb7a40fb8278968dfc6c8bb98b8549e1618.png" width="690" height="393">
+<img src="https://forum.duniter.org/uploads/default/original/2X/8/81af8fb7a40fb8278968dfc6c8bb98b8549e1618.png" width="690" height="393">
 
 ### Quel intérêt ?
 
