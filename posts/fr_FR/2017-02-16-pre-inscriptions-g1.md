@@ -4,7 +4,7 @@ La monnaie ĞTest, visant à tester les logiciels Duniter, Cesium et Sakia dans 
 
 À cette occasion nous avons accueilli 67 membres, et une quinzaine de personnes est encore en attente pour participer. Par ailleurs ces membres ont réalisé 689 transactions et donné 431 certifications soit à des membres existants, soit à des nouveaux venus.
 
-<img src="/uploads/default/original/2X/c/cdb80d194572a2e6d7ec7638bff0fe18214ad736.jpg" width="548" height="173">
+<img src="https://forum.duniter.org/uploads/default/original/2X/c/cdb80d194572a2e6d7ec7638bff0fe18214ad736.jpg" width="548" height="173">
 
 Cette activité a permis de débusquer quelques bugs résiduels importants, mais aucun d'entre eux ne remettait véritablement en cause la stabilité et la maturité des logiciels pour une utilisation « réelle ». Nous en venons donc à la suite logique de cette expérience : si tous les feux sont au vert, et alors que ĞTest montre ses limites (nous les avions prévues), il convient de passer à l'étape supérieure.
 
@@ -215,7 +215,7 @@ De plus, nous pouvons encore y découvrir des bugs. Mais si son utilisation est 
 
 Le projet Duniter fait régulièrement un parallèle avec le lancement d'une fusée, ĞTest n'y a d'ailleurs pas échappé avec son logo de lancement : 
 
-<img src="/uploads/default/original/2X/d/d60778b9ece661e58ba40881e77edcbb518cec2d.jpg" width="250" height="250">
+<img src="https://forum.duniter.org/uploads/default/original/2X/d/d60778b9ece661e58ba40881e77edcbb518cec2d.jpg" width="250" height="250">
 
 De la même manière, Ğ1 fait allusion aux noms de fusées/lanceurs spatiaux : Ariane 1, Ares I, Saturn I, ... et ici, c'est le tout premier Ğ : c'est donc Ğ1.
 
