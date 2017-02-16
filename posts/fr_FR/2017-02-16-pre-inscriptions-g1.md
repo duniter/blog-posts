@@ -56,7 +56,7 @@ Nous avons prévu de la faire durer entre 2 et 3 semaines. Mais selon l'affluenc
 
 ## Pourquoi restreindre les pré-inscriptions ?
 
-Principalement pour deux raisons : avoir une toile *de confiance*, c'est-à-dire dont les identités sont connues et proches, et pour que les premiers utilisateurs soient d'abord que les plus motivés et autonomes.
+Principalement pour deux raisons : avoir une toile *de confiance*, c'est-à-dire dont les identités sont connues et proches, et pour que les premiers utilisateurs soient d'abord les plus motivés et autonomes.
 
 * Une toile initiale de confiance : car la monnaie sera créée par les membres, et uniquement eux, la qualité de la toile est très importante : débuter avec une toile bien connue de tous permettra d'étendre la confiance *ensuite* à de nouveaux venus, et sereinement.
 
