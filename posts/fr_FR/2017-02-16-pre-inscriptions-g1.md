@@ -29,6 +29,8 @@ Sommaire :
 * [Pourquoi le nom Ğ1 ?](#pourquoilenom1)
 * [Qui contrôle Ğ1 ?](#quicontrle1)
 
+> Vous pouvez commenter ce billet sur [ce sujet dédié du forum](https://forum.duniter.org/t/pre-inscriptions-a-g1/1827).
+
 ## Qui peut se pré-inscrire ?
 
 Les pré-inscriptions sont réservées à une partie des utilisateurs : **participants aux monnaies de test (TestNet, ĞTest) et aux Rencontres des Monnaies Libres**. Par ailleurs, 5 certifications sont nécessaires pour être reconnu dans la toile de confiance. Il faudra donc remplir ces 3 conditions pour avoir une pré-inscription valide.
