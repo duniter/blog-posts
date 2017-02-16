@@ -180,7 +180,7 @@ La blockchain réévalue la difficulté commune tous les `12 blocs`, afin d'atte
 
 De façon permanente, `33%` des membres calculateurs de blocs sont exclus de l'écriture de la blockchain.
 
-## Quel avantage à faire partie membre initiaux ?
+## Quel avantage à faire partie des membres initiaux ?
 
 Les membres initiaux ont deux avantages sur tous les autres lors du bloc#0, le bloc « genesis », celui qui fait tout démarrer : 
 
