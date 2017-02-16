@@ -68,7 +68,7 @@ Le but est d'avancer progressivement mais sûrement vers notre destination : une
 
 N'importe qui, dans le cadre des règles de la toile de confiance. Ce qui signifie : 
 
-* vous créer une identité sur la toile
+* créer une identité sur la toile
 * obtenir 5 certifications de cette identité par des membres actuels de la toile de confiance
 * ne pas être à plus de 5 pas des membres référents
 
