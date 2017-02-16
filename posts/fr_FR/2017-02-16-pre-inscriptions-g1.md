@@ -46,7 +46,7 @@ Les outils sont les mêmes :
 
 Pour ces pré-inscriptions, nous reprenons la même méthode que TestNet ou ĞTest : [reprenez votre demande du forum](https://forum.duniter.org) et mettez-là dans la catégorie « Currencies > Ğ1 », ou créez une nouvelle demande avec un lien vers l'ancienne.
 
-Vous n'êtes pas obligés d'utiliser cette méthode, toutefois nous la conseillons pour avoir un peu de visibilité et d'échanges entre les utilisateurs. Par ailleurs, nous vous **conseillons fortement de lire** [ce billet de recommandations](#) pour choisir vos identifiants secrets.
+Vous n'êtes pas obligés d'utiliser cette méthode, toutefois nous la conseillons pour avoir un peu de visibilité et d'échanges entre les utilisateurs. Par ailleurs, nous vous **conseillons fortement de lire** [ce billet de recommandations](https://forum.duniter.org/t/recommandations-de-securite-a-lire-avant-de-creer-votre-compte-g1/1829) pour choisir vos identifiants secrets.
 
 > Vos identifiants secrets de TestNet ou ĞTest pouvaient être faibles (votre@email // toto61), mais nous vous incitons fortement à en choisir de nouveaux et bien plus difficiles à deviner pour Ğ1.
 
