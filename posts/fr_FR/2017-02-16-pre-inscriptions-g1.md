@@ -60,7 +60,7 @@ Principalement pour deux raisons : avoir une toile *de confiance*, c'est-à-dire
 
 * Une toile initiale de confiance : car la monnaie sera créée par les membres, et uniquement eux, la qualité de la toile est très importante : débuter avec une toile bien connue de tous permettra d'étendre la confiance *ensuite* à de nouveaux venus, et sereinement.
 
-* Des utilisateurs autonomes : car nous aurons certainement de nombreuses problématiques techniques à gérer, il convient que ce soient les membres les plus avertis qui transmettent leurs connaissances plutôt que les développeurs, et que cette connaissance s'étende progressivement par la suite, d'un nouveau à l'autre. Ceux ayant participé à TestNet ou ĞTest sont donc tout indiqués !
+* Des utilisateurs autonomes : car nous aurons certainement de nombreuses problématiques techniques à gérer, il convient que ce soient les membres les plus avertis qui transmettent leurs connaissances plutôt que les développeurs, et que cette connaissance s'étende progressivement par la suite, d'un nouveau venu à l'autre. Ceux ayant participé à TestNet ou ĞTest sont donc tout indiqués !
 
 Le but est d'avancer progressivement mais sûrement vers notre destination : une monnaie qui tourne !
 
