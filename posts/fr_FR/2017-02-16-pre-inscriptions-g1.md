@@ -43,7 +43,7 @@ Si vous avez participé aux RML mais n'avez pas participé aux tests, il vous es
 
 Les outils sont les mêmes : 
 
-* [Cesium pour Ğ1](https://duniter.fr/g1)
+* [Cesium pour Ğ1](https://g1.duniter.fr)
 * [Sakia](http://sakia-wallet.org/) (version 0.30.8 ou supérieure) lancé avec l'option `--currency g1`.
 
 Pour ces pré-inscriptions, nous reprenons la même méthode que TestNet ou ĞTest : [reprenez votre demande du forum](https://forum.duniter.org) et mettez-là dans la catégorie « Currencies > Ğ1 », ou créez une nouvelle demande avec un lien vers l'ancienne.
