@@ -33,7 +33,7 @@ We can only observe that this objective, at the end of the experiment, was reach
 
 #### And even a first server packet!
 
-It's worth noting an active contributor of [YunoHost](http://yunohost.org) team also developed [a uCoin packet for YunoHost](https://github.com/ucoin-io/ucoin_ynh) greatly easing the installation of uCoin for self-hosting addicted people!
+It's worth noting an active contributor of [YunoHost](http://yunohost.org) team also developed [a uCoin packet for YunoHost](https://github.com/duniter/duniter_ynh) greatly easing the installation of uCoin for self-hosting addicted people!
 
 <center>[![](https://avatars1.githubusercontent.com/u/1519495?v=3&s=200)](http://yunohost.org/)</center>
 

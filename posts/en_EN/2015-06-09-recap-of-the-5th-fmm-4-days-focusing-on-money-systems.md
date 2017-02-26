@@ -14,7 +14,7 @@ The presentation was in French, but I took the time to translate it in case you 
 This day was an opportunity for client softwares to be presented. Let's see the two firsts: *CuteCoin* and *uCoinApps*.
 ### Cutecoin
 
-The morning was dedicated to [Cutecoin](https://github.com/ucoin-io/cutecoin), the very first client of uCoin software. We steped through:
+The morning was dedicated to [Cutecoin](https://github.com/duniter/sakia), the very first client of uCoin software. We steped through:
 
 *   Current state of the application
 *   Work to be done

@@ -14,7 +14,7 @@ La présentation était en Français, vous pouvez la retrouver ici : [Presentati
 Cette journée était une opportunité pour les logiciels client d'être présentés. Voyons les 2 premiers : *CuteCoin* et *uCoinApps*.
 ### CuteCoin
 
-La matinée était dédiée à [CuteCoin](https://github.com/ucoin-io/cutecoin), le tout premier client du logiciel uCoin. Nous avons vu :
+La matinée était dédiée à [CuteCoin](https://github.com/duniter/sakia), le tout premier client du logiciel uCoin. Nous avons vu :
 
 *   L'état actuel de l'application
 *   Le travail restant à effectuer

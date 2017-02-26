@@ -6,7 +6,7 @@ This repository contains all blog's posts, either it was written in french, engl
 
 ### Configuration
 
-To deploy posts on a [Ghost blog](https://ghost.org/), you need to edit [publish-to-blog.sh](https://github.com/ucoin-io/blog-posts/blob/master/publish-to-blog.sh) file to put the 4 following parameters:
+To deploy posts on a [Ghost blog](https://ghost.org/), you need to edit [publish-to-blog.sh](https://github.com/duniter/blog-posts/blob/master/publish-to-blog.sh) file to put the 4 following parameters:
 
 ```
 # -------------- CONFIG TO BE CHANGED --------------

@@ -33,7 +33,7 @@ Force est de constater que cet objectif, à la fin de l'expérimentation, a ét�
 
 #### Et même un premier paquet du serveur !
 
-Il est intéressant de noter qu'un contributeur actif de l'équipe [YunoHost](http://yunohost.org) a également développé [un paquet uCoin pour YunoHost](https://github.com/ucoin-io/ucoin_ynh) facilitant grandement l'installation de uCoin aux adeptes de l'auto-hébergement !
+Il est intéressant de noter qu'un contributeur actif de l'équipe [YunoHost](http://yunohost.org) a également développé [un paquet uCoin pour YunoHost](https://github.com/duniter/duniter_ynh) facilitant grandement l'installation de uCoin aux adeptes de l'auto-hébergement !
 
 <center>[![](https://avatars1.githubusercontent.com/u/1519495?v=3&s=200)](http://yunohost.org/)</center>
 
