@@ -106,7 +106,7 @@ Chaque membre de la monnaie produit quotidiennement et automatiquement une part 
 
 Ce DU démarrera à `10,00 Ğ1`, puis verra sa valeur quotidiennement augmentée pour tendre vers un taux de croissance de la masse monétaire globale `c = 0,026 %/jour`, soit environ `c = 10%/an`.
 
-> Dis autrement, la quantité totale de Ğ1 en circulation augmente de 10 % par an, et chaque utilisateur est co-créateur d'une partie de ces 10 %.
+> Dit autrement, la quantité totale de Ğ1 en circulation augmente de 10 % par an, et chaque utilisateur est co-créateur d'une partie de ces 10 %.
 
 **Cette augmentation est lente**. Le taux cible `c = 10%/an` ne sera pas atteint avant plusieurs années d'utilisation.
 
@@ -189,7 +189,7 @@ Les membres initiaux ont deux avantages sur tous les autres lors du bloc#0, le b
 * toutes leurs certifications sont inscrites immédiatement
 * la règle de distance ne leur est pas appliquée
 
-Bien sûr, ce « privilège » n'existe qu'à cet instant précis. Dès le bloc suivant, toutes les règles de la toile de confiance sont activées. Donc pour renouveler son identité, les membres devront passer la règle de distance. De même, ils devront attendre cinq jours pour passer leur prochaine certification.
+Bien sûr, ce « privilège » n'existe qu'à cet instant précis. Dès le bloc suivant, toutes les règles de la toile de confiance sont activées. Donc pour renouveler leur identité, les membres devront passer la règle de distance. De même, ils devront attendre cinq jours pour passer leur prochaine certification.
 
 À noter également : les membres initiaux sont les tout premiers utilisateurs à créer de la monnaie, le lendemain de la création du bloc#0.
 
