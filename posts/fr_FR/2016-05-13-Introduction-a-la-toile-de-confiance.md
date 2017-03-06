@@ -33,7 +33,7 @@ Rappelons l'objectif qui est de s'assurer que les individus ne puissent s'enregi
 
 Le système distingue deux types d'identités numériques : les *identités membres* et les *identités non-membres*.  Seules les identités membres sont co-créatrices de monnaie.
 
-Chaque individu déjà membre est en capacité, à l'aide d'un document numérique signé, de certifier des identités (membres et non membres).  Cela revient à délivrer des **certificats d'authenticité**.
+Chaque individu déjà membre est en capacité, à l'aide d'un document numérique signé, de certifier des identités (membres et non-encore-membres).  Cela revient à délivrer des **certificats d'authenticité**.
 
 Ces certificats, donnés les uns aux autres, forment un maillage appelé « **toile de confiance** ».  Cette toile de confiance est utilisé par Duniter pour déterminer qui est membre et qui ne l'est pas.
 
@@ -92,13 +92,14 @@ Un groupe d'individus membres pourrait s'entendre pour créer des identités fic
 Le nombre de certifications émises requises dépend du nombre de membres en cours.  N est le nombre de membres, Y(N) est le nombre de certifications émises requises pour que le membre soit considéré « point de contrôle ».
 
 ```
+Avec maxsteps = 5
 N         Y(N)
-10        2
-100       4
-1000      6
-10000     8
-100000    12
-1000000   20
+20        1
+200       2
+2000      4
+20000     7
+200000    11
+2000000   18
 ```
 
 Pour devenir membre, l'identité doit pouvoir joindre un certain pourcentage *xpercent* (Percent of distance) des points de contrôle avec un nombre de pas maximum nommé *maxsteps* (Max distance).
