@@ -44,7 +44,7 @@ Vous aurez alors *votre propre version* des articles du blog, dans *votre dépô
 
 Maintenant que vous possédez une copie dans votre dépôt GitHub, votre fork, il convient maintenant de récupérer une copie locale que vous pourrez modifier. C'est l'étape de *clonage*.
 
-La copie distante est en quelque sorte la référence pour *pour les autres utilisateurs* qui peuvent ainsi voir l'état de votre code. Mais vous, vous travaillez sur les fichiers présents sur votre PC.
+La copie distante est en quelque sorte la référence *pour les autres utilisateurs* qui peuvent ainsi voir l'état de votre code. Mais vous, vous travaillez sur les fichiers présents sur votre PC.
 
 ### Installer Git
 
@@ -153,7 +153,7 @@ Pour indiquer la langue choisie, il vous suffit de placer votre article dans un 
 
 Soyons clairs : nous ne publierons pas les articles écris en français sur le blog en version anglaise, et inversement.
 
-> Il pourrait existe davantage de langues en ajoutant de nouveaux dossiers : toutefois ne souhaitons pas déployer d'autres versions du blog pour le moment, 2 langues suffisent amplement pour le moment.
+> Il pourrait exister davantage de langues en ajoutant de nouveaux dossiers : toutefois nous ne souhaitons pas déployer d'autres versions du blog pour le moment, 2 langues suffisent amplement pour le moment.
 
 ## Quatrième étape : validez et publiez vos changements
 
