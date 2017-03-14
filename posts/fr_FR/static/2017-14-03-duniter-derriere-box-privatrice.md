@@ -26,7 +26,7 @@ UDP:
 Il faut que votre RPi soit allumé et connecté à votre livebox. La livebox lui attribut une adresse IP qu'il va falloir trouver.
 Accédez à votre livebox en tapant son adresse IP dans votre navigateur, par défaut c'est  http://192.168.1.1/ .
 Trouvez l'adresse IP de votre RPi sur l'interface de votre livebox. Dans l'image ci dessous, j'ai déjà identifié et renommé mon RPi en Yunohost (le votre n'aura sans doute pas encore ce nom là).
-<img src="/uploads/default/original/2X/3/3a78048fc4266a23b7c76ca86f3e9a1b7692fbcc.png" width="671" height="500">
+<img src="https://forum.duniter.org/uploads/default/original/2X/3/3a78048fc4266a23b7c76ca86f3e9a1b7692fbcc.png" width="671" height="500">
 [Vous pouvez aussi brancher un écran sur votre RPi, vous identifier et taper `ifconfig`.]
 
 Ensuite, pour accéder à l'interface administrateur de votre livebox, entrez le mot de passe qui, par défaut, se compose des 8 premiers caractères de la clé de sécurité (celle que vous utilisez pour le wifi).
@@ -37,8 +37,8 @@ Descendez sur "Baux DHCP statiques" et sélectionnez dans le menu déroulant vot
 Rendez-vous dans le second onglet, configuration avancée / NAT/PAT.
 Vous allez devoir entrer une règle pour chaque port.
 Donné un nom à cette règle, inscrivez le port qui correspond dans "port internet" et "port externe", puis sélectionnez votre RPi dans le menu déroulant "appareil" et cliquez enfin sur ajouter. Ça doit ressembler à ça : 
-<img src="/uploads/default/original/2X/3/35d9a8cbc8a6e556851d9a317397ec209177d62d.png" width="690" height="298">
-<img src="/uploads/default/original/2X/5/547cc9bd74d15c3cd3746ebbe70185241a4f0262.png" width="690" height="254">
+<img src="https://forum.duniter.org/uploads/default/original/2X/3/35d9a8cbc8a6e556851d9a317397ec209177d62d.png" width="690" height="298">
+<img src="https://forum.duniter.org/uploads/default/original/2X/5/547cc9bd74d15c3cd3746ebbe70185241a4f0262.png" width="690" height="254">
 
 Ensuite, à gauche, rendez-vous dans "Configuration pare-feu". Cochez "faible" et cliquez sur "enregistrer".
 
@@ -120,13 +120,13 @@ et y ajouter les lignes suivantes :
 
 Enfin, une fois que vous accédez à votre noeud Duniter via votre navigateur, à l'adresse duniter.votre.nom.de.domaine.fr /webui (/webui est important)
 rendez-vous dans Settings/Network et modifiez pour obtenir la configuration suivante (Vous pouvez choisir un autre local port) : 
-<img src="/uploads/default/original/2X/9/918defdec121545c51d28296db24637e48f1d85a.png" width="690" height="301">
+<img src="https://forum.duniter.org/uploads/default/original/2X/9/918defdec121545c51d28296db24637e48f1d85a.png" width="690" height="301">
 
 Cliquez sur "Save and Apply Network Settings"
 
 Retournez dans l'interface d'admin de votre livebox à "configuration avancée/NAT/PAT" (rappel, on accède normalement à la livebox par l'adresse http://192.168.1.1/ )
 et ajoutez le port local de Duniter à la liste précédente (cliquez sur "ajouter"):
-<img src="/uploads/default/original/2X/9/90ff1835ee8156451041464f11f2e653ff392747.png" width="690" height="35">
+<img src="https://forum.duniter.org/uploads/default/original/2X/9/90ff1835ee8156451041464f11f2e653ff392747.png" width="690" height="35">
 
 Redémarrez la livebox 
 et le RPi :
